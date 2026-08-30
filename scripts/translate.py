@@ -3,13 +3,16 @@ translate.py
 ------------
 Load the base model + your trained LoRA adapter and translate text.
 
+The languages come from `languages.json`, so this handles every direction the
+model was trained on -- one model, all pairs.
+
 Usage:
-  # Interactive REPL (asks for direction + text):
+  # Interactive REPL:
   python scripts/translate.py
 
-  # One-shot:
+  # One-shot (language names, or the short codes from languages.json):
   python scripts/translate.py --text "sino ang kasama mo?" --to Cuyonon
-  python scripts/translate.py --text "Ano imong aran?" --from Cuyonon --to Tagalog
+  python scripts/translate.py --text "Ano imong aran?" --from cyo --to en
 
   # Force specific terms to be kept EXACTLY as written (glossary override):
   python scripts/translate.py --text "Pumunta si Maria sa Cuyo." --keep "Maria,Cuyo"
@@ -25,7 +28,18 @@ import torch
 from peft import PeftModel
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
-from common import SYSTEM_PROMPT, build_user_turn  # identical prompt to training
+from common import SYSTEM_PROMPT, build_user_turn, load_config  # identical prompt to training
+
+
+def resolve_language(value, config):
+    """Accept either a language name ('Cuyonon') or its code ('cyo')."""
+    if value in config["name_to_code"]:
+        return value
+    if value in config["code_to_name"]:
+        return config["code_to_name"][value]
+    options = ", ".join(f"{lang['name']} ({lang['code']})"
+                        for lang in config["languages"])
+    raise SystemExit(f"Unknown language {value!r}. Configured: {options}")
 
 
 def load(base_model, adapter_dir):
@@ -81,15 +95,25 @@ def translate(model, tokenizer, text, src_lang, tgt_lang, keep_terms=None, max_n
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--config", default=None)
     ap.add_argument("--base-model", default="Qwen/Qwen2.5-1.5B-Instruct",
                     help="Must match the base model used in training.")
     ap.add_argument("--adapter-dir", default="outputs/translator-lora")
     ap.add_argument("--text", default=None)
-    ap.add_argument("--from", dest="src_lang", default="Tagalog")
-    ap.add_argument("--to", dest="tgt_lang", default="Cuyonon")
+    ap.add_argument("--from", dest="src_lang", default=None,
+                    help="Language name or code. Default: first in languages.json.")
+    ap.add_argument("--to", dest="tgt_lang", default=None,
+                    help="Language name or code. Default: second in languages.json.")
     ap.add_argument("--keep", default=None,
                     help="Comma-separated terms to keep EXACTLY as written (glossary).")
     args = ap.parse_args()
+
+    config = load_config(args.config)
+    names = config["language_names"]
+    src_lang = resolve_language(args.src_lang, config) if args.src_lang else names[0]
+    tgt_lang = resolve_language(args.tgt_lang, config) if args.tgt_lang else names[1]
+    if src_lang == tgt_lang:
+        raise SystemExit("--from and --to must differ.")
 
     keep_terms = [t.strip() for t in args.keep.split(",")] if args.keep else None
 
@@ -97,22 +121,38 @@ def main():
     model, tokenizer = load(args.base_model, args.adapter_dir)
 
     if args.text is not None:
-        print(translate(model, tokenizer, args.text, args.src_lang, args.tgt_lang, keep_terms))
+        print(translate(model, tokenizer, args.text, src_lang, tgt_lang, keep_terms))
         return
 
     # Interactive REPL
-    print("\nInteractive mode. Commands: 'tc' Tagalog->Cuyonon, 'ct' Cuyonon->Tagalog, 'quit'.\n")
-    src_lang, tgt_lang = "Tagalog", "Cuyonon"
+    codes = config["name_to_code"]
+    print("\nInteractive mode.")
+    print("  Switch direction by typing a pair, e.g. "
+          f"'{codes[names[0]]}>{codes[names[1]]}'. Available: "
+          + ", ".join(f"{n} ({codes[n]})" for n in names))
+    print("  'quit' to exit.\n")
     while True:
-        text = input(f"[{src_lang}->{tgt_lang}] > ").strip()
+        try:
+            text = input(f"[{src_lang}->{tgt_lang}] > ").strip()
+        except EOFError:
+            break
         low = text.lower()
         if low in ("quit", "exit"):
             break
-        if low == "tc":
-            src_lang, tgt_lang = "Tagalog", "Cuyonon"; continue
-        if low == "ct":
-            src_lang, tgt_lang = "Cuyonon", "Tagalog"; continue
         if not text:
+            continue
+        # A bare "<src>><tgt>" (or "<src>-<tgt>") switches direction.
+        for sep in (">", "-"):
+            if sep in text and len(text.split(sep)) == 2:
+                left, right = (p.strip() for p in text.split(sep))
+                if (left in codes or left in config["code_to_name"]) and \
+                        (right in codes or right in config["code_to_name"]):
+                    src_lang = resolve_language(left, config)
+                    tgt_lang = resolve_language(right, config)
+                    print(f"  -> now translating {src_lang} to {tgt_lang}")
+                    text = None
+                    break
+        if text is None:
             continue
         print("  =>", translate(model, tokenizer, text, src_lang, tgt_lang, keep_terms))
 

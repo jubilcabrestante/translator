@@ -160,6 +160,40 @@ the app's dictionary tier before the model is ever called, and copy rows (where
 Tagalog and Cuyonon are identical) score near 100 for free, so the blended `ALL`
 number flatters the model and moves very little when real quality changes.
 
+## Adding a language
+
+The language set lives in `languages.json` at the repo root; no script hardcodes
+Tagalog or Cuyonon. To add one:
+
+1. Add it to `languages` (`code` is what your app sends over HTTP, `name` is what
+   appears in the prompt the model is trained on).
+2. Add a `<sep>`-delimited file to `corpora`, naming its two columns.
+3. Re-run `prepare_data.py` and retrain.
+
+One model serves every direction: 2 languages give 2 directions, 3 give 6.
+
+**You do not need every pair.** A pair that is never stated directly is still
+emitted when both sides share a specific common translation in a third language.
+So `Tagalog<->English` data alone yields `English<->Cuyonon` training examples,
+in which the Cuyonon is still your original human text. `prepare_data.py` counts
+`direct` and `bridged` examples separately so you can see which is which; pass
+`--no-bridged` to emit only attested pairs.
+
+`scripts/bootstrap_english.py` generates the English column for you by
+translating the *Tagalog* side with the Claude API (`pip install anthropic`
+first — it is deliberately not in `requirements.txt`, so Colab does not install
+it). Only the high-resource side is machine-generated; the Cuyonon is never
+touched. Run `--dry-run` first for a cost estimate, and spot-check the output —
+about 60% of entries are isolated single words, where word sense is ambiguous
+(`bata` → child? young?), so that is where mistakes will be. It writes plain
+text: fix any line and re-run `prepare_data.py`.
+
+⚠️ Your Supabase `translations` table has a CHECK constraint allowing only `tl`
+and `cyo`. Widen it before serving a third code, or `record_translation()` will
+reject every row it caches. `GET /health` lists the codes the server accepts.
+
+---
+
 ### How the data is split, and why it matters
 
 `prepare_data.py` holds out **whole term clusters**, not individual examples. Both

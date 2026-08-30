@@ -1,0 +1,37 @@
+{
+  "_comment": [
+    "Single source of truth for which languages this translator handles and",
+    "where the parallel text lives. Every script reads this file, so adding a",
+    "language is a config change plus a data file -- no code edits.",
+    "",
+    "To add a language:",
+    "  1. Add it to `languages` (code = what the HTTP API and your app send;",
+    "     name = what appears in the prompt the model is trained on).",
+    "  2. Add a `<sep>`-delimited file to `corpora` naming its two columns.",
+    "  3. Re-run prepare_data.py and retrain.",
+    "",
+    "Pairs are emitted for every direction the data supports. With Tagalog,",
+    "Cuyonon and English that is 6 directions from one model. A pair that is",
+    "never stated directly (English<->Cuyonon below) is still generated when",
+    "both sides share a Tagalog term, so bridging one language into the set",
+    "does not require translating everything twice.",
+    "",
+    "NOTE: serve.py validates `code` against this file, but your Supabase",
+    "`translations` table has its own CHECK constraint that currently allows",
+    "only 'tl' and 'cyo'. Widen it before sending a new code to production."
+  ],
+
+  "languages": [
+    { "code": "tl",  "name": "Tagalog" },
+    { "code": "cyo", "name": "Cuyonon" },
+    { "code": "en",  "name": "English" }
+  ],
+
+  "corpora": [
+    { "file": "assets/taga-cuyo.txt", "columns": ["Tagalog", "Cuyonon"] },
+    { "file": "assets/cuyo-taga.txt", "columns": ["Cuyonon", "Tagalog"] },
+    { "file": "assets/taga-eng.txt",  "columns": ["Tagalog", "English"] }
+  ],
+
+  "entity_dir": "assets/entities"
+}

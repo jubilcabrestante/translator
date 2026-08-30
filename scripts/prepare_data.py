@@ -1,32 +1,45 @@
 """
 prepare_data.py
 ---------------
-Turn the raw `<sep>`-delimited parallel files in assets/ into an instruction-style
-(chat) dataset for supervised fine-tuning (SFT) of a decoder-only LLM.
+Turn the `<sep>`-delimited parallel files listed in `languages.json` into an
+instruction-style (chat) dataset for supervised fine-tuning (SFT) of a
+decoder-only LLM.
 
 What this does, and why:
 
-1. BIDIRECTIONAL: from a Tagalog<sep>Cuyonon pair it generates TWO training
-   examples -- one per direction -- so one model learns both ways.
+1. EVERY DIRECTION. The language set comes from languages.json, and a training
+   example is emitted for each ordered pair the data supports -- 2 directions
+   for 2 languages, 6 for 3 -- all served by one model.
 
-2. LEAK-FREE SPLIT: the two directions of a pair, and every synonym variant of
-   the same term, are kept on the SAME side of the train/val split. Splitting
-   individual examples instead (the old behaviour) put `kain->kaen` in train and
-   `kaen->kain` in val, so ~90% of the validation set was already memorised and
-   chrF measured almost nothing. Terms are grouped with a union-find over both
-   languages, so "Maganda." and all of {Goapa., Matinlo., Mapostora.} stay
-   together instead of straddling the split.
+2. BRIDGING. A pair never stated directly is still emitted when both sides
+   share a SPECIFIC common translation in a third language. Bootstrapping
+   English off the Tagalog column therefore yields English<->Cuyonon training
+   data without anyone translating Cuyonon to English by hand, and the Cuyonon
+   in those pairs is still the original human text.
 
-3. REBALANCING (train only): ~25% of the raw rows are pure copies (the Tagalog
-   and Cuyonon are identical) and ~60% are single words. Left alone, "echo the
-   input" becomes the most reinforced behaviour, and most of the model's
-   capacity goes to single words that the app's dictionary tier answers before
-   the model is ever called. `--max-copy-frac` caps copy rows and
-   `--multi-word-repeat` oversamples real sentences, which are the only rows
-   that teach grammar.
+   The shared-term test is deliberately narrower than "same cluster". Clusters
+   are connected components, and components chain through homographs -- Cuyonon
+   'Baba.' is Tagalog 'Bibig.' (mouth) while Tagalog 'Baba.' means chin, which
+   welds two unrelated concepts together. Component-based bridging produced 14
+   wrong pairs out of 447 on a test corpus; requiring one real shared term
+   produced 0 out of 433, losing none of the good ones. Bridged examples are
+   counted separately in the summary since they are inferred, not attested.
 
-4. ENTITY PASSTHROUGH: `assets/entities/` lists names, places and events that
-   are identical across the languages, emitted as "term -> itself" so the model
+3. LEAK-FREE SPLIT. A whole cluster goes to train or to val, never both. That
+   keeps every direction of a term, and every synonym variant of it, on one
+   side. Splitting individual examples instead (the original behaviour) put
+   `kain->kaen` in train and `kaen->kain` in val, leaving ~90% of the validation
+   set already memorised, so chrF measured recall rather than translation.
+
+4. REBALANCING (train only): ~25% of the raw rows are pure copies (the two
+   languages agree) and ~60% are single words. Left alone, "echo the input"
+   becomes the most reinforced behaviour, and most of the model's capacity goes
+   to single words that the app's dictionary tier answers before the model is
+   called. `--max-copy-frac` caps copy rows, `--multi-word-repeat` oversamples
+   the sentences that actually teach grammar.
+
+5. ENTITY PASSTHROUGH: `assets/entities/` lists names, places and events that
+   are identical in every language, emitted as "term -> itself" so the model
    keeps proper nouns unchanged. These are synthetic and guaranteed-correct, so
    they go to TRAIN ONLY -- scoring them in validation would inflate chrF.
 
@@ -35,22 +48,20 @@ Output: data/train.jsonl and data/val.jsonl, one chat example per line.
 
 import argparse
 import collections
+import itertools
 import json
 import os
 import random
 
-from common import build_messages  # shared system prompt lives here too
+from common import build_messages, load_config
 
 
-def read_pairs(path, swap=False):
-    """Read a `<sep>` file into (tagalog, cuyonon) tuples.
-
-    `swap=True` for a cuyo-taga file, whose columns are the other way round, so
-    every source normalises to the same (Tagalog, Cuyonon) orientation.
-    """
-    pairs = []
+def read_corpus(path, columns):
+    """Read a `<sep>` file into (lang_a, text_a, lang_b, text_b) links."""
+    lang_a, lang_b = columns
+    links = []
     if not os.path.exists(path):
-        return pairs
+        return links
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -60,16 +71,15 @@ def read_pairs(path, swap=False):
             if len(parts) != 2:
                 continue
             a, b = parts[0].strip(), parts[1].strip()
-            if not a or not b:
-                continue
-            pairs.append((b, a) if swap else (a, b))
-    return pairs
+            if a and b:
+                links.append((lang_a, a, lang_b, b))
+    return links
 
 
 def load_entities(entity_dir):
     """Load every non-comment line from every .txt file under entity_dir."""
     entities = []
-    if not os.path.isdir(entity_dir):
+    if not entity_dir or not os.path.isdir(entity_dir):
         return entities
     for fname in sorted(os.listdir(entity_dir)):
         if not fname.endswith(".txt"):
@@ -83,11 +93,11 @@ def load_entities(entity_dir):
 
 
 class UnionFind:
-    """Groups terms linked by at least one translation pair.
+    """Groups terms linked by at least one translation, across all languages.
 
-    Nodes are ('T', tagalog) and ('C', cuyonon). Uniting them per pair puts a
-    whole synonym cluster in one component, and a component is what the
-    train/val split moves around -- never a single example.
+    Nodes are (language, normalised text). Uniting the two sides of every link
+    puts a whole concept -- all its synonyms, in every language -- into one
+    component, and a component is what the train/val split moves around.
     """
 
     def __init__(self):
@@ -119,19 +129,19 @@ def is_copy(src_text, tgt_text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--data-file", default="assets/taga-cuyo.txt",
-                    help="Parallel file: <Tagalog><sep><Cuyonon> per line.")
-    ap.add_argument("--reverse-file", default="assets/cuyo-taga.txt",
-                    help="Parallel file with the columns swapped: "
-                         "<Cuyonon><sep><Tagalog>. Merged in and deduplicated; "
-                         "it holds pairs the main file is missing.")
-    ap.add_argument("--src-lang", default="Tagalog")
-    ap.add_argument("--tgt-lang", default="Cuyonon")
-    ap.add_argument("--entity-dir", default="assets/entities",
-                    help="Folder of .txt lists (names/places/events) kept unchanged.")
+    ap.add_argument("--config", default=None,
+                    help="Path to languages.json (default: repo root).")
     ap.add_argument("--out-dir", default="data")
     ap.add_argument("--val-frac", type=float, default=0.1,
-                    help="Fraction of term GROUPS held out for validation.")
+                    help="Fraction of concept CLUSTERS held out for validation.")
+    ap.add_argument("--max-variants", type=int, default=4,
+                    help="Cap on how many synonym variants per language are crossed "
+                         "when emitting a direction, so a large cluster cannot flood "
+                         "the dataset with one concept.")
+    ap.add_argument("--no-bridged", action="store_true",
+                    help="Only emit language pairs actually attested in a corpus file. "
+                         "Without this, pairs inferred through a shared third language "
+                         "are emitted too (that is how English<->Cuyonon is obtained).")
     ap.add_argument("--multi-word-repeat", type=int, default=2,
                     help="How many times to repeat each multi-word (sentence) training "
                          "example. These are the only rows that teach grammar and they "
@@ -142,72 +152,112 @@ def main():
                          "(input identical to output, including entity passthrough). "
                          "Raw data is ~25%% copies, which over-teaches echoing. "
                          "Use 1.0 to disable the cap.")
-    ap.add_argument("--no-both-directions", action="store_true",
-                    help="Only keep the forward direction (default is both).")
     ap.add_argument("--seed", type=int, default=42)
     args = ap.parse_args()
 
     random.seed(args.seed)
-    both = not args.no_both_directions
+    config = load_config(args.config)
 
-    # ---- 1. Load and merge every parallel source -----------------------------
-    main_pairs = list(dict.fromkeys(read_pairs(args.data_file)))
-    reverse_pairs = read_pairs(args.reverse_file, swap=True)
-    pairs = list(dict.fromkeys(main_pairs + reverse_pairs))   # order-preserving
-    print(f"Read {len(main_pairs)} unique pairs from {args.data_file}")
-    print(f"Read {len(reverse_pairs)} pairs from {args.reverse_file} "
-          f"-> {len(pairs) - len(main_pairs)} were new")
-    print(f"Unique pairs after merge: {len(pairs)}")
+    # ---- 1. Load every corpus -----------------------------------------------
+    links = []
+    for corpus in config["corpora"]:
+        found = read_corpus(corpus["path"], corpus["columns"])
+        state = f"{len(found)} links" if found else "MISSING - skipped"
+        print(f"  {corpus['file']:<28} {' <-> '.join(corpus['columns']):<22} {state}")
+        links.extend(found)
+    if not links:
+        raise SystemExit("No parallel data found. Check the `corpora` paths in "
+                         "languages.json.")
+    print(f"Loaded {len(links)} links across "
+          f"{len(config['language_names'])} languages: "
+          f"{', '.join(config['language_names'])}")
 
-    # ---- 2. Group linked terms so the split cannot leak ----------------------
+    # ---- 2. Build concept clusters ------------------------------------------
+    def node(lang, text):
+        return (lang, text.strip().lower())
+
     uf = UnionFind()
-    for tl, cyo in pairs:
-        uf.union(("T", tl.strip().lower()), ("C", cyo.strip().lower()))
+    adjacency = collections.defaultdict(set)   # node -> nodes it directly translates to
+    surface = {}                               # node -> original casing/spelling
+    for lang_a, a, lang_b, b in links:
+        na, nb = node(lang_a, a), node(lang_b, b)
+        uf.union(na, nb)
+        adjacency[na].add(nb)
+        adjacency[nb].add(na)
+        surface.setdefault(na, a)
+        surface.setdefault(nb, b)
 
-    groups = collections.defaultdict(list)
-    for tl, cyo in pairs:
-        groups[uf.find(("T", tl.strip().lower()))].append((tl, cyo))
+    clusters = collections.defaultdict(list)   # cluster key -> member nodes
+    for n in adjacency:
+        clusters[uf.find(n)].append(n)
 
-    group_keys = list(groups)
-    random.shuffle(group_keys)
-    biggest = max(len(v) for v in groups.values())
-    print(f"Grouped into {len(group_keys)} term clusters "
-          f"(largest holds {biggest} pairs)")
+    cluster_keys = list(clusters)
+    random.shuffle(cluster_keys)
+    print(f"Grouped into {len(cluster_keys)} concept clusters "
+          f"(largest holds {max(len(v) for v in clusters.values())} terms)")
 
-    # Fill validation until it holds ~val-frac of the PAIRS, whole groups only.
-    target_val_pairs = int(len(pairs) * args.val_frac)
-    val_groups, val_count = set(), 0
-    for key in group_keys:
-        if val_count >= target_val_pairs:
-            break
-        val_groups.add(key)
-        val_count += len(groups[key])
+    # ---- 3. Split whole clusters --------------------------------------------
+    target_val = int(len(cluster_keys) * args.val_frac)
+    val_keys = set(cluster_keys[:target_val])
+    train_keys = [k for k in cluster_keys if k not in val_keys]
 
-    train_pairs = [p for k in group_keys if k not in val_groups for p in groups[k]]
-    val_pairs = [p for k in group_keys if k in val_groups for p in groups[k]]
+    # ---- 4. Emit every supported direction ----------------------------------
+    counts = collections.Counter()
 
-    # ---- 3. Emit both directions, staying inside each split ------------------
-    def emit(pair_list):
+    def emit(keys):
+        """Emit a pair when the two terms translate each other directly, or when
+        they share a specific common translation in a third language.
+
+        The shared-neighbour test is deliberately narrower than "same cluster".
+        A cluster is a connected component, and components chain through
+        homographs: Cuyonon 'Baba.' is Tagalog 'Bibig.' (mouth) while Tagalog
+        'Baba.' means chin, which silently welds two unrelated concepts
+        together. Requiring an actual shared term keeps the bridge to one hop
+        and drops those.
+        """
         out = []
-        for tl, cyo in pair_list:
-            out.append(to_example(args.src_lang, tl, args.tgt_lang, cyo))
-            if both:
-                out.append(to_example(args.tgt_lang, cyo, args.src_lang, tl))
+        for key in keys:
+            members = clusters[key]
+            emitted = collections.Counter()     # (src node, tgt lang) -> count
+            for src_node, tgt_node in itertools.permutations(members, 2):
+                src_lang, tgt_lang = src_node[0], tgt_node[0]
+                if src_lang == tgt_lang:
+                    continue
+                if tgt_node in adjacency[src_node]:
+                    kind = "direct"
+                elif adjacency[src_node] & adjacency[tgt_node]:
+                    kind = "bridged"
+                else:
+                    continue
+                if kind == "bridged" and args.no_bridged:
+                    continue
+                if emitted[(src_node, tgt_lang)] >= args.max_variants:
+                    continue
+                emitted[(src_node, tgt_lang)] += 1
+                counts[(src_lang, tgt_lang, kind)] += 1
+                out.append(to_example(src_lang, surface[src_node],
+                                      tgt_lang, surface[tgt_node]))
         return out
 
-    train_examples = emit(train_pairs)
-    val_examples = emit(val_pairs)
+    train_examples = emit(train_keys)
+    val_examples = emit(val_keys)
 
-    # ---- 4. Entity passthrough -> TRAIN ONLY ---------------------------------
-    entities = load_entities(args.entity_dir)
+    print("\nExamples per direction (direct = stated in a file, "
+          "bridged = inferred via a shared language)")
+    for (src, tgt, kind), n in sorted(counts.items()):
+        print(f"  {src:<10} -> {tgt:<10} {kind:<8} {n:6d}")
+
+    # ---- 5. Entity passthrough -> TRAIN ONLY --------------------------------
+    entities = load_entities(config.get("entity_path"))
+    names = config["language_names"]
     for term in entities:
-        train_examples.append(to_example(args.src_lang, term, args.tgt_lang, term))
-        if both:
-            train_examples.append(to_example(args.tgt_lang, term, args.src_lang, term))
-    print(f"Loaded {len(entities)} entities from {args.entity_dir} -> "
-          f"{len(entities) * (2 if both else 1)} passthrough examples (train only)")
+        for src_lang, tgt_lang in itertools.permutations(names, 2):
+            train_examples.append(to_example(src_lang, term, tgt_lang, term))
+    print(f"\nLoaded {len(entities)} entities -> "
+          f"{len(entities) * len(names) * (len(names) - 1)} passthrough examples "
+          f"(train only)")
 
-    # ---- 5. Deduplicate exact examples within each split ---------------------
+    # ---- 6. Deduplicate exact examples within each split --------------------
     def dedupe(examples):
         seen, unique = set(), []
         for ex in examples:
@@ -220,7 +270,7 @@ def main():
     train_examples = dedupe(train_examples)
     val_examples = dedupe(val_examples)
 
-    # ---- 6. Rebalance the TRAINING set ---------------------------------------
+    # ---- 7. Rebalance the TRAINING set --------------------------------------
     # Validation is deliberately left alone: it has to keep the natural
     # distribution so scores stay comparable across runs. evaluate.py segments
     # it at scoring time instead.
@@ -238,9 +288,8 @@ def main():
         else:
             multis.append(ex)
 
-    raw_total = len(train_examples)
-    raw_copy_frac = len(copies) / max(1, raw_total)
-
+    raw_total = max(1, len(train_examples))
+    raw_copy_frac = len(copies) / raw_total
     kept_multis = multis * max(1, args.multi_word_repeat)
 
     # Cap copies as a share of the FINAL training size:
@@ -266,7 +315,7 @@ def main():
           f"({100 * len(kept_multis) / final:4.1f}%)  "
           f"[x{max(1, args.multi_word_repeat)}]")
 
-    # ---- 7. Write ------------------------------------------------------------
+    # ---- 8. Write ------------------------------------------------------------
     os.makedirs(args.out_dir, exist_ok=True)
     for name, split in [("train", train_examples), ("val", val_examples)]:
         out_path = os.path.join(args.out_dir, f"{name}.jsonl")

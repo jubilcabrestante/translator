@@ -6,8 +6,10 @@ TranslationRepository already calls (see learn_voca/lib/features/translator/data
 translation_repository.dart, `_callService`):
 
     POST /translate
-    body:     {"sentence": "...", "source_lang": "tl"|"cyo", "target_lang": "tl"|"cyo"}
+    body:     {"sentence": "...", "source_lang": <code>, "target_lang": <code>}
     response: {"translated_sentence": "..."}
+
+Valid codes are whatever `languages.json` defines (GET /health lists them).
 
 This is Tier 3 in the app's lookup chain (cache -> dictionary -> this service).
 Nothing on the Flutter/Supabase side needs to change; point app_config.translator
@@ -30,12 +32,19 @@ import uvicorn
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
+from common import load_config
 from translate import load, translate  # same load/translate used by the CLI + evaluate.py
 
-# DB check constraint (translations table) only allows these two codes.
-_CODE_TO_LANG = {"tl": "Tagalog", "cyo": "Cuyonon"}
+# Language codes come from languages.json, so adding a language does not require
+# touching this file.
+#
+# HEADS UP: your Supabase `translations` table has its own CHECK constraint that
+# allows only 'tl' and 'cyo'. Widen it before serving a third code, or
+# record_translation() will reject every row it tries to cache.
+_CONFIG = load_config()
+_CODE_TO_LANG = dict(_CONFIG["code_to_name"])
 
-app = FastAPI(title="Tagalog<->Cuyonon Translator")
+app = FastAPI(title=" <-> ".join(_CONFIG["language_names"]) + " Translator")
 _state = {"model": None, "tokenizer": None}
 
 
@@ -62,7 +71,11 @@ def _load_model():
 
 @app.get("/health")
 def health():
-    return {"status": "ok", "model_loaded": _state["model"] is not None}
+    return {
+        "status": "ok",
+        "model_loaded": _state["model"] is not None,
+        "languages": _CODE_TO_LANG,
+    }
 
 
 @app.post("/translate", response_model=TranslateResponse)
@@ -74,9 +87,10 @@ def do_translate(req: TranslateRequest):
     src_lang = _CODE_TO_LANG.get(req.source_lang)
     tgt_lang = _CODE_TO_LANG.get(req.target_lang)
     if src_lang is None or tgt_lang is None:
+        valid = "', '".join(sorted(_CODE_TO_LANG))
         raise HTTPException(
             status_code=400,
-            detail="source_lang/target_lang must be 'tl' or 'cyo'",
+            detail=f"source_lang/target_lang must be one of '{valid}'",
         )
     if src_lang == tgt_lang:
         raise HTTPException(status_code=400, detail="source_lang and target_lang must differ")

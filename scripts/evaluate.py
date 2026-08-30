@@ -9,8 +9,8 @@ languages -- exactly this situation. Higher = better, range 0-100.
 
 Three things this does that a plain corpus-level score does not:
 
-1. MULTI-REFERENCE. The data has ~400 Tagalog terms with several valid Cuyonon
-   answers ('Maganda.' -> Goapa. / Matinlo. / Mapostora.). Those are synonyms
+1. MULTI-REFERENCE. The data has ~400 sources with several valid answers
+   ('Maganda.' -> Goapa. / Matinlo. / Mapostora.). Those are synonyms
    and dialect variants, not errors, but single-reference scoring marks all but
    one wrong. Every valid target for a source is collected and passed to
    sacrebleu as parallel reference streams, so any of them counts as correct.
@@ -21,8 +21,11 @@ Three things this does that a plain corpus-level score does not:
    score that actually matters, so they are reported separately.
 
 3. ECHO RATE. The share of non-copy inputs the model just parroted back. Around
-   a quarter of the raw data is legitimately identical across both languages, so
-   a model can score respectably by learning to copy. Watch this stay low.
+   a quarter of the raw data is legitimately identical across languages, so a
+   model can score respectably by learning to copy. Watch this stay low.
+
+Directions are discovered from the data, so a 3-language model reports all six
+without this file knowing which languages exist.
 
 Usage:
   python scripts/evaluate.py
@@ -36,6 +39,7 @@ import json
 
 import sacrebleu
 
+from common import parse_user_turn
 from translate import load, translate   # reuse the loader + translate fn
 
 
@@ -45,17 +49,6 @@ def read_jsonl(path):
         for line in f:
             rows.append(json.loads(line))
     return rows
-
-
-def parse_direction(user_content):
-    """Recover 'Tagalog'/'Cuyonon' from a 'Translate from X to Y:' user message."""
-    # user_content looks like: "Translate from Tagalog to Cuyonon:\n\n<text>"
-    header = user_content.split(":", 1)[0]        # "Translate from Tagalog to Cuyonon"
-    words = header.split()
-    src_lang = words[words.index("from") + 1]
-    tgt_lang = words[words.index("to") + 1]
-    text = user_content.split("\n\n", 1)[1]
-    return src_lang, tgt_lang, text
 
 
 def to_reference_streams(reference_lists):
@@ -105,7 +98,7 @@ def main():
     references = collections.OrderedDict()
     for row in read_jsonl(args.val_file):
         msgs = {m["role"]: m["content"] for m in row["messages"]}
-        src_lang, tgt_lang, text = parse_direction(msgs["user"])
+        src_lang, tgt_lang, text = parse_user_turn(msgs["user"])
         references.setdefault((src_lang, tgt_lang, text), [])
         if msgs["assistant"] not in references[(src_lang, tgt_lang, text)]:
             references[(src_lang, tgt_lang, text)].append(msgs["assistant"])
@@ -138,9 +131,13 @@ def main():
         ("single-word (dictionary-ish)", [r for r in rows if len(r[2].split()) == 1]),
         ("non-copy only", [r for r in rows if not is_copy(r[2], r[3])]),
         ("copy rows (input == output)", [r for r in rows if is_copy(r[2], r[3])]),
-        ("Tagalog -> Cuyonon", [r for r in rows if r[0] == "Tagalog"]),
-        ("Cuyonon -> Tagalog", [r for r in rows if r[0] == "Cuyonon"]),
     ])
+
+    # One row per direction present in the data, so a 3-language model reports
+    # all 6 without this file knowing which languages exist.
+    for src_lang, tgt_lang in sorted({(r[0], r[1]) for r in rows}):
+        subset = [r for r in rows if r[0] == src_lang and r[1] == tgt_lang]
+        segments[f"{src_lang} -> {tgt_lang}"] = subset
 
     print("\n" + "=" * 74)
     print("RESULTS   (chrF is the primary metric; any valid synonym counts)")
