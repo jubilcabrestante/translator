@@ -113,8 +113,9 @@ handle this:
 1. **Instruction** — the system prompt (in `scripts/common.py`) tells the model to keep
    names, cities, brands, and event/holiday names unchanged.
 2. **Teaching by example** — `prepare_data.py` reads `assets/entities/*.txt` and generates
-   "term → itself" training examples (both directions). *Add your own* names/places to
-   those files, then re-run training.
+   "term → itself" training examples (both directions), **into the training split only** —
+   they are synthetic and guaranteed-correct, so scoring them would inflate chrF.
+   *Add your own* names/places to those files, then re-run training.
 3. **Glossary override** — force specific terms verbatim at translation time:
    `translate.py --text "..." --keep "Maria,Cuyo,Palawan"`
 
@@ -153,7 +154,33 @@ More data is the single biggest lever for accuracy. As it grows:
 | 100k+ | `--model Qwen/Qwen2.5-7B-Instruct` on Colab/A100 — genuinely strong quality |
 
 Keep re-running `evaluate.py` after each training run and watch **chrF** climb —
-that's your proof the model is getting more accurate.
+that's your proof the model is getting more accurate. Track the
+**`multi-word (sentences)`** row specifically: single words are mostly answered by
+the app's dictionary tier before the model is ever called, and copy rows (where
+Tagalog and Cuyonon are identical) score near 100 for free, so the blended `ALL`
+number flatters the model and moves very little when real quality changes.
+
+### How the data is split, and why it matters
+
+`prepare_data.py` holds out **whole term clusters**, not individual examples. Both
+directions of a pair, plus every synonym variant of a term, stay on the same side
+of the split. Splitting examples independently — the original behaviour — put
+`kain→kaen` in train and `kaen→kain` in val, leaving **89.7% of the validation set
+already memorised**; chrF then measured recall of the training data rather than
+translation ability. The split is now verified leak-free.
+
+The training set is also rebalanced, because the raw data is not shaped like real
+traffic:
+
+| | raw | after rebalancing |
+|---|---|---|
+| copy rows (input == output) | 24.3% | 10.0% (`--max-copy-frac`) |
+| single words | 27.5% | 27.5% |
+| multi-word sentences | 37.6% | 62.5% (`--multi-word-repeat 2`) |
+
+A quarter of the raw rows being copies meant "echo the input" was the single most
+reinforced behaviour. `evaluate.py` reports an **echo rate** so you can watch that
+stay low. Pass `--max-copy-frac 1.0 --multi-word-repeat 1` to restore the raw mix.
 
 Tips to grow data cheaply:
 - Add more parallel sentences to `assets/taga-cuyo.txt` (same `<sep>` format).
