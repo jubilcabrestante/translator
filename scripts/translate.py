@@ -19,6 +19,7 @@ one used during training.
 """
 
 import argparse
+import os
 
 import torch
 from peft import PeftModel
@@ -28,6 +29,14 @@ from common import SYSTEM_PROMPT, build_user_turn  # identical prompt to trainin
 
 
 def load(base_model, adapter_dir):
+    if not os.path.isdir(adapter_dir):
+        raise SystemExit(
+            f"Adapter dir '{adapter_dir}' not found locally. Train it first:\n"
+            f"    python scripts/train.py --output-dir {adapter_dir}\n"
+            f"or point --adapter-dir at an existing adapter. (A bare name is otherwise "
+            f"treated as a Hugging Face repo id, which is what caused the 401 you saw.)"
+        )
+
     use_bf16 = torch.cuda.is_available() and torch.cuda.is_bf16_supported()
     compute_dtype = torch.bfloat16 if use_bf16 else torch.float16
 

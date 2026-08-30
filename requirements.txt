@@ -8,7 +8,10 @@ trl==0.12.2
 peft==0.13.2
 datasets==3.1.0
 accelerate==1.1.1
-bitsandbytes==0.44.1     # 4-bit quantization; has native Windows wheels from 0.44+
+bitsandbytes==0.44.1     # 4-bit quantization; has native Windows wheels from 0.44+.
+                         # Colab NOTE: this build has no CUDA-12.8 binary and imports
+                         # triton.ops (removed in Triton 3.1), so `import bitsandbytes`
+                         # crashes there. On Colab run:  pip install -U bitsandbytes
 sacrebleu==2.4.3         # chrF / BLEU evaluation (good for short, low-resource text)
 fastapi==0.115.5         # scripts/serve.py — HTTP contract LearnVoca's app expects
 uvicorn==0.32.1          # ASGI server to run FastAPI
