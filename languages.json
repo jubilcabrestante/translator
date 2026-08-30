@@ -31,6 +31,14 @@
     "Re-download with the URLs in scripts/mine_english.py if corpora/ is empty;",
     "every corpus below is optional and is skipped when missing.",
     "",
+    "corpora/hf-tagalog-english comes from the Hugging Face dataset",
+    "rhyliieee/tagalog-filipino-english-translation (Apache-2.0, 105k rows),",
+    "converted by scripts/import_csv_corpus.py. Read its register before",
+    "leaning on it: the rows are instruction-style prompts whose Tagalog side",
+    "appears machine-translated, so it is a good source of general fluency but",
+    "a poor match for this project's short conversational phrases. A third of",
+    "the original rows were dropped for exceeding the sequence length.",
+    "",
     "NOTE: serve.py validates `code` against this file, but your Supabase",
     "`translations` table has its own CHECK constraint that currently allows",
     "only 'tl' and 'cyo'. Widen it before sending a new code to production."
@@ -60,7 +68,10 @@
     { "dir": "corpora/wikimedia",     "columns": ["English", "Tagalog"], "limit": 3000,
       "label": "OPUS wikimedia" },
     { "dir": "corpora/bible",         "columns": ["English", "Tagalog"], "limit": 3000,
-      "label": "OPUS bible-uedin" }
+      "label": "OPUS bible-uedin" },
+
+    { "dir": "corpora/hf-tagalog-english", "columns": ["Tagalog", "English"],
+      "limit": 10000, "label": "HF rhyliieee tl-en" }
   ],
 
   "entity_dir": "assets/entities"

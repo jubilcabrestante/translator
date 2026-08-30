@@ -246,6 +246,13 @@ def main():
                     src, english = line.split("<sep>", 1)
                     manual.setdefault(normalize(src), []).append(english.strip())
         print(f"  hand-translated: {len(manual)} entries (these take priority)")
+    elif args.manual:
+        # Silently mining without it would overwrite hand-corrected entries with
+        # whatever the dictionary happens to list, and the loss is invisible in
+        # the output. Say so loudly instead.
+        print(f"  WARNING: {args.manual} not found -- hand-translated entries will "
+              f"NOT be applied, and mined\n           values will replace any "
+              f"corrections previously made there.")
 
     opus_hits, per_corpus = mine_opus(args.opus_dir, wanted)
     if args.opus_dir:

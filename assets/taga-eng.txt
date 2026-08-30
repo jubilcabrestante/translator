@@ -676,6 +676,7 @@ Piring.<sep>Blindfold.
 Pisngi.<sep>Cheek.
 Pitaka.<sep>Wallet.
 Pitsel.<sep>Pitcher.
+Pormal.<sep>Formal.
 Premyo.<sep>Prize.
 Pulbos.<sep>Powdered.
 Pulido.<sep>Polished.
@@ -927,10 +928,12 @@ Tahimik.<sep>Quiet.
 Magdagdag.<sep>To add something.
 Kumuha.<sep>To get.
 Kunin.<sep>To take something by the hand.
+Kantiyaw.<sep>Banter.
 Kumpuni.<sep>Repair.
 Gobyerno.<sep>Government.
 Heneral.<sep>General.
 Maghapon.<sep>All day.
+Nalaman.<sep>Knew, became aware of, learned.
 Nerbiyos.<sep>Panic attack.
 Pabayaan.<sep>To neglect.
 Pulisya.<sep>The police.
@@ -1108,6 +1111,7 @@ Bahaghari.<sep>Rainbow.
 Sampu.<sep>Ten.
 Pakiusap!<sep>Request!
 Ligtas.<sep>Safe.
+Sumigaw.<sep>Shouted.
 Sumisip.<sep>A municipality of Basilan, Philippines.
 Paruparo.<sep>Butterfly.
 Sinigwelas.<sep>Red mombin.
