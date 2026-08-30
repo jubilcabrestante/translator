@@ -1,0 +1,508 @@
+# Tagalog<sep>English
+# Hand-translated entries take priority; the rest are mined from open
+# corpora by scripts/mine_english.py (Wiktionary CC-BY-SA; OPUS).
+# Not fully hand-checked -- fix any line and re-run scripts/prepare_data.py.
+Aso.<sep>Dog.
+Apo.<sep>Grandchild.
+Noo.<sep>Forehead.
+Abo.<sep>Ash.
+Ako.<sep>I.
+Ama.<sep>Father.
+Ang.<sep>The.
+Ano.<sep>What.
+Ehe.<sep>Urine.
+Iba.<sep>Other.
+Ina.<sep>Mother.
+Ipa.<sep>Rice husk.
+Iyo.<sep>Yours.
+Tae.<sep>Feces.
+Tao.<sep>Person.
+Ubi.<sep>Purple yam.
+Uod.<sep>Worm.
+Uwi.<sep>Go home.
+Uwak.<sep>Crow.
+Saan?<sep>Where?
+Paa.<sep>Foot.
+Halo.<sep>Monitor lizard.
+Hari.<sep>King.
+Hito.<sep>Catfish.
+Hiya.<sep>Shame.
+Huli.<sep>Last.
+Huni.<sep>Chirp.
+Look.<sep>Bay.
+Luha.<sep>Tear.
+Saha.<sep>Banana shoot.
+Ubo.<sep>Cough.
+Ulo.<sep>Head.
+Usa.<sep>Deer.
+Uso.<sep>Trend.
+Baha.<sep>Flood.
+Gabi.<sep>Night.
+Piga.<sep>Squeeze.
+Pusa.<sep>Cat.
+Baka.<sep>Cow.
+Pato.<sep>Duck.
+Isda.<sep>Fish.
+Anay.<sep>Termite.
+Atis.<sep>Sugar apple.
+Suha.<sep>Pomelo.
+Ubas.<sep>Grapes.
+Toge.<sep>Bean sprouts.
+Bata.<sep>Child.
+Lolo.<sep>Grandfather.
+Lola.<sep>Grandmother.
+Buhok.<sep>Hair.
+Mata.<sep>Eye.
+Dila.<sep>Tongue.
+Leeg.<sep>Neck.
+Siko.<sep>Elbow.
+Tuhod.<sep>Knee.
+Kuko.<sep>Nail.
+Apdo.<sep>Bile.
+Dugo.<sep>Blood.
+Utak.<sep>Brain.
+Atay.<sep>Liver.
+Baga.<sep>Lung.
+Ugat.<sep>Vein.
+Buli.<sep>Buttocks.
+Abot.<sep>Reach.
+Akin.<sep>Mine.
+Agaw.<sep>Snatch.
+Alon.<sep>Wave.
+Amin.<sep>Ours.
+Anim.<sep>Six.
+Anod.<sep>Drift.
+Apat.<sep>Four.
+Apog.<sep>Lime.
+Aral.<sep>Study.
+Arko.<sep>Arch.
+Asin.<sep>Salt.
+Atin.<sep>Ours.
+Atip.<sep>Roof.
+Awat.<sep>Stop a fight.
+Balo.<sep>Widow.
+Bara.<sep>Clog.
+Basa.<sep>Read.
+Baso.<sep>Glass.
+Bato.<sep>Stone.
+Baul.<sep>Trunk.
+Bayo.<sep>Pound.
+Belo.<sep>Veil.
+Biko.<sep>Rice cake.
+Bota.<sep>Boots.
+Boto.<sep>Vote.
+Bubo.<sep>Spill.
+Buko.<sep>Young coconut.
+Bula.<sep>Bubble.
+Buyu.<sep>Betel leaf.
+Kain.<sep>Eat.
+Kama.<sep>Bed.
+Kami.<sep>We.
+Kape.<sep>Coffee.
+Kawa.<sep>Cauldron.
+Kayo.<sep>You.
+Keso.<sep>Cheese.
+Krus.<sep>Cross.
+Kura.<sep>Parish priest.
+Kuta.<sep>Fort.
+Daan.<sep>Road.
+Daig.<sep>Defeat.
+Dala.<sep>Bring.
+Dali.<sep>Quick.
+Dati.<sep>Before.
+Dama.<sep>Feel.
+Dapa.<sep>Lie face down.
+Daya.<sep>Cheat.
+Dipa.<sep>Arm span.
+Duda.<sep>Doubt.
+Dura.<sep>Spit.
+Edad.<sep>Age.
+Gaan.<sep>Lightness.
+Gaas.<sep>Kerosene.
+Gana.<sep>Appetite.
+Gata.<sep>Coconut milk.
+Giba.<sep>Demolish.
+Giik.<sep>Thresh.
+Giya.<sep>Guide.
+Gulo.<sep>Trouble.
+Ikaw.<sep>You.
+Ihip.<sep>Blow.
+Init.<sep>Heat.
+Inom.<sep>Drink.
+Inyo.<sep>Yours.
+Ipit.<sep>Clip.
+Isa.<sep>One.
+Isip.<sep>Think.
+Laso.<sep>Ribbon.
+Lata.<sep>Can.
+Layo.<sep>Distance.
+Libo.<sep>Thousand.
+Liko.<sep>Turn.
+Liha.<sep>Sandpaper.
+Lila.<sep>Violet.
+Lima.<sep>Five.
+Lisa.<sep>Nit.
+Losa.<sep>Porcelain.
+Lugi.<sep>Loss.
+Luno.<sep>Molt.
+Luya.<sep>Ginger.
+Mais.<sep>Corn.
+Mani.<sep>Peanut.
+Mapa.<sep>Map.
+Masa.<sep>Dough.
+Maya.<sep>Sparrow.
+Mayo.<sep>May.
+Mina.<sep>Mine.
+Misa.<sep>Mass.
+Moda.<sep>Fashion.
+Mumo.<sep>Rice crumbs.
+Nana.<sep>Pus.
+Okra.<sep>Okra.
+Oras.<sep>Hour.
+Pagi.<sep>Stingray.
+Paha.<sep>Belt.
+Pait.<sep>Bitterness.
+Pala.<sep>Shovel.
+Palo.<sep>Whip.
+Pana.<sep>Arrow.
+Papa.<sep>Father.
+Para.<sep>For.
+Pari.<sep>Priest.
+Paos.<sep>Hoarse.
+Pasa.<sep>Bruise.
+Paso.<sep>Burn.
+Pati.<sep>Including.
+Pero.<sep>But.
+Piko.<sep>Pickaxe.
+Pili.<sep>Choose.
+Pino.<sep>Fine.
+Piso.<sep>Peso.
+Pito.<sep>Seven.
+Piye.<sep>Foot.
+Puga.<sep>Escape.
+Pugo.<sep>Quail.
+Pula.<sep>Red.
+Pulo.<sep>Island.
+Puno.<sep>Tree.
+Puro.<sep>Pure.
+Puso.<sep>Heart.
+Puta.<sep>Whore.
+Puti.<sep>White.
+Puto.<sep>Rice cake.
+Ripa.<sep>Raffle.
+Rota.<sep>Route.
+Saba.<sep>Cooking banana.
+Sako.<sep>Sack.
+Sala.<sep>Living room.
+Sapa.<sep>Creek.
+Saya.<sep>Skirt.
+Sebo.<sep>Tallow.
+Sige.<sep>Go ahead.
+Sine.<sep>Movie.
+Sino.<sep>Who.
+Sipa.<sep>Kick.
+Suki.<sep>Regular customer.
+Sugo.<sep>Envoy.
+Sulo.<sep>Torch.
+Suot.<sep>Wear.
+Taal.<sep>Native.
+Taas.<sep>Height.
+Taga.<sep>From.
+Tama.<sep>Correct.
+Tari.<sep>Cockspur.
+Tasa.<sep>Cup.
+Tela.<sep>Cloth.
+Tono.<sep>Tone.
+Tore.<sep>Tower.
+Toyo.<sep>Soy sauce.
+Trak.<sep>Truck.
+Tren.<sep>Train.
+Tsaa.<sep>Tea.
+Tubo.<sep>Sugarcane.
+Tuka.<sep>Peck.
+Tuli.<sep>Circumcision.
+Tulo.<sep>Drip.
+Tuod.<sep>Stump.
+Turo.<sep>Teach.
+Uban.<sep>Gray hair.
+Ubod.<sep>Palm heart.
+Ubos.<sep>Used up.
+Uhah.<sep>Thirsty.
+Uhag.<sep>Ear of grain.
+Ulan.<sep>Rain.
+Unat.<sep>Straighten.
+Araw.<sep>Sun.
+Halik.<sep>Kiss.
+Sisiw.<sep>Chick.
+Unggoy.<sep>Monkey.
+Kahil.<sep>Citrus fruit.
+Mukha.<sep>Face.
+Bibig.<sep>Mouth.
+Labi.<sep>Lips.
+Tiyan.<sep>Stomach.
+Buto.<sep>Bone.
+Laman.<sep>Flesh.
+Asim.<sep>Sourness.
+Baon.<sep>Provisions.
+Bihag.<sep>Captive.
+Biik.<sep>Piglet.
+Binhi.<sep>Seed.
+Kahoy.<sep>Wood.
+Kayas.<sep>Whittle.
+Kupas.<sep>Faded.
+Dahon.<sep>Leaf.
+Diyos.<sep>God.
+Diyan.<sep>There.
+Gubat.<sep>Forest.
+Hakot.<sep>Haul.
+Halos.<sep>Almost.
+Hapdi.<sep>Sting.
+Hapon.<sep>Afternoon.
+Hatid.<sep>Deliver.
+Hayop.<sep>Animal.
+Higa.<sep>Lie down.
+Higop.<sep>Sip.
+Hindi.<sep>No.
+Ngayon.<sep>Now.
+Ngayon.<sep>"Now...".
+Atras.<sep>Stand back.
+Berde.<sep>It's not always going to be green, but in the examples I'm doing, our thousand cans are green.
+Lipad.<sep>Flight.
+Lista.<sep>Notes.
+Lugar.<sep>Places.
+Patay.<sep>Dead.
+Plano.<sep>Plan.
+Plano.<sep>Elevation and Plan.
+Radyo.<sep>Radio stations.
+Radyo.<sep>Owned and operated.
+Reyna.<sep>Queen.
+Ronda.<sep>Ronda, Spain.
+Sulat.<sep>Work.
+Suman.<sep>Panyalam Piyoso Suman Tiyula itum.
+Sunog.<sep>Fire.
+Tsart.<sep>Charts.
+Bagyo.<sep>Typhoon.
+Saging.<sep>Liver spread List of banana dishes List of condiments List of sauces Mushroom ketchup UFC (food brand) Bananas.
+Balita.<sep>GMA Drama. ↑ "Divided Family". GMA Drama. ↑ "Daisy Tatoo". Facebook. ↑ "Happy Birthday, Archie!".
+Bilang.<sep>New Caledonia Oceania 284,060 Collectivity of France with special status 3. Aosta Valley Europe 128,000 Autonomous region of Italy 4. Saint-Martin North America 37,264 Overseas collectivity of France 5.
+Karera.<sep>Career.
+Karera.<sep>Race.
+Ensayo.<sep>Practice.
+Pareho.<sep>Both.
+Sayang.<sep>Wasted.
+Senado.<sep>Senate.
+Sulong.<sep>Come forward.
+Talaga.<sep>Really.
+Bituin.<sep>Star polygon.
+Upo.<sep>Sit.
+Kastila.<sep>Spanish.
+Larawan.<sep>Images.
+Malamig.<sep>It's cold.
+Medalya.<sep>Nobel Prize Medals.
+Ospital.<sep>University Hospitals.
+Pagkain.<sep>Diet and feeding.
+Pamilya.<sep>Family background.
+Pamilya.<sep>Family.
+Patawad.<sep>I'm sorry.
+Plastik.<sep>Plastic.
+Resulta.<sep>Contest overview.
+Resulta.<sep>Aftermath.
+Salamat.<sep>Thanks.
+Salamat.<sep>Thank you.
+Tinapay.<sep>Bread.
+Wala.<sep>Seth, what happened? _BAR_ - Nothin'.
+Wala.<sep>Nothing.
+Ano Pa?<sep>What else?
+Kabataan.<sep>Early life.
+Kolehiyo.<sep>College.
+Kumbento.<sep>Convent.
+Delikado.<sep>Dangerous.
+Galapong.<sep>Batter.
+Pantalan.<sep>Port.
+Pantalan.<sep>Harbour.
+Pelikula.<sep>Film.
+Pelikula.<sep>Films.
+Pulitiko.<sep>Politician.
+Halimbawa.<sep>For example.
+Halimbawa.<sep>Example.
+Kamatayan.<sep>Death.
+Kamatayan.<sep>Later life.
+Katapusan.<sep>Aftermath.
+Munisipyo.<sep>Town hall.
+Munisipyo.<sep>Townhall.
+Relihiyon.<sep>Religious tendencies.
+Relihiyon.<sep>Religion.
+Estudyante.<sep>Students.
+Estudyante.<sep>Perfect.
+Para saan?<sep>What for?
+Gusto ko ito.<sep>I like that.
+Magandang gabi.<sep>Good evening.
+Magandang gabi.<sep>Good night.
+Paalam!<sep>Goodbye!
+Paalam!<sep>Bye!
+Magandang hapon.<sep>Good afternoon.
+Pasok!<sep>Come inside!
+Magkano ito?<sep>How much is this?
+Saan ka pupunta?<sep>Where are you going?
+Maraming salamat.<sep>Thank you very much.
+Maraming salamat.<sep>So the pedigree really does help us try to figure out modes of inheritance. &gt;&gt; Thank you so much. &gt;&gt; Thank you very much for the opportunity.
+Magandang umaga.<sep>Good morning.
+Ano ang pangalan mo?<sep>What is your name?
+Magkano iyan?<sep>How much is that?
+Walang anuman.<sep>You're welcome.
+Kailan ka darating?<sep>When will you arrive?
+Bakit ka umiiyak?<sep>Why are you crying?
+Paumanhin.<sep>I hope I --.
+Paumanhin.<sep>Sorry.
+Nagugutom na ako.<sep>I am hungry.
+Anong pangalan mo?<sep>What is your name?
+Anong pangalan mo?<sep>What's your name?
+Nasaan ka na?<sep>Where are you now?
+Maraming Salamat po!<sep>Thank you very much!
+Anong oras na po?<sep>What time is it?
+Mga ilang libro meron ka?<sep>About how many books do you own?
+Lahat ng halaman ay kailangan ang tubig at ilaw.<sep>All plants need water and light.
+Mahal na hobi ang astronomiya.<sep>Astronomy is an expensive hobby.
+Marunong ka bang magbilang hanggang sampu sa Intsik?<sep>Can you count to ten in Chinese?
+Mayroon ka bang reklamo?<sep>Do you have a complaint to make?
+Marunong ka bang magmahjong?<sep>Do you know how to play mahjong?
+Nagiging mahal ang lahat.<sep>Everything is getting expensive.
+Palagi siyang humihiram ng pera sa akin.<sep>He always borrows money from me.
+Tinanong niya kung gusto ko ang math.<sep>He asked me whether I like math.
+Nanakaw 'yong kotse niya kahapon.<sep>He had his car stolen yesterday.
+Talagang gusto niya ang siyensiyang piksiyon.<sep>He really likes science fiction.
+Isang tasa pa ng kape?<sep>How about another cup of coffee?
+Paano sinusulat ang apelyido mo?<sep>How do you write your last name?
+Gaano kalayo ang sumusunod na estasyon ng gasolina?<sep>How far is the next gas station?
+Ilang wika ang marunong ka?<sep>How many languages do you speak?
+Sawa na akong kausapin siya.<sep>I am fed up with talking to her.
+Di ko na mainom ang serbesa.<sep>I can't drink the beer any more.
+Talagang hindi ako sumasang-ayon dito.<sep>I disagree with this completely.
+Isip kong hindi nila naintindihan.<sep>I don't believe they understood.
+Ayaw kong kumain.<sep>I don't feel like eating at all.
+Di ko alam kung nasa akin pa.<sep>I don't know if I still have it.
+Natutuwa ako sa litrato.<sep>I found the picture interesting.
+Araw-araw nagbubus akong papuntang eskuwela.<sep>I go to school every day by bus.
+Nagpapalaki ako ng mga orkid sa grinhaws ko.<sep>I grow orchids in my greenhouse.
+Sana'y hindi nila ako niloloko.<sep>I hope they aren't deceiving me.
+Mga sampung talaba yata ang kinain niya.<sep>I think he ate about 10 oysters.
+Akala ko tatay ni Mary si Tom.<sep>I thought Tom was Mary's father.
+Gusto kong bumalik doon ngayong gabi.<sep>I want to go back there tonight.
+Sabihin mo sa akin ang katotohanan.<sep>I want you to tell me the truth.
+Basta tatapusin ko itong trabaho.<sep>I will finish this work somehow.
+Di ko yun mahuhulaan.<sep>I would never have guessed that.
+Kung ako ikaw, mag-aaral ako nang mas mabuti.<sep>If I were you, I'd study harder.
+Mas mahirap ba ang Ingles kaysa sa Hapon?<sep>Is English harder than Japanese?
+Kakain ba rito, o magteteyk-awt?<sep>Is that to eat here or take out?
+Hindi kailangang maging ganito.<sep>It doesn't have to be like this.
+Umiinit nang umiinit na.<sep>It is getting warmer and warmer.
+Kumukulimlim na sa labas.<sep>It's getting darker outside now.
+Mas komplikado kaysa sa iyan.<sep>It's more complicated than that.
+Kagabi, nakinig ako sa radyo.<sep>Last night, I listened to radio.
+Inom tayo o kung ano man.<sep>Let's have a drink or something.
+Galing Osaka ang lolo ko.<sep>My grandfather comes from Osaka.
+Naglalaro ng manika ang kapatid ko.<sep>My sister is playing with dolls.
+Tinanong niya kung ba't siya umiiyak.<sep>She asked him why he was crying.
+May pusa siya. Puti ang pusa niya.<sep>She has a cat. The cat is white.
+Kilalang-kilala niya ang nanay mo.<sep>She knows your mother very well.
+Sabi niya'y gusto niya ng mga bulaklak.<sep>She says that she likes flowers.
+Nag-taxi siya papunta sa museo.<sep>She took the taxi to the museum.
+Nagsulat siya ng libro tungkol sa ibon.<sep>She wrote a book about the bird.
+Sabihin mo samin kung anong alam mo tungkol kay Tom.<sep>Tell us what you know about Tom.
+Nag-iisang nakatira ang matandang babae.<sep>That old woman lives by herself.
+Puno ang bote na ng tubig.<sep>The bottle is filled with water.
+Tumakbo 'yong bata nang nakita niya ako.<sep>The boy ran away when he saw me.
+Malaki ang populasyon ng siyudad.<sep>The city has a large population.
+Nililibot ng Buwan ang Tiyera.<sep>The moon moves around the earth.
+Tunay pala yung tsismis.<sep>The rumor turned out to be true.
+Hindi makagupit iyong gunting.<sep>The scissors won't cut anything.
+May mabigat na buwis sa tabako.<sep>There is a heavy tax on tobacco.
+Wala silang tsoys kundi umalis.<sep>They had no choice but to leave.
+Namatay si Tom nang may hawak na baril.<sep>Tom died with a gun in his hand.
+May rason si Tomas na magalit.<sep>Tom had every right to be angry.
+Kailangan ni Tomas ng oras para mag-isip.<sep>Tom needs time to think it over.
+Ang mga magulang ni Tom ay si John at Mary.<sep>Tom's parents are John and Mary.
+Dalawang pamilya ang nakatira sa bahay na iyon.<sep>Two families live in that house.
+Nag-aalmusal kami sa loob ng gusali.<sep>We are eating breakfast indoors.
+Hindi ka imbitado sa party.<sep>We were not invited to the party.
+Hindi ka imbitado sa party.<sep>We weren't invited to the party.
+Bakit mo sila pinaparusahan?<sep>What are you punishing them for?
+Saan mo gagamitin ang perang 'to?<sep>What do you need this money for?
+Nasaan na yung iba pang files?<sep>Where are the rest of the files?
+Anong klaseng musika ang gusto mo?<sep>Which kind of music do you like?
+Ba't mo pininturahang pula ang bangkito?<sep>Why did you paint the bench red?
+Bakit di mo sabihin sa kanya nang diretso?<sep>Why don't you tell her directly?
+Di ka ba sasama sa aming pagdaldalan?<sep>Won't you join our conversation?
+Talagang maaga ka nitong umaga.<sep>You are very early this morning.
+Wala ako sa bayan nang ilang araw.<sep>I'll be out of town for a few days.
+Mas mahirap kaysa sa iniisip mo.<sep>It's more difficult than you think.
+Nag-martsa ang mga puwersang Hapones patungo sa Burma.<sep>Japanese forces marched into Burma.
+Magbidyugeym tayo o kaya ano.<sep>Lets play video games or something.
+Sa taglamig, nag-iiski ang pamilya ko.<sep>My family goes skiing every winter.
+Limang taon na ang nakalipas nang namatay ang lolo ko.<sep>My grandfather died five years ago.
+Di kaya ng pondo natin ang ganyang luho.<sep>Our budget won't allow that luxury.
+Ang aming kapalaran ay depende sa iyong mga desisyon.<sep>Our fate depends on your decisions.
+Kailangan sa kombustiyon ang oksiheno.<sep>Oxygen is necessary for combustion.
+Nangongopyang malimit ng pagsasalita ng tao ang loro.<sep>Parrots often imitate human speech.
+Talagang mas gusto ko ang buhay sa bukid.<sep>Rural life appeals to me very much.
+Kating-kati na siyang ibunyag ang sikreto.<sep>She was burning to tell the secret.
+Maraming likas na kayamanan ang bansang ito.<sep>That country has natural resources.
+Umiibig sa kapatid kong babae ang lalaking iyon.<sep>That man is in love with my sister.
+Bagay ang kurbatang iyan sa baro mo.<sep>That tie goes well with your shirt.
+Yun talaga ang gusto nyang mangyari.<sep>That was exactly what she intended.
+Masyadong mahirap ang takdang-aralin.<sep>The assignment was too much for me.
+Kumakanta ang mga ibon sa mga puno.<sep>The birds are singing in the trees.
+Nakikinig sa radyo ang bata nang nakahiga.<sep>The boy lay listening to the radio.
+Ipadadala nang koreo ang sulat bukas.<sep>The letter will be mailed tomorrow.
+Nasa malaking kuwarto ang parti.<sep>The party took place in a big room.
+Mahal talaga ang presyo ng awtong ito.<sep>The price of this car is very high.
+Naging palaka ang prinsipe.<sep>The prince was changed into a frog.
+Ang mga nagbiyabiyahe'y galing sa iba-ibang bansa.<sep>The travelers came from many lands.
+Maganda ang panahon nang buong linggo.<sep>The weather has been nice all week.
+Naniniwala sila sa buhay pagkatapos ng kamatayan.<sep>They believe in a life after death.
+Pangalawang beses ko itong lumipad.<sep>This is the second time I've flown.
+Umarte si Tomas na parang di niya kilala si Maria.<sep>Tom acted like he didn't know Mary.
+Magtatatlumpo na si Tom sa Oktubre.<sep>Tom is turning thirty this October.
+Nanghihingi kami ng paumanhin dahil sa masamang panahon.<sep>We are sorry about the bad weather.
+Maihahatid namin ang produkto sa Hunyo.<sep>We can deliver the product in June.
+Bawat kitang walang sikreto.<sep>We have no secrets from each other.
+Inabot namin ang tuktok ng bundok.<sep>We reached the top of the mountain.
+Dapat nagtagpo tayo nang alas siyete.<sep>We were to have met there at seven.
+Dapat nagtagpo kami nang alas siyete.<sep>We were to have met there at seven.
+Itutuloy natin ang miting pagkatapos ng tsa.<sep>We'll resume the meeting after tea.
+Anong klaseng tsokolate ang gusto mo?<sep>What kind of chocolate do you like?
+Anong oras ka natutulog?<sep>What time do you usually go to bed?
+Anumang gawin mo, huwag mong kalimutan ito.<sep>Whatever you do, don't forget this.
+Kailan at saan ang handa ng almusal?<sep>When and where is breakfast served?
+Alin ang gusto mo, kanin o tinapay?<sep>Which do you prefer, rice or bread?
+Nang nagbabasa, nakatulog ako.<sep>While I was reading, I fell asleep.
+Sasama ka ba sa akin sa tindahan?<sep>Will you come with me to the store?
+Tapos na ang taglamig; tagsibol na.<sep>Winter is over and spring has come.
+Bakit hindi ka pumasok para sa tasang tsa?<sep>Won't you come in for a cup of tea?
+Kahapon, napakinig ko ang isang magandang kanta.<sep>Yesterday I heard a beautiful song.
+Dapat palaging gawin ang tama.<sep>You should always do what is right.
+Pagka nagsasalita ka, akala mo'y alam lahat.<sep>You talk as if you knew everything.
+Mas sikat ka sa akala mo.<sep>You're more popular than you think.
+Ang bahay ay hindi lang basta gusali.<sep>A home is more than a mere building.
+Ang larawan ay kahalaga nang libong salita.<sep>A picture is worth a thousand words.
+Pagkatapos ng almusal, naglakad kami.<sep>After breakfast, we went for a walk.
+Tinatanggap ang lahat ng mahalagang kredit kard.<sep>All major credit cards are accepted.
+Lahat kami'y tumanaw sa bintana.<sep>All of us looked through the window.
+Kahit na umuulan, lumabas ako.<sep>Although it was raining, I went out.
+Handa na ba kayong pasimulan ang inyong biyahe?<sep>Are you ready to start your journey?
+Ang alam ko ay hindi siya nag-asawa.<sep>As far as I know, he is not married.
+Meron ka bang gusto pang sabihin?<sep>Do you have anything further to say?
+Tinuturo ang Ingles sa karamihang bayan.<sep>English is taught in most countries.
+Natapos mo na ba ang nobela?<sep>Have you finished reading the novel?
+Mukhang siya ang may gawa nito.<sep>He is apparently responsible for it.
+Gusto niyang pumunta sa Amerika.<sep>He wants to go to the United States.
+Hindi naitago ng mukha niya ang tunay niyang nararamdaman.<sep>Her face betrayed her real feelings.
+Kumain ka na ba?<sep>Have you eaten yet?
+Ang mahal naman!<sep>So expensive!
+May sakit ako.<sep>'I am sick.".
+May sakit ako.<sep>I'm sick.
+Hindi ako sigurado.<sep>I'm not really sure.
+Hindi ako sigurado.<sep>I'm not certain.
+Pakiulit nga po.<sep>Say that again.
+Magandang Umaga!<sep>Good morning!
+Magandang Hapon!<sep>Good afternoon!

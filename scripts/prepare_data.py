@@ -48,6 +48,7 @@ Output: data/train.jsonl and data/val.jsonl, one chat example per line.
 
 import argparse
 import collections
+import glob
 import itertools
 import json
 import os
@@ -57,7 +58,7 @@ from common import build_messages, load_config
 
 
 def read_corpus(path, columns):
-    """Read a `<sep>` file into (lang_a, text_a, lang_b, text_b) links."""
+    """Read a `<sep>`-delimited file into (lang_a, text_a, lang_b, text_b) links."""
     lang_a, lang_b = columns
     links = []
     if not os.path.exists(path):
@@ -71,6 +72,28 @@ def read_corpus(path, columns):
             if len(parts) != 2:
                 continue
             a, b = parts[0].strip(), parts[1].strip()
+            if a and b:
+                links.append((lang_a, a, lang_b, b))
+    return links
+
+
+def read_moses(path, columns, codes):
+    """Read an OPUS Moses folder: one plain-text file per language, line-aligned.
+
+    This is the shape the `moses` zips on https://opus.nlpl.eu unpack to, so a
+    downloaded corpus can be pointed at directly with no conversion step.
+    """
+    lang_a, lang_b = columns
+    links = []
+    if not os.path.isdir(path):
+        return links
+    a_files = glob.glob(os.path.join(path, f"*.{codes[lang_a]}"))
+    b_files = glob.glob(os.path.join(path, f"*.{codes[lang_b]}"))
+    if not a_files or not b_files:
+        return links
+    with open(a_files[0], encoding="utf-8", errors="replace") as fa,             open(b_files[0], encoding="utf-8", errors="replace") as fb:
+        for a, b in zip(fa, fb):
+            a, b = a.strip(), b.strip()
             if a and b:
                 links.append((lang_a, a, lang_b, b))
     return links
@@ -134,6 +157,14 @@ def main():
     ap.add_argument("--out-dir", default="data")
     ap.add_argument("--val-frac", type=float, default=0.1,
                     help="Fraction of concept CLUSTERS held out for validation.")
+    ap.add_argument("--max-per-direction", type=int, default=None,
+                    help="Cap on training examples per ordered language pair. This is "
+                         "the balance lever when a big reference corpus is in play: "
+                         "the base model already knows English and Tagalog from "
+                         "pretraining and needs far less data for that pair, whereas "
+                         "it has never seen Cuyonon. Without a cap, ~1M subtitle "
+                         "pairs make Cuyonon a rounding error and the model forgets "
+                         "it. Validation is capped proportionally.")
     ap.add_argument("--max-variants", type=int, default=4,
                     help="Cap on how many synonym variants per language are crossed "
                          "when emitting a direction, so a large cluster cannot flood "
@@ -160,10 +191,23 @@ def main():
 
     # ---- 1. Load every corpus -----------------------------------------------
     links = []
+    codes = config["name_to_code"]
     for corpus in config["corpora"]:
-        found = read_corpus(corpus["path"], corpus["columns"])
-        state = f"{len(found)} links" if found else "MISSING - skipped"
-        print(f"  {corpus['file']:<28} {' <-> '.join(corpus['columns']):<22} {state}")
+        if corpus["format"] == "moses":
+            found = read_moses(corpus["path"], corpus["columns"], codes)
+        else:
+            found = read_corpus(corpus["path"], corpus["columns"])
+        # A reference corpus can dwarf the hand-built data -- OpenSubtitles alone
+        # is ~1.07M pairs against ~2.6k Cuyonon. Sample it down here, before
+        # clustering, so it neither swamps the training mix nor blows up memory.
+        limit = corpus.get("limit")
+        note = ""
+        if limit and len(found) > limit:
+            random.shuffle(found)
+            found = found[:limit]
+            note = f" (sampled from {limit}+)"
+        state = f"{len(found)} links{note}" if found else "MISSING - skipped"
+        print(f"  {corpus['label']:<28} {' <-> '.join(corpus['columns']):<22} {state}")
         links.extend(found)
     if not links:
         raise SystemExit("No parallel data found. Check the `corpora` paths in "
@@ -204,7 +248,7 @@ def main():
     # ---- 4. Emit every supported direction ----------------------------------
     counts = collections.Counter()
 
-    def emit(keys):
+    def emit(keys, per_direction_cap=None):
         """Emit a pair when the two terms translate each other directly, or when
         they share a specific common translation in a third language.
 
@@ -216,6 +260,7 @@ def main():
         and drops those.
         """
         out = []
+        direction_totals = collections.Counter()
         for key in keys:
             members = clusters[key]
             emitted = collections.Counter()     # (src node, tgt lang) -> count
@@ -233,14 +278,22 @@ def main():
                     continue
                 if emitted[(src_node, tgt_lang)] >= args.max_variants:
                     continue
+                if (per_direction_cap is not None
+                        and direction_totals[(src_lang, tgt_lang)] >= per_direction_cap):
+                    continue
                 emitted[(src_node, tgt_lang)] += 1
+                direction_totals[(src_lang, tgt_lang)] += 1
                 counts[(src_lang, tgt_lang, kind)] += 1
                 out.append(to_example(src_lang, surface[src_node],
                                       tgt_lang, surface[tgt_node]))
         return out
 
-    train_examples = emit(train_keys)
-    val_examples = emit(val_keys)
+    cap = args.max_per_direction
+    train_examples = emit(train_keys, cap)
+    # Keep validation proportional to the same val_frac, so a capped direction is
+    # still scored on a held-out slice of comparable size.
+    val_examples = emit(val_keys,
+                        max(1, int(cap * args.val_frac)) if cap else None)
 
     print("\nExamples per direction (direct = stated in a file, "
           "bridged = inferred via a shared language)")

@@ -61,11 +61,18 @@ def load_config(path=None):
 
     known = set(config["language_names"])
     for corpus in config.get("corpora", []):
-        corpus["path"] = os.path.join(_REPO_ROOT, corpus["file"])
+        # `file` = one <sep>-delimited file; `dir` = a Moses folder holding one
+        # plain-text file per language, which is what OPUS downloads unpack to.
+        source = corpus.get("file") or corpus.get("dir")
+        if not source:
+            raise ValueError(f"{path}: every corpus needs a `file` or a `dir`")
+        corpus["path"] = os.path.join(_REPO_ROOT, source)
+        corpus.setdefault("format", "moses" if corpus.get("dir") else "sep")
+        corpus.setdefault("label", source)
         unknown = [c for c in corpus["columns"] if c not in known]
         if unknown:
             raise ValueError(
-                f"{path}: corpus {corpus['file']} names {unknown}, which is not in "
+                f"{path}: corpus {corpus['label']} names {unknown}, which is not in "
                 f"`languages`. Add it there first."
             )
 

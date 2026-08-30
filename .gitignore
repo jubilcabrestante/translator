@@ -24,3 +24,6 @@ env/
 # OS / editor cruft
 .DS_Store
 Thumbs.db
+
+# Downloaded reference corpora (large, licences vary per corpus)
+/corpora/
