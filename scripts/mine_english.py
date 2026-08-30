@@ -46,6 +46,34 @@ from common import load_config
 # or parenthetical reads badly as a target sentence, so keep only short ones.
 MAX_GLOSS_WORDS = 6
 
+# Subtitle lines carry formatting that is not language: music notation around
+# sung lines, speaker labels, bracketed stage directions. Training on those
+# teaches the model to emit them.
+_JUNK = ("♪", "♫", "♩", "#", "[", "]", "<", ">", "_")
+
+
+def clean_candidate(text):
+    """Reject or tidy one mined English string; return None to drop it."""
+    text = text.strip().strip('"“”')
+    if not text or any(ch in text for ch in _JUNK):
+        return None
+    # "forehead; brow" is a definition list. Keep the first sense only, so the
+    # model learns one translation rather than a menu of them.
+    for sep in (";", " / "):
+        if sep in text:
+            text = text.split(sep)[0].strip()
+    text = re.sub(r"\s*\([^)]*\)", "", text).strip()      # drop usage notes
+    if not text or len(text.split()) > 12:
+        return None
+    # Wiktionary cross-references describe a word instead of translating it.
+    lowered = text.lower()
+    if lowered.startswith(("alternative form", "alternative spelling",
+                           "obsolete form", "synonym of", "plural of",
+                           "a chinese", "a surname", "a male given",
+                           "a female given")):
+        return None
+    return text
+
 
 def normalize(text):
     """Loose key for matching: case, spacing and edge punctuation are ignored."""
@@ -57,7 +85,12 @@ def read_target_terms(config, language="Tagalog"):
     """Every distinct surface form of `language` across the configured corpora."""
     terms, seen = [], set()
     for corpus in config["corpora"]:
-        if language not in corpus["columns"] or not os.path.exists(corpus["path"]):
+        # Only the hand-built <sep> assets define what needs covering. The large
+        # OPUS reference corpora are Moses directories and are not entries we owe
+        # a translation for -- they are the material we translate FROM.
+        if corpus.get("format", "sep") != "sep":
+            continue
+        if language not in corpus["columns"] or not os.path.isfile(corpus["path"]):
             continue
         column = corpus["columns"].index(language)
         with open(corpus["path"], "r", encoding="utf-8") as f:
@@ -98,8 +131,10 @@ def mine_opus(opus_dir, wanted):
                 open(en_files[0], encoding="utf-8", errors="replace") as fe:
             for tl_line, en_line in zip(ft, fe):
                 key = normalize(tl_line)
-                english = en_line.strip()
-                if key and english and key in wanted:
+                if not key or key not in wanted:
+                    continue
+                english = clean_candidate(en_line)
+                if english:
                     found[key].append((english, name))
                     per_corpus[name] += 1
     return found, per_corpus
@@ -134,6 +169,7 @@ def mine_wiktionary(path, wanted):
                     if not gloss or gloss.startswith("("):
                         continue
                     gloss = re.sub(r"\s*\([^)]*\)", "", gloss).strip()
+                    gloss = clean_candidate(gloss)
                     if gloss and len(gloss.split()) <= MAX_GLOSS_WORDS:
                         if gloss not in [g for g, _ in found[key]]:
                             found[key].append((gloss, "wiktionary"))
@@ -171,10 +207,17 @@ def main():
     ap.add_argument("--wiktionary", default=None,
                     help="kaikki.org .jsonl extract for the source language.")
     ap.add_argument("--out", default="assets/taga-eng.txt")
+    ap.add_argument("--manual", default="assets/taga-eng-manual.txt",
+                    help="Hand-translated <sep> file that always wins over mined data. "
+                         "Regenerating the output can therefore never lose hand work; "
+                         "put corrections there rather than in --out.")
     ap.add_argument("--source-lang", default="Tagalog")
-    ap.add_argument("--max-per-term", type=int, default=2,
-                    help="Cap on how many English variants to record per entry. "
-                         "prepare_data.py treats them as alternative references.")
+    ap.add_argument("--max-per-term", type=int, default=1,
+                    help="How many English variants to record per entry. Defaults "
+                         "to 1: a second mined sense is usually a DIFFERENT word's "
+                         "meaning ('Aso.' -> Dog. + smoke.), and a wrong alternative "
+                         "is worse than no alternative. Raise it only if you intend "
+                         "to hand-check the extras.")
     ap.add_argument("--report-only", action="store_true",
                     help="Print coverage and write nothing.")
     args = ap.parse_args()
@@ -187,6 +230,16 @@ def main():
     terms = read_target_terms(config, args.source_lang)
     wanted = {normalize(t) for t in terms}
     print(f"{args.source_lang} entries to cover: {len(terms)}")
+
+    manual = {}
+    if args.manual and os.path.exists(args.manual):
+        with open(args.manual, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "<sep>" in line:
+                    src, english = line.split("<sep>", 1)
+                    manual.setdefault(normalize(src), []).append(english.strip())
+        print(f"  hand-translated: {len(manual)} entries (these take priority)")
 
     opus_hits, per_corpus = mine_opus(args.opus_dir, wanted)
     if args.opus_dir:
@@ -204,10 +257,13 @@ def main():
     for term in terms:
         key = normalize(term)
         single = len(term.split()) == 1
+        # Hand work first, then the source better suited to the entry's shape:
+        # a dictionary for lone words, a sentence corpus for phrases.
+        hand = [(e, "manual") for e in manual.get(key, [])]
         primary = wik_hits.get(key, []) if single else opus_hits.get(key, [])
         backup = opus_hits.get(key, []) if single else wik_hits.get(key, [])
         merged, seen = [], set()
-        for english, source in list(primary) + list(backup):
+        for english, source in hand + list(primary) + list(backup):
             styled = match_style(term, english)
             if styled and styled.lower() not in seen:
                 seen.add(styled.lower())

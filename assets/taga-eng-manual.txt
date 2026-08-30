@@ -1,0 +1,264 @@
+# Tagalog<sep>English -- HAND-TRANSLATED, highest priority.
+# scripts/mine_english.py always prefers these over anything it mines,
+# so regenerating assets/taga-eng.txt can never overwrite this work.
+# Add corrections here rather than editing taga-eng.txt directly.
+Abo.<sep>Ash.
+Abot.<sep>Reach.
+Agaw.<sep>Snatch.
+Akin.<sep>Mine.
+Ako.<sep>I.
+Alon.<sep>Wave.
+Ama.<sep>Father.
+Amin.<sep>Ours.
+Anay.<sep>Termite.
+Ang.<sep>The.
+Anim.<sep>Six.
+Ano.<sep>What.
+Anod.<sep>Drift.
+Apat.<sep>Four.
+Apdo.<sep>Bile.
+Apo.<sep>Grandchild.
+Apog.<sep>Lime.
+Aral.<sep>Study.
+Araw.<sep>Sun.
+Arko.<sep>Arch.
+Asim.<sep>Sourness.
+Asin.<sep>Salt.
+Aso.<sep>Dog.
+Atay.<sep>Liver.
+Atin.<sep>Ours.
+Atip.<sep>Roof.
+Atis.<sep>Sugar apple.
+Awat.<sep>Stop a fight.
+Baga.<sep>Lung.
+Baha.<sep>Flood.
+Baka.<sep>Cow.
+Balo.<sep>Widow.
+Baon.<sep>Provisions.
+Bara.<sep>Clog.
+Basa.<sep>Read.
+Baso.<sep>Glass.
+Bata.<sep>Child.
+Bato.<sep>Stone.
+Baul.<sep>Trunk.
+Bayo.<sep>Pound.
+Belo.<sep>Veil.
+Bibig.<sep>Mouth.
+Bihag.<sep>Captive.
+Biik.<sep>Piglet.
+Biko.<sep>Rice cake.
+Binhi.<sep>Seed.
+Bota.<sep>Boots.
+Boto.<sep>Vote.
+Bubo.<sep>Spill.
+Buhok.<sep>Hair.
+Buko.<sep>Young coconut.
+Bula.<sep>Bubble.
+Buli.<sep>Buttocks.
+Buto.<sep>Bone.
+Buyu.<sep>Betel leaf.
+Daan.<sep>Road.
+Dahon.<sep>Leaf.
+Daig.<sep>Defeat.
+Dala.<sep>Bring.
+Dali.<sep>Quick.
+Dama.<sep>Feel.
+Dapa.<sep>Lie face down.
+Dati.<sep>Before.
+Daya.<sep>Cheat.
+Dila.<sep>Tongue.
+Dipa.<sep>Arm span.
+Diyan.<sep>There.
+Diyos.<sep>God.
+Duda.<sep>Doubt.
+Dugo.<sep>Blood.
+Dura.<sep>Spit.
+Edad.<sep>Age.
+Ehe.<sep>Urine.
+Gaan.<sep>Lightness.
+Gaas.<sep>Kerosene.
+Gabi.<sep>Night.
+Gana.<sep>Appetite.
+Gata.<sep>Coconut milk.
+Giba.<sep>Demolish.
+Giik.<sep>Thresh.
+Giya.<sep>Guide.
+Gubat.<sep>Forest.
+Gulo.<sep>Trouble.
+Hakot.<sep>Haul.
+Halik.<sep>Kiss.
+Halo.<sep>Monitor lizard.
+Halos.<sep>Almost.
+Hapdi.<sep>Sting.
+Hapon.<sep>Afternoon.
+Hari.<sep>King.
+Hatid.<sep>Deliver.
+Hayop.<sep>Animal.
+Higa.<sep>Lie down.
+Higop.<sep>Sip.
+Hito.<sep>Catfish.
+Hiya.<sep>Shame.
+Huli.<sep>Last.
+Huni.<sep>Chirp.
+Iba.<sep>Other.
+Ihip.<sep>Blow.
+Ikaw.<sep>You.
+Ina.<sep>Mother.
+Init.<sep>Heat.
+Inom.<sep>Drink.
+Inyo.<sep>Yours.
+Ipa.<sep>Rice husk.
+Ipit.<sep>Clip.
+Isa.<sep>One.
+Isda.<sep>Fish.
+Isip.<sep>Think.
+Iyo.<sep>Yours.
+Kahil.<sep>Citrus fruit.
+Kahoy.<sep>Wood.
+Kain.<sep>Eat.
+Kama.<sep>Bed.
+Kami.<sep>We.
+Kape.<sep>Coffee.
+Kawa.<sep>Cauldron.
+Kayas.<sep>Whittle.
+Kayo.<sep>You.
+Keso.<sep>Cheese.
+Krus.<sep>Cross.
+Kuko.<sep>Nail.
+Kupas.<sep>Faded.
+Kura.<sep>Parish priest.
+Kuta.<sep>Fort.
+Labi.<sep>Lips.
+Laman.<sep>Flesh.
+Laso.<sep>Ribbon.
+Lata.<sep>Can.
+Layo.<sep>Distance.
+Leeg.<sep>Neck.
+Libo.<sep>Thousand.
+Liha.<sep>Sandpaper.
+Liko.<sep>Turn.
+Lila.<sep>Violet.
+Lima.<sep>Five.
+Lisa.<sep>Nit.
+Lola.<sep>Grandmother.
+Lolo.<sep>Grandfather.
+Look.<sep>Bay.
+Losa.<sep>Porcelain.
+Lugi.<sep>Loss.
+Luha.<sep>Tear.
+Luno.<sep>Molt.
+Luya.<sep>Ginger.
+Mais.<sep>Corn.
+Mani.<sep>Peanut.
+Mapa.<sep>Map.
+Masa.<sep>Dough.
+Mata.<sep>Eye.
+Maya.<sep>Sparrow.
+Mayo.<sep>May.
+Mina.<sep>Mine.
+Misa.<sep>Mass.
+Moda.<sep>Fashion.
+Mukha.<sep>Face.
+Mumo.<sep>Rice crumbs.
+Nana.<sep>Pus.
+Noo.<sep>Forehead.
+Okra.<sep>Okra.
+Oras.<sep>Hour.
+Paa.<sep>Foot.
+Pagi.<sep>Stingray.
+Paha.<sep>Belt.
+Pait.<sep>Bitterness.
+Pala.<sep>Shovel.
+Palo.<sep>Whip.
+Pana.<sep>Arrow.
+Paos.<sep>Hoarse.
+Papa.<sep>Father.
+Para.<sep>For.
+Pari.<sep>Priest.
+Pasa.<sep>Bruise.
+Paso.<sep>Burn.
+Pati.<sep>Including.
+Pato.<sep>Duck.
+Pero.<sep>But.
+Piga.<sep>Squeeze.
+Piko.<sep>Pickaxe.
+Pili.<sep>Choose.
+Pino.<sep>Fine.
+Piso.<sep>Peso.
+Pito.<sep>Seven.
+Piye.<sep>Foot.
+Puga.<sep>Escape.
+Pugo.<sep>Quail.
+Pula.<sep>Red.
+Pulo.<sep>Island.
+Puno.<sep>Tree.
+Puro.<sep>Pure.
+Pusa.<sep>Cat.
+Puso.<sep>Heart.
+Puta.<sep>Whore.
+Puti.<sep>White.
+Puto.<sep>Rice cake.
+Ripa.<sep>Raffle.
+Rota.<sep>Route.
+Saan?<sep>Where?
+Saba.<sep>Cooking banana.
+Saha.<sep>Banana shoot.
+Sako.<sep>Sack.
+Sala.<sep>Living room.
+Sapa.<sep>Creek.
+Saya.<sep>Skirt.
+Sebo.<sep>Tallow.
+Sige.<sep>Go ahead.
+Siko.<sep>Elbow.
+Sine.<sep>Movie.
+Sino.<sep>Who.
+Sipa.<sep>Kick.
+Sisiw.<sep>Chick.
+Sugo.<sep>Envoy.
+Suha.<sep>Pomelo.
+Suki.<sep>Regular customer.
+Sulo.<sep>Torch.
+Suot.<sep>Wear.
+Taal.<sep>Native.
+Taas.<sep>Height.
+Tae.<sep>Feces.
+Taga.<sep>From.
+Tama.<sep>Correct.
+Tao.<sep>Person.
+Tari.<sep>Cockspur.
+Tasa.<sep>Cup.
+Tela.<sep>Cloth.
+Tiyan.<sep>Stomach.
+Toge.<sep>Bean sprouts.
+Tono.<sep>Tone.
+Tore.<sep>Tower.
+Toyo.<sep>Soy sauce.
+Trak.<sep>Truck.
+Tren.<sep>Train.
+Tsaa.<sep>Tea.
+Tubo.<sep>Sugarcane.
+Tuhod.<sep>Knee.
+Tuka.<sep>Peck.
+Tuli.<sep>Circumcision.
+Tulo.<sep>Drip.
+Tuod.<sep>Stump.
+Turo.<sep>Teach.
+Uban.<sep>Gray hair.
+Ubas.<sep>Grapes.
+Ubi.<sep>Purple yam.
+Ubo.<sep>Cough.
+Ubod.<sep>Palm heart.
+Ubos.<sep>Used up.
+Ugat.<sep>Vein.
+Uhag.<sep>Ear of grain.
+Uhah.<sep>Thirsty.
+Ulan.<sep>Rain.
+Ulo.<sep>Head.
+Unat.<sep>Straighten.
+Unggoy.<sep>Monkey.
+Uod.<sep>Worm.
+Usa.<sep>Deer.
+Uso.<sep>Trend.
+Utak.<sep>Brain.
+Uwak.<sep>Crow.
+Uwi.<sep>Go home.
