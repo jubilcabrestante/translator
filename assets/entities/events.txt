@@ -1,0 +1,13 @@
+# Events / holidays that have NO Cuyonon term and should be kept EXACTLY as written.
+# IMPORTANT: only add terms here if they genuinely have no Cuyonon translation.
+#   - Do NOT add a holiday that Cuyonon actually has its own word for -- that would
+#     teach the model the WRONG thing (to leave it untranslated when it shouldn't).
+#   - When unsure, leave it out and instead add a real translated example to
+#     assets/taga-cuyo.txt with the correct Cuyonon term.
+# Lines starting with # are ignored. The seed items below are proper-noun festivals
+# and foreign holidays commonly kept as-is; edit freely.
+Ati-Atihan
+Sinulog
+Dinagyang
+Halloween
+Valentine's Day

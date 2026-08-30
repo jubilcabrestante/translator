@@ -1,0 +1,2757 @@
+Aso.<sep>Tio.
+Apo.<sep>Apo.
+Noo.<sep>Dai.
+Abo.<sep>Abo.
+Ako.<sep>Ako.
+Ama.<sep>Ama.
+Ang.<sep>Ang.
+Ano.<sep>Ano.
+Ehe.<sep>Ihi.
+Iba.<sep>Iba.
+Ina.<sep>Ina.
+Ipa.<sep>Opa.
+Iyo.<sep>Imo.
+Tae.<sep>Tae.
+Tao.<sep>Tao.
+Ubi.<sep>Ubi.
+Uod.<sep>Uod.
+Uwi.<sep>Uwi.
+Uwak.<sep>Wak.
+Saan?<sep>Sadin?
+Paa.<sep>Siki.
+Halo.<sep>Alo.
+Hari.<sep>Adi.
+Hito.<sep>Ito.
+Hiya.<sep>Eya.
+Huli.<sep>Ori.
+Huni.<sep>Oni.
+Look.<sep>Lek.
+Luha.<sep>Loa.
+Saha.<sep>Saa.
+Ubo.<sep>Uboh.
+Ulo.<sep>Uloh.
+Usa.<sep>Usah.
+Uso.<sep>Usoh.
+Baha.<sep>Ba.
+Gabi.<sep>Gabi.
+Piga.<sep>Pega.
+Pusa.<sep>Koti.
+Baka.<sep>Baka.
+Pato.<sep>Pato.
+Isda.<sep>Isda.
+Anay.<sep>Anay.
+Atis.<sep>Atis.
+Suha.<sep>Soha.
+Ubas.<sep>Obas.
+Toge.<sep>Togi.
+Ama.<sep>Tatay.
+Ina.<sep>Nanay.
+Bata.<sep>Bata.
+Lolo.<sep>Lolo.
+Lola.<sep>Lola.
+Buhok.<sep>Bok.
+Mata.<sep>Mata.
+Dila.<sep>Dila.
+Leeg.<sep>Lieg.
+Siko.<sep>Siko.
+Tuhod.<sep>Tod.
+Kuko.<sep>Koko.
+Apdo.<sep>Apdo.
+Dugo.<sep>Dogo.
+Utak.<sep>Otok.
+Atay.<sep>Atay.
+Baga.<sep>Baga.
+Ugat.<sep>Ogat.
+Buli.<sep>Boli.
+Abot.<sep>Abot.
+Akin.<sep>Aken.
+Agaw.<sep>Agaw.
+Alon.<sep>Alen.
+Amin.<sep>Amen.
+Anay.<sep>Anay.
+Anim.<sep>Anem.
+Anod.<sep>Anod.
+Apat.<sep>Apat.
+Apdo.<sep>Apdo.
+Apog.<sep>Apog.
+Aral.<sep>Adal.
+Arko.<sep>Arko.
+Asin.<sep>Asin.
+Atay.<sep>Atay.
+Atin.<sep>Aten.
+Atip.<sep>Atep.
+Atis.<sep>Atis.
+Awat.<sep>Awat.
+Baka.<sep>Baka.
+Balo.<sep>Balo.
+Bara.<sep>Bara.
+Basa.<sep>Basa.
+Baso.<sep>Baso.
+Bata.<sep>Bata.
+Bato.<sep>Bato.
+Baul.<sep>Baul.
+Bayo.<sep>Bayo.
+Belo.<sep>Bilo.
+Biko.<sep>Biko.
+Bota.<sep>Bota.
+Boto.<sep>Boto.
+Bubo.<sep>Bobo.
+Buko.<sep>Boko.
+Bula.<sep>Bora.
+Buyu.<sep>Boyo.
+Kain.<sep>Kaen.
+Kama.<sep>Kama.
+Kami.<sep>Kami.
+Kape.<sep>Kapi.
+Kawa.<sep>Kawa.
+Kayo.<sep>Kamo.
+Keso.<sep>Kiso.
+Krus.<sep>Kros.
+Kuko.<sep>Koko.
+Kura.<sep>Kora.
+Kuta.<sep>Kota.
+Daan.<sep>Daan.
+Daig.<sep>Daeg.
+Dala.<sep>Dara.
+Dali.<sep>Dali.
+Dati.<sep>Dati.
+Dama.<sep>Dama.
+Dapa.<sep>Dapa.
+Daya.<sep>Daye.
+Dila.<sep>Dila.
+Dipa.<sep>Depa.
+Duda.<sep>Doda.
+Dugo.<sep>Dogo.
+Dura.<sep>Dora.
+Edad.<sep>Idad.
+Gaan.<sep>Agan.
+Gaas.<sep>Gaas.
+Gabi.<sep>Gabi.
+Gana.<sep>Gana.
+Gata.<sep>Gata.
+Giba.<sep>Geba.
+Giik.<sep>Gyek.
+Giya.<sep>Giya.
+Gulo.<sep>Golo.
+Ikaw.<sep>Ikaw.
+Ihip.<sep>Eyep.
+Init.<sep>Init.
+Inom.<sep>Inem.
+Inyo.<sep>Indo.
+Ipit.<sep>Ipit.
+Isa.<sep>Isara.
+Isda.<sep>Isda.
+Isip.<sep>Isip.
+Laso.<sep>Laso.
+Lata.<sep>Lata.
+Layo.<sep>Raye.
+Leeg.<sep>Lieg.
+Libo.<sep>Ribo.
+Liko.<sep>Kilo.
+Liha.<sep>Liha.
+Lila.<sep>Lila.
+Lima.<sep>Lima.
+Lisa.<sep>Lesa.
+Losa.<sep>Losa.
+Lugi.<sep>Logi.
+Luno.<sep>Lono.
+Luya.<sep>Loya.
+Mais.<sep>Mais.
+Mani.<sep>Mani.
+Mapa.<sep>Mapa.
+Masa.<sep>Masa.
+Mata.<sep>Mata.
+Maya.<sep>Maya.
+Mayo.<sep>Mayo.
+Mina.<sep>Mina.
+Misa.<sep>Misa.
+Moda.<sep>Moda.
+Mumo.<sep>Momo.
+Nana.<sep>Nana.
+Okra.<sep>Okra.
+Oras.<sep>Oras.
+Pagi.<sep>Pagi.
+Paha.<sep>Paha.
+Pait.<sep>Pait.
+Pala.<sep>Pala.
+Palo.<sep>Palo.
+Pana.<sep>Pana.
+Papa.<sep>Papa.
+Para.<sep>Para.
+Pari.<sep>Padi.
+Paos.<sep>Paos.
+Pasa.<sep>Pasa.
+Paso.<sep>Paso.
+Pati.<sep>Pati.
+Pato.<sep>Pato.
+Pero.<sep>Piro.
+Piko.<sep>Piko.
+Piko.<sep>Tiko.
+Piga.<sep>Pega.
+Pili.<sep>Pili.
+Pino.<sep>Pino.
+Piso.<sep>Piso.
+Pito.<sep>Pito.
+Piye.<sep>Piyi.
+Puga.<sep>Poga.
+Pugo.<sep>Pogo.
+Pula.<sep>Pola.
+Pulo.<sep>Poro.
+Puno.<sep>Pono.
+Puro.<sep>Poro.
+Puso.<sep>Poso.
+Puta.<sep>Pota.
+Puti.<sep>Poti.
+Puto.<sep>Poto.
+Ripa.<sep>Ripa.
+Rota.<sep>Rota.
+Saba.<sep>Saba.
+Sako.<sep>Sako.
+Sala.<sep>Sala.
+Sala.<sep>Sara.
+Sapa.<sep>Sapa.
+Saya.<sep>Saya.
+Sebo.<sep>Sibo.
+Siko.<sep>Siko.
+Sige.<sep>Sigi.
+Sine.<sep>Sini.
+Sino.<sep>Sino.
+Sipa.<sep>Sipa.
+Suki.<sep>Suki.
+Sugo.<sep>Sugo.
+Suha.<sep>Suha.
+Sulo.<sep>Sulo.
+Suot.<sep>Suot.
+Taal.<sep>Taal.
+Taas.<sep>Taas.
+Taga.<sep>Taga.
+Tama.<sep>Tama.
+Tari.<sep>Tari.
+Tasa.<sep>Tasa.
+Tela.<sep>Tela.
+Tono.<sep>Tono.
+Tore.<sep>Tore.
+Toyo.<sep>Toyo.
+Trak.<sep>Trak.
+Tren.<sep>Tren.
+Tsaa.<sep>Tsaa.
+Tubo.<sep>Tubo.
+Tubo.<sep>Tubo.
+Tubo.<sep>Tubo.
+Tuka.<sep>Tuka.
+Tuli.<sep>Tuli.
+Tulo.<sep>Tulo.
+Tuod.<sep>Tuod.
+Turo.<sep>Turo.
+Ubas.<sep>Ubas.
+Uban.<sep>Uban.
+Ubod.<sep>Ubod.
+Ubos.<sep>Ubos.
+Ugat.<sep>Ugat.
+Uhah.<sep>Uhaw.
+Uhag.<sep>Uhay.
+Ulan.<sep>Ulan.
+Unat.<sep>Unat.
+Utak.<sep>Utak.
+Uwak.<sep>Uwak.
+Araw.<sep>Adlaw.
+Halik.<sep>Arek.
+Sisiw.<sep>Pise.
+Unggoy.<sep>Amo.
+Pana.<sep>Logay.
+Kahil.<sep>Kail.
+Mukha.<sep>Oyen.
+Bibig.<sep>Baba.
+Labi.<sep>Bibig.
+Tiyan.<sep>Tian.
+Buto.<sep>Tolan.
+Laman.<sep>Onod.
+Bato.<sep>Kidni.
+Araw.<sep>Adlaw.
+Asim.<sep>Aslem.
+Baon.<sep>Balon.
+Bihag.<sep>Biag.
+Biik.<sep>Beyek.
+Binhi.<sep>Bini.
+Buhok.<sep>Book.
+Kahoy.<sep>Kaoy.
+Kayas.<sep>Kias.
+Kupas.<sep>Kopa.
+Dahon.<sep>Daon.
+Diyos.<sep>Dios.
+Diyan.<sep>Dian.
+Gubat.<sep>Geba.
+Hakot.<sep>Akot.
+Halik.<sep>Arek.
+Halos.<sep>Alos.
+Hapdi.<sep>Apdi.
+Hapon.<sep>Apon.
+Hatid.<sep>Ated.
+Hayop.<sep>Ayep.
+Higa.<sep>Ingga.
+Higop.<sep>Igep.
+Hilaw.<sep>Ilaw.
+Himas.<sep>Imas.
+Hindi.<sep>Indi.
+Hipag.<sep>Ipag.
+Hubad.<sep>Obad.
+Hukom.<sep>Okon.
+Hugas.<sep>Ogas.
+Hugot.<sep>Ogot.
+Hulog.<sep>Olog.
+Luhod.<sep>Lood.
+Mahal.<sep>Maal.
+Ngiwi.<sep>Kiwi.
+Pahid.<sep>Paid.
+Pawid.<sep>Paod.
+Relo.<sep>Rilos.
+Sala.<sep>Salas.
+Uling.<sep>Ulig.
+Utang.<sep>Utag.
+Walo.<sep>Waloh.
+Wili.<sep>Wilih.
+Yelo.<sep>Yeloh.
+Yero.<sep>Yeroh.
+Yoyo.<sep>Yoyoh.
+Ulan.<sep>Oran.
+Ngayon.<sep>Dadi.
+Maaga.<sep>Maaga.
+Pera.<sep>Koarta.
+Gilid.<sep>Kilid.
+Tawag.<sep>Tawag.
+Umupo.<sep>Paggurang.
+Ibon.<sep>Ibon.
+Manok.<sep>Manok.
+Baboy.<sep>Baboy.
+Ahas.<sep>Magkal.
+Tigre.<sep>Tigri.
+Kasoy.<sep>Kasoy.
+Piras.<sep>Piras.
+Pinya.<sep>Pinya.
+Karot.<sep>Karot.
+Sitaw.<sep>Sitaw.
+Tiyo.<sep>Tiohin.
+Tiya.<sep>Tiahin.
+Bayaw.<sep>Bayaw.
+Hipag.<sep>Hipag.
+Pinsan.<sep>Ilog.
+Bungo.<sep>Bongo.
+Ilong.<sep>Irong.
+Ngipin.<sep>Ipen.
+Kamay.<sep>Alima.
+Tiyan.<sep>Posod.
+Pulso.<sep>Polso.
+Balat.<sep>Kolit.
+Abril.<sep>Abril.
+Album.<sep>Albom.
+Ampon.<sep>Ampon.
+Anino.<sep>Anino.
+Araro.<sep>Arado.
+Armas.<sep>Armas.
+Asawa.<sep>Asawa.
+Asero.<sep>Asiro.
+Asoge.<sep>Asogi.
+Atras.<sep>Atras.
+Ayuda.<sep>Ayoda.
+Babae.<sep>Babai.
+Babaw.<sep>Babaw.
+Baboy.<sep>Baboy.
+Bakla.<sep>Bakla.
+Bakya.<sep>Bakya.
+Balsa.<sep>Balsa.
+Balse.<sep>Balsi.
+Banda.<sep>Banda.
+Banig.<sep>Banig.
+Banga.<sep>Banga.
+Banyo.<sep>Banyo.
+Bapor.<sep>Bapor.
+Barko.<sep>Barko.
+Basyo.<sep>Basyo.
+Batya.<sep>Batya.
+Bawal.<sep>Bawal.
+Bayad.<sep>Bayad.
+Bayas.<sep>Bayas.
+Bayaw.<sep>Bayaw.
+Benda.<sep>Binda.
+Berde.<sep>Birdi.
+Berso.<sep>Birso.
+Bezes.<sep>Bisis.
+Bigas.<sep>Begas.
+Bigat.<sep>Begat.
+Bihon.<sep>Bihon.
+Bilas.<sep>Bilas.
+Lipad.<sep>Lepad.
+Lipas.<sep>Lebas.
+Lista.<sep>Lista.
+Litaw.<sep>Lotaw.
+Lugar.<sep>Logar.
+Luksa.<sep>Loksa.
+Lugaw.<sep>Logaw.
+Lumot.<sep>Lomot.
+Lunes.<sep>Lonis.
+Maaga.<sep>Maaga.
+Madre.<sep>Madri.
+Mamon.<sep>Mamon.
+Manok.<sep>Manok.
+Marso.<sep>Marso.
+Metro.<sep>Mitro.
+Muhon.<sep>Mohon.
+Multa.<sep>Molta.
+Nanay.<sep>Nanay.
+Niyog.<sep>Niyog.
+Ngalan.<sep>Aran.
+Ngilo.<sep>Ngilo.
+Ngipin.<sep>Ipin.
+Pader.<sep>Padir.
+Palay.<sep>Paray.
+Palya.<sep>Palya.
+Panga.<sep>Panga.
+Panyo.<sep>Panyo.
+Papel.<sep>Papil.
+Pasan.<sep>Pasan.
+Pasko.<sep>Pasko.
+Patag.<sep>Patag.
+Patay.<sep>Patay.
+Patis.<sep>Patis.
+Pekas.<sep>Pikas.
+Petsa.<sep>Pitsa.
+Pikot.<sep>Pikot.
+Pigsa.<sep>Pegsa.
+Pihit.<sep>Pirit.
+Pinya.<sep>Pinya.
+Pirma.<sep>Pirma.
+Pisip.<sep>Pisil.
+Pison.<sep>Pison.
+Pista.<sep>Pista.
+Pitso.<sep>Pitso.
+Piyon.<sep>Piyon.
+Plaka.<sep>Plaka.
+Plano.<sep>Plano.
+Plasa.<sep>Plasa.
+Plema.<sep>Plima.
+Poder.<sep>Poder.
+Pondo.<sep>Pundu.
+Prito.<sep>Prito.
+Pugad.<sep>Pogad.
+Pugto.<sep>Bogto.
+Pulis.<sep>Polis.
+Pulso.<sep>Polso.
+Punas.<sep>Ponas.
+Purok.<sep>Porok.
+Pusod.<sep>Posod.
+Puson.<sep>Poson.
+Pusta.<sep>Posta.
+Putol.<sep>Potol.
+Radyo.<sep>Radyo.
+Raspa.<sep>Raspa.
+Regla.<sep>Rigla.
+Renda.<sep>Rinda.
+Reyna.<sep>Rayna.
+Ribon.<sep>Ribon.
+Rimas.<sep>Rimas.
+Ronda.<sep>Ronda.
+Rosas.<sep>Rosas.
+Sabaw.<sep>Sabaw.
+Sabog.<sep>Sabog.
+Sabon.<sep>Sabon.
+Sakay.<sep>Sakay.
+Sakit.<sep>Sakit.
+Sakop.<sep>Sakop.
+Sahig.<sep>Saleg.
+Salok.<sep>Sarok.
+Salot.<sep>Sarot.
+Salsa.<sep>Sarsa.
+Sanga.<sep>Sanga.
+Selyo.<sep>Silyo.
+Silaw.<sep>Solaw.
+Silbi.<sep>Sirbi.
+Silid.<sep>Seled.
+Silya.<sep>Silya.
+Sindi.<sep>Sindi.
+Singa.<sep>Senga.
+Siper.<sep>Siper.
+Sipon.<sep>Sipon.
+Sitaw.<sep>Sitaw.
+Sobre.<sep>Sobre.
+Sopas.<sep>Sopas.
+Sugal.<sep>Sugal.
+Suhay.<sep>Suhay.
+Sulat.<sep>Sulat.
+Sulsi.<sep>Sulsi.
+Suman.<sep>Suman.
+Sumpa.<sep>Sumpa.
+Sunog.<sep>Sunog.
+Lipad.<sep>Lepad.
+Lipas.<sep>Lebas.
+Lista.<sep>Lista.
+Litaw.<sep>Lotaw.
+Lugar.<sep>Logar.
+Luksa.<sep>Loksa.
+Lugaw.<sep>Logaw.
+Lumot.<sep>Lomot.
+Lunes.<sep>Lonis.
+Maaga.<sep>Maaga.
+Madre.<sep>Madri.
+Mamon.<sep>Mamon.
+Manok.<sep>Manok.
+Marso.<sep>Marso.
+Metro.<sep>Mitro.
+Muhon.<sep>Mohon.
+Multa.<sep>Molta.
+Nanay.<sep>Nanay.
+Niyog.<sep>Niyog.
+Ngalan.<sep>Aran.
+Ngilo.<sep>Ngilo.
+Ngipin.<sep>Ipin.
+Pader.<sep>Padir.
+Palay.<sep>Paray.
+Palya.<sep>Palya.
+Panga.<sep>Panga.
+Panyo.<sep>Panyo.
+Papel.<sep>Papil.
+Pasan.<sep>Pasan.
+Pasko.<sep>Pasko.
+Patag.<sep>Patag.
+Patay.<sep>Patay.
+Patis.<sep>Patis.
+Pekas.<sep>Pikas.
+Petsa.<sep>Pitsa.
+Pikot.<sep>Pikot.
+Pigsa.<sep>Pegsa.
+Pihit.<sep>Pirit.
+Pinya.<sep>Pinya.
+Pirna.<sep>Pirna.
+Pisip.<sep>Pisil.
+Pison.<sep>Pison.
+Pista.<sep>Pista.
+Pitso.<sep>Pitso.
+Piyon.<sep>Piyon.
+Plaka.<sep>Plaka.
+Plano.<sep>Plano.
+Plasa.<sep>Plasa.
+Plema.<sep>Plima.
+Poder.<sep>Poder.
+Pondo.<sep>Pundu.
+Prito.<sep>Prito.
+Pugad.<sep>Pogad.
+Pugto.<sep>Bogto.
+Pulis.<sep>Polis.
+Pulso.<sep>Polso.
+Punas.<sep>Ponas.
+Purok.<sep>Porok.
+Pusod.<sep>Posod.
+Puson.<sep>Poson.
+Pusta.<sep>Posta.
+Putol.<sep>Potol.
+Radyo.<sep>Radyo.
+Raspa.<sep>Raspa.
+Regla.<sep>Rigla.
+Renda.<sep>Rinda.
+Reyna.<sep>Rayna.
+Ribon.<sep>Ribon.
+Rimas.<sep>Rimas.
+Ronda.<sep>Ronda.
+Rosas.<sep>Rosas.
+Sabaw.<sep>Sabaw.
+Sabog.<sep>Sabog.
+Sabon.<sep>Sabon.
+Sakay.<sep>Sakay.
+Sakit.<sep>Sakit.
+Sakop.<sep>Sakop.
+Sahig.<sep>Salig.
+Salok.<sep>Sarok.
+Salot.<sep>Sarot.
+Salsa.<sep>Sarsa.
+Sanga.<sep>Sanga.
+Selyo.<sep>Silyo.
+Silaw.<sep>Solaw.
+Silbi.<sep>Sirbi.
+Silid.<sep>Seled.
+Silya.<sep>Silya.
+Sindi.<sep>Sindi.
+Singa.<sep>Senga.
+Siper.<sep>Siper.
+Sipon.<sep>Sipon.
+Sitaw.<sep>Sitaw.
+Sobre.<sep>Sobre.
+Sopas.<sep>Sopas.
+Sugal.<sep>Sugal.
+Suhay.<sep>Suhay.
+Sulat.<sep>Sulat.
+Sulsi.<sep>Sulsi.
+Suman.<sep>Suman.
+Sumpa.<sep>Sumpa.
+Sunog.<sep>Sunog.
+Supot.<sep>Supot.
+Surot.<sep>Surot.
+Tabla.<sep>Tabla.
+Tabas.<sep>Tabas.
+Tabon.<sep>Tabon.
+Tahip.<sep>Tahip.
+Talim.<sep>Talim.
+Tamad.<sep>Tamad.
+Tamis.<sep>Tamis.
+Tanan.<sep>Tanan.
+Tanda.<sep>Tanda.
+Tanga.<sep>Tanga.
+Tanim.<sep>Tanim.
+Tanso.<sep>Tanso.
+Tapos.<sep>Tapos.
+Tatay.<sep>Tatay.
+Tawad.<sep>Tawad.
+Tawag.<sep>Tawag.
+Tawas.<sep>Tawas.
+Tenis.<sep>Tenis.
+Tibag.<sep>Tibag.
+Tibay.<sep>Tibay.
+Tiket.<sep>Tiket.
+Tigas.<sep>Tigas.
+Tigib.<sep>Tigib.
+Tigre.<sep>Tigre.
+Timog.<sep>Timog.
+Tinda.<sep>Tinda.
+Tingi.<sep>Tingi.
+Tinik.<sep>Tinik.
+Tinta.<sep>Tinta.
+Tises.<sep>Tises.
+Tinta.<sep>Tinta.
+Tisis.<sep>Tisis.
+Tiyan.<sep>Tiyan.
+Trono.<sep>Trono.
+Tropa.<sep>Tropa.
+Troso.<sep>Troso.
+Tsart.<sep>Tsart.
+Tsiko.<sep>Tsiko.
+Tubig.<sep>Tubig.
+Tukod.<sep>Tukod.
+Tukso.<sep>Tukso.
+Tuhod.<sep>Tuhod.
+Tuhog.<sep>Tuhog.
+Tulad.<sep>Tulad.
+Tulay.<sep>Tulay.
+Tulda.<sep>Tulda.
+Tumba.<sep>Tumba.
+Tunaw.<sep>Tunaw.
+Tunog.<sep>Tunog.
+Tusok.<sep>Tusok.
+Tuwad.<sep>Tuwad.
+Ugali.<sep>Ugali.
+Usisa.<sep>Usisa.
+Wisik.<sep>Wisik.
+Yapak.<sep>Yapak.
+Mayo.<sep>Mayo.
+Araw.<sep>Adlaw.
+Lupa.<sep>Logta.
+Niyebe.<sep>Yilo.
+Sumayaw.<sep>Saot.
+Itulak.<sep>Tolod.
+Niyog.<sep>Beteng.
+Labong.<sep>Tambo.
+Gilagid.<sep>Lasi.
+Braso.<sep>Betken.
+Dibdib.<sep>Iteng.
+Dibdib.<sep>Degan.
+Daliri.<sep>Todlo.
+Katawan.<sep>Awak.
+Bituka.<sep>Tinai.
+Mabuti.<sep>Mayad.
+Mabait.<sep>Mayad.
+Tanga.<sep>Polpol.
+Isara.<sep>Sirado.
+Itulak.<sep>Tolod.
+Adiyos.<sep>Adios.
+Amihan.<sep>Amian.
+Anghit.<sep>Angit.
+Buugaw.<sep>Bogaw.
+Buhawi.<sep>Boawi.
+Bunggo.<sep>Bongo.
+Buwaya.<sep>Boaya.
+Kidlat.<sep>Kilat.
+Dalawa.<sep>Darwa.
+Espiya.<sep>Ispia.
+Hagdan.<sep>Agdan.
+Halang.<sep>Arang.
+Haligi.<sep>Arigi.
+Hambog.<sep>Ambog.
+Hangin.<sep>Angin.
+Haplos.<sep>Apros.
+Harana.<sep>Arana.
+Harina.<sep>Arina.
+Hasang.<sep>Asang.
+Lansa.<sep>Langsa.
+Lilim.<sep>Ilemem.
+Mabaho.<sep>Mabao.
+Mantsa.<sep>Mansa.
+Nahiya.<sep>Naeva.
+Nahuli.<sep>Naori.
+Perlas.<sep>Piras.
+Punso.<sep>Pongso.
+Rantso.<sep>Ranso.
+Santo.<sep>Santos.
+Unano.<sep>Unanoh.
+Welga.<sep>Welgah.
+Yabong.<sep>Yabog.
+Abril.<sep>Abril.
+Buwan.<sep>Bolan.
+Bagyo.<sep>Bagyo.
+Buhawi.<sep>Boawi.
+Hangin.<sep>Angin.
+Bukas.<sep>Aromang.
+Maalat.<sep>Maasin.
+Palakpak.<sep>Daep.
+Tumalon.<sep>Lobo.
+Humila.<sep>Beteng.
+Tindig.<sep>Tindeg.
+Lumangoy.<sep>Eseb.
+Bokbok.<sep>Bokbok.
+Kalapati.<sep>Lade.
+Kabayo.<sep>Kabayo.
+Dorian.<sep>Dorian.
+Lomboy.<sep>Lomboy.
+Langka.<sep>Langka.
+Pakwan.<sep>Pakwan.
+Saging.<sep>Saging.
+Pipino.<sep>Pipino.
+Talong.<sep>Tarong.
+Bawang.<sep>Lasona.
+Pechay.<sep>Pitsay.
+Ninong.<sep>Ninong.
+Ninang.<sep>Ninang.
+Bigote.<sep>Bigoti.
+Balbas.<sep>Benget.
+Balikat.<sep>Abaga.
+Pantog.<sep>Pantog.
+Maganda.<sep>Goapa.
+Gwapo.<sep>Goapo.
+Tamad.<sep>Tamadan.
+Mataas.<sep>Mataas.
+Agosto.<sep>Agosto.
+Ahente.<sep>Ahintai.
+Alahas.<sep>Alahas.
+Alalay.<sep>Alalay.
+Angkin.<sep>Angken.
+Anonas.<sep>Anonas.
+Asenso.<sep>Asinso.
+Asukal.<sep>Asukar.
+Asunto.<sep>Asonto.
+Atsara.<sep>Atsara.
+Bakuna.<sep>Bakona.
+Balita.<sep>Barita.
+Balota.<sep>Balota.
+Banak.<sep>Balanak.
+Bangko.<sep>Bangko.
+Banlag.<sep>Banlag.
+Banlaw.<sep>Bonlaw.
+Bantay.<sep>Bantay.
+Bantog.<sep>Bantog.
+Baraha.<sep>Baraha.
+Barnis.<sep>Barnis.
+Basket.<sep>Baskit.
+Baston.<sep>Baston.
+Batuta.<sep>Batuta.
+Bayong.<sep>Bayong.
+Besbol.<sep>Bisbol.
+Bigkis.<sep>Begkes.
+Bihira.<sep>Bihira.
+Bilang.<sep>Bilang.
+Biling.<sep>Biring.
+Binlid.<sep>Binled.
+Binyag.<sep>Bonyag.
+Birhen.<sep>Birhin.
+Bukana.<sep>Bokana.
+Bukayo.<sep>Bokayo.
+Bukbok.<sep>Bokbok.
+Butete.<sep>Botiti.
+Kabayo.<sep>Kabayo.
+Kadena.<sep>Kadina.
+Kadyos.<sep>Kadyes.
+Kagabi.<sep>Kagabi.
+Kahera.<sep>Kahira.
+Kainan.<sep>Kaenan.
+Kamias.<sep>Kamias.
+Kangina.<sep>Kaina.
+Kapote.<sep>Kapoti.
+Karera.<sep>Karira.
+Kasalo.<sep>Kasaro.
+Katalo.<sep>Katalo.
+Kilala.<sep>Kilala.
+Kingke.<sep>Kingki.
+Kisame.<sep>Kisami.
+Korona.<sep>Korona.
+Krisis.<sep>Krisis.
+Kristo.<sep>Kristo.
+Kulang.<sep>Korang.
+Kulata.<sep>Kolata.
+Kulong.<sep>Kolong.
+Kumpil.<sep>Kompi.
+Kumpit.<sep>Kompit.
+Kurdon.<sep>Kordon.
+Kuskos.<sep>Koskos.
+Kusina.<sep>Kosina.
+Dalaga.<sep>Daraga.
+Daldal.<sep>Daldal.
+Daplis.<sep>Daplis.
+Dayami.<sep>Dagami.
+Domino.<sep>Domino.
+Doktor.<sep>Doktor.
+Embudo.<sep>Imbodo.
+Ensayo.<sep>Insayo.
+Epekto.<sep>Ipikto.
+Espada.<sep>Ispada.
+Esposa.<sep>Isposa.
+Esposo.<sep>Isposo.
+Estapa.<sep>Istapa.
+Galang.<sep>Galang.
+Gansal.<sep>Gansal.
+Garahe.<sep>Garahi.
+Gastos.<sep>Gastos.
+Giling.<sep>Giling.
+Ginisa.<sep>Ginisa.
+Gitara.<sep>Gitara.
+Gulong.<sep>Golong.
+Guwang.<sep>Gawang.
+Ibabaw.<sep>Ibabaw.
+Ilalim.<sep>Idalem.
+Itsura.<sep>Itsora.
+Lababo.<sep>Lababo.
+Labaha.<sep>Labaha.
+Lagari.<sep>Lagadi.
+Lagpak.<sep>Lagpak.
+Lalaki.<sep>Lalaki.
+Langaw.<sep>Langaw.
+Langka.<sep>Langka.
+Langit.<sep>Langit.
+Libing.<sep>Lebeng.
+Litson.<sep>Litson.
+Lusong.<sep>Losong.
+Maanta.<sep>Maanta.
+Maayos.<sep>Maayos.
+Mababa.<sep>Mababa.
+Makina.<sep>Makina.
+Madali.<sep>Madili.
+Magaan.<sep>Maagan.
+Magama.<sep>Magama.
+Magina.<sep>Magina.
+Malayo.<sep>Maraye.
+Maleta.<sep>Malita.
+Mantel.<sep>Mantil.
+Mapait.<sep>Mapait.
+Marmol.<sep>Marmol.
+Martes.<sep>Martis.
+Martsa.<sep>Martsa.
+Mataas.<sep>Mataas.
+Matris.<sep>Matris.
+Medyas.<sep>Midyas.
+Milyon.<sep>Milyon.
+Mintis.<sep>Mintis.
+Miting.<sep>Miting.
+Minuto.<sep>Minoto.
+Musiko.<sep>Mosiko.
+Nakikita.<sep>Nakita.
+Naipit.<sep>Naipit.
+Naisip.<sep>Naisip.
+Nalugi.<sep>Nalogi.
+Nilaga.<sep>Linaga.
+Niloko.<sep>Inloko.
+Ninang.<sep>Ninang.
+Ninong.<sep>Ninong.
+Nganga.<sep>Nganga.
+Obrero.<sep>Obriro.
+Obispo.<sep>Obispo.
+Pabaya.<sep>Pabaya.
+Pakpak.<sep>Pakpak.
+Paksiw.<sep>Paksio.
+Palara.<sep>Palara.
+Palito.<sep>Palito.
+Paltik.<sep>Paltik.
+Pandake.<sep>Pandake.
+Pansit.<sep>Pansit.
+Parada.<sep>Parada.
+Pareho.<sep>Pariho.
+Parola.<sep>Parola.
+Pastol.<sep>Pastor.
+Pasyal.<sep>Pasyar.
+Patani.<sep>Patani.
+Patron.<sep>Patron.
+Payong.<sep>Payong.
+Pedido.<sep>Pedido.
+Petsay.<sep>Pitsay.
+Piknik.<sep>Piknik.
+Piliin.<sep>Pilien.
+Pingga.<sep>Pingga.
+Piraso.<sep>Pidaso.
+Piring.<sep>Pereng.
+Pisngi.<sep>Pisngi.
+Pitaka.<sep>Pitaka.
+Pitada.<sep>Pitada.
+Pitsel.<sep>Pitsil.
+Pormal.<sep>Pormal.
+Prasko.<sep>Prasko.
+Premyo.<sep>Primyo.
+Pudpud.<sep>Podpod.
+Pulbos.<sep>Polbos.
+Pulido.<sep>Polido.
+Pulpol.<sep>Polpol.
+Puntos.<sep>Pontos.
+Putahe.<sep>Potahi.
+Rasyon.<sep>Rasyon.
+Rayuma.<sep>Riyoma.
+Rekado.<sep>Rikado.
+Regalo.<sep>Rigalo.
+Reseta.<sep>Risita.
+Retaso.<sep>Ritaso.
+Retiro.<sep>Ritiro.
+Ropero.<sep>Ropiro.
+Roskas.<sep>Roskas.
+Sabado.<sep>Sabado.
+Saksak.<sep>Saksak.
+Saging.<sep>Saging.
+Salpok.<sep>Sampok.
+Sangag.<sep>Sanlag.
+Sarili.<sep>Sadili.
+Sastre.<sep>Sastri.
+Sawali.<sep>Sawali.
+Sawsaw.<sep>Sawsaw.
+Sayang.<sep>Sayang.
+Senado.<sep>Sinado.
+Sermon.<sep>Sirmon.
+Siksik.<sep>Seksek.
+Signos.<sep>Signos.
+Sima.<sep>Simbahan.
+Singaw.<sep>Songaw.
+Singko.<sep>Singko.
+Sinsin.<sep>Sensen.
+Sipsip.<sep>Sipsip.
+Sirena.<sep>Sirena.
+Subsob.<sep>Subsob.
+Suksok.<sep>Suksok.
+Sulong.<sep>Sulong.
+Sulyap.<sep>Sulyap.
+Sungay.<sep>Sungay.
+Sungka.<sep>Sungka.
+Suntok.<sep>Suntok.
+Suriso.<sep>Suriso.
+Tabako.<sep>Tabako.
+Tabang.<sep>Tabang.
+Taklob.<sep>Taaleb.
+Tadtad.<sep>Tadtad.
+Tainga.<sep>Tainga.
+Talaba.<sep>Talaba.
+Talaga.<sep>Talaga.
+Talong.<sep>Tarong.
+Tambol.<sep>Tambol.
+Tangke.<sep>Tangke.
+Tastas.<sep>Tastas.
+Tigpas.<sep>Tigpas.
+Tihaya.<sep>Tihaya.
+Tinapa.<sep>Tinapa.
+Tindig.<sep>Tindig.
+Titulo.<sep>Titulo.
+Tiyani.<sep>Tiyani.
+Tosino.<sep>Tosino.
+Tubero.<sep>Tubero.
+Tuktok.<sep>Tuktok.
+Tugtog.<sep>Tugtog.
+Tutuli.<sep>Tutuli.
+Uhales.<sep>Uhales.
+Unahan.<sep>Unahan.
+Utouto.<sep>Utuuto.
+Wakwak.<sep>Wakwak.
+Yugyog.<sep>Yugyog.
+Lunes.<sep>Lonis.
+Enero.<sep>Iniro.
+Marso.<sep>Marso.
+Hunyo.<sep>Honio.
+Hulyo.<sep>Holio.
+Bituin.<sep>Biton.
+Hangin.<sep>Angin.
+Lindol.<sep>Linog.
+Kidlat.<sep>Kilat.
+Ambon.<sep>Tariti.
+Talaga.<sep>Matod.
+Kahapon.<sep>Kaapon.
+Maasim.<sep>Maapled.
+Upo.<sep>Barantiong.
+Tsikpi.<sep>Monggos.
+Patola.<sep>Singkoa.
+Tainga.<sep>Talinga.
+Puso.<sep>Tagiposon.
+Mabait.<sep>Maleban.
+Mahaba.<sep>Malabeg.
+Maikli.<sep>Mataged.
+Atsuete.<sep>Siwiti.
+Baliena.<sep>Balina.
+Bibliya.<sep>Biblia.
+Bulkan.<sep>Bolkano.
+Kahapon.<sep>Kaapon.
+Kuyumad.<sep>Kaymad.
+Dahilan.<sep>Dailan.
+Dalahin.<sep>Daraen.
+Habagat.<sep>Abagat.
+Higante.<sep>Iganti.
+Hulmahan.<sep>Orman.
+Maasim.<sep>Maaslen.
+Hanulog.<sep>Naolog.
+Numiroh.<sep>Nomiro.
+Paligo.<sep>Parigos.
+Pandan.<sep>Pangdan.
+Patatas.<sep>Pataas.
+Petro.<sep>Pitrolio.
+Plantsa.<sep>Plansa.
+Salaan.<sep>Sararan.
+Sinangag.<sep>Sanag.
+Singhot.<sep>Singot.
+Ulap.<sep>Panganod.
+Tagtuyot.<sep>Mara.
+Isa.<sep>Isara
+Isa.<sep>ono.
+Sa gabi.<sep>Sa gabi.
+Diritso.<sep>Diritso.
+Kaibigan.<sep>Tangay.
+Kambing.<sep>Kambing.
+Kalabaw.<sep>Karabaw.
+Abokado.<sep>Abokado.
+Kaimito.<sep>Kaimito.
+Kamatis.<sep>Kamatis.
+Mangga.<sep>Pomangga.
+Repolyo.<sep>Ripolio.
+Mustasa.<sep>Mostasa.
+Sibuyas.<sep>Siboyas.
+Sentido.<sep>Sintido.
+Lalamunan.<sep>Tebeg.
+Kilikili.<sep>Jreken.
+Kandungan.<sep>Sabak.
+Binti.<sep>Ita.
+Maingat.<sep>Maandam.
+Masipag.<sep>Maderep.
+Maganda.<sep>Matinlo.
+Bastos.<sep>Maraskal.
+Abokado.<sep>Abokado.
+Abogado.<sep>Abogado.
+Alakdan.<sep>Alakran.
+Alambre.<sep>Alambri.
+Almirol.<sep>Armidol.
+Andamyo.<sep>Andamio.
+Artista.<sep>Artista.
+Asikaso.<sep>Asikaso.
+Aspalto.<sep>Ispalto.
+Bakante.<sep>Bakanti.
+Balutan.<sep>Balotan.
+Bandana.<sep>Bandana.
+Bandeha.<sep>Bandiha.
+Bandila.<sep>Bandira.
+Barbero.<sep>Barsiro.
+Bariles.<sep>Barilis.
+Baterya.<sep>Batiria.
+Bayabas.<sep>Bayabas.
+Bayawak.<sep>Bayawak.
+Binatog.<sep>Binatog.
+Bintana.<sep>Bintana.
+Botante.<sep>Botanti.
+Bugtong.<sep>Bogtong.
+Bulador.<sep>Bolador.
+Bumbero.<sep>Bombiro.
+Butones.<sep>Botinis.
+Buwenas.<sep>Bowinas.
+Kaingin.<sep>Kaingin.
+Kamalig.<sep>Kamalig.
+Kamatis.<sep>Kamatis.
+Kambing.<sep>Kambing.
+Kamison.<sep>Kamison.
+Kampana.<sep>Kampana.
+Kandado.<sep>Kandado.
+Kandila.<sep>Kandila.
+Kantero.<sep>Kantiro.
+Kapatas.<sep>Kapatas.
+Kastila.<sep>Kastila.
+Kawayan.<sep>Kawayan.
+Klinika.<sep>Kliniki.
+Kolitis.<sep>Kolitis.
+Kulugo.<sep>Kalonggo.
+Kumusta.<sep>Komosta.
+Kunsumo.<sep>Konsomo.
+Kurbata.<sep>Korbata.
+Kurtina.<sep>Kortina.
+Kutsara.<sep>Kotsara.
+Kuwarta.<sep>Kowarta.
+Kuwarto.<sep>Kowarto.
+Kuwelyo.<sep>Kowilio.
+Kuwenta.<sep>Kowinta.
+Kuwitis.<sep>Kowitis.
+Demanda.<sep>Dimanda.
+Drayber.<sep>Draiber.
+Duwende.<sep>Dowindi.
+Eksakto.<sep>Igsakto.
+Embargo.<sep>Imbargo.
+Empatso.<sep>Impatso.
+Esperma.<sep>Ispirma.
+Estante.<sep>Istanti.
+Gaspang.<sep>Gaspang.
+Gunting.<sep>Gonting.
+Halakhak.<sep>Alakak.
+Higaan.<sep>Iringgan.
+Huwebes.<sep>Howibis.
+Iladlad.<sep>Iladlad.
+Insulto.<sep>Insolto.
+Intindi.<sep>Intindi.
+Labanos.<sep>Rabanos.
+Larawan.<sep>Ladawan.
+Mababaw.<sep>Mababaw.
+Mabigat.<sep>Mabegat.
+Madilim.<sep>Madelem.
+Maestra.<sep>Maistra.
+Maestro.<sep>Maistro.
+Malamig.<sep>Maramig.
+Mangkok.<sep>Mangkok.
+Mangga.<sep>Pomangga.
+Manipis.<sep>Manipis.
+Mantika.<sep>Mantika.
+Marupok.<sep>Matopok.
+Masakit.<sep>Masakit.
+Maskada.<sep>Maskada.
+Maskara.<sep>Maskara.
+Masyado.<sep>Masyado.
+Matabil.<sep>Matabil.
+Matamis.<sep>Matamis.
+Matigas.<sep>Mategas.
+Medalya.<sep>Midalya.
+Mistisa.<sep>Mistisa.
+Mustasa.<sep>Mostasa.
+Okyubre.<sep>Oktobri.
+Opisina.<sep>Opisina.
+Orasyon.<sep>Orasion.
+Oregano.<sep>Origano.
+Ospital.<sep>Ospital.
+Pabigat.<sep>Pabegat.
+Pabrika.<sep>Pabrika.
+Pagkain.<sep>Pagkaen.
+Pagador.<sep>Pagador.
+Pagkain.<sep>Pagkaen.
+Palakol.<sep>Parakol.
+Palasyo.<sep>Palasio.
+Pamilya.<sep>Pamilia.
+Paminta.<sep>Piminta.
+Pangako.<sep>Pangako.
+Parilya.<sep>Parilia.
+Patawad.<sep>Patawad.
+Patuwad.<sep>Patowad.
+Pawikan.<sep>Pawikan.
+Pebrero.<sep>Pibriro.
+Pinggan.<sep>Pinggan.
+Pintura.<sep>Pintora.
+Piyansa.<sep>Piyansa.
+Planeta.<sep>Planita.
+Plastik.<sep>Plastik.
+Posporo.<sep>Posporo.
+Propeta.<sep>Propita.
+Puhunan.<sep>Pohonan.
+Pulgada.<sep>Polgada.
+Pulpito.<sep>Polpito.
+Putakti.<sep>Kotapdi.
+Reklamo.<sep>Riklamo.
+Repolyo.<sep>Ripolyo.
+Reporma.<sep>Riporma.
+Resulta.<sep>Risolta.
+Rimatse.<sep>Rimatsi.
+Riserba.<sep>Risirba.
+Romansa.<sep>Romansa.
+Rosaryo.<sep>Rosaryo.
+Salamat.<sep>Salamat.
+Salamin.<sep>Salamin.
+Sapatos.<sep>Sapatos.
+Sekreta.<sep>Sikrita.
+Semento.<sep>Siminto.
+Sibuyas.<sep>Siboyas.
+Silbato.<sep>Sirbato.
+Silong.<sep>Silungan.
+Sinelas.<sep>Sinilas.
+Sinelas.<sep>Sinilas.
+Singkit.<sep>Singkit.
+Sipilyo.<sep>Sipilyo.
+Sipunin.<sep>Siponon.
+Sistema.<sep>Sistema.
+Subasta.<sep>Subasta.
+Sugalan.<sep>Sugalan.
+Sugarol.<sep>Sugarol.
+Sumpong.<sep>Sumpong.
+Sundalo.<sep>Sundalo.
+Sundang.<sep>Sundang.
+Suwelas.<sep>Suwelas.
+Suweldo.<sep>Suweldo.
+Suwelte.<sep>Suwelte.
+Taginit.<sep>Taginit.
+Tagulan.<sep>Tagulan.
+Tandang.<sep>Tandang.
+Tanglad.<sep>Tanglad.
+Timbang.<sep>Timbang.
+Tinapay.<sep>Tinapay.
+Tindera.<sep>Tindera.
+Tinidor.<sep>Tinidor.
+Tinidor.<sep>Tinidor.
+Trabaho.<sep>Trabaho.
+Tropedo.<sep>Tropedo.
+Turumpo.<sep>Turumpo.
+Tuwalya.<sep>Tuwalya.
+Martes.<sep>Martis.
+Sabado.<sep>Sabado.
+Agosto.<sep>Agosto.
+Huwebes.<sep>Hoibis.
+Kulog.<sep>Dalegdeg.
+Wala.<sep>Ara.
+Anim.<sep>Anem.
+Anim.<sep>Sais.
+Walo.<sep>Walo.
+Walo.<sep>Otso.
+Ano Pa?<sep>Ano Pa?.
+Maanghang.<sep>Maarat.
+Alitaptap.<sep>Panget.
+Bubuyog.<sep>Pokyotan.
+Garapata.<sep>A Dotor.
+Paminta.<sep>Katombal.
+Hinlalaki.<sep>Inaina.
+Tahimik.<sep>Silinsio.
+Gwapo.<sep>Goapo.
+Magdagdag.<sep>Dogang.
+Kumuha.<sep>Bawi.
+Kunin.<sep>Bel.
+Magising.<sep>Magmata.
+Apeliedo.<sep>Apilido.
+Kantiyaw.<sep>Kantiao.
+Kumpuni.<sep>Komponir.
+Dausdus.<sep>Dalosdos.
+Eroplan.<sep>Iroplano.
+Galyetas.<sep>Galitas.
+Gobyerno.<sep>Gobirno.
+Heneral.<sep>Hiinirral.
+Iling.<sep>Ilengileng.
+Maghapon.<sep>Magapon.
+Maalapad.<sep>Malapad.
+Nalaman.<sep>Naelaman.
+Nerbiyos.<sep>Nirbyos.
+Pabayaan.<sep>Pabayan.
+Pulisya.<sep>Polisya.
+Usisera.<sep>Usiserah.
+Usisero.<sep>Usiseroh.
+Linggo.<sep>Domingo.
+Pebrero.<sep>Pibriro.
+Biyernes.<sep>Birnis.
+Oktubre.<sep>Oktobri.
+Planeta.<sep>Planita.
+Ipo-Ipo.<sep>Karatong.
+Pito.<sep>Pito.
+Pito.<sep>Syiti.
+Salamat.<sep>Salamat.
+Sino Pa?<sep>Sino Pa?.
+Sa Gabi.<sep>Kada Gabi.
+Oras Ng Gabi.<sep>Gabi.
+Kakilala.<sep>Kakilala.
+Ubo.<sep>Obo.
+Hawak.<sep>Awid.
+Pumili.<sep>Popo.
+Pumili.<sep>Pili.
+Elepante.<sep>Ilipanti.
+Mangkopa.<sep>Mangkopa.
+Mansanas.<sep>Mansanas.
+Kalabasa.<sep>Kalabasa.
+Kangkong.<sep>Kangkong.
+Singkamas.<sep>Tikamas.
+Ay Mali!.<sep>Ay Mali!.
+Tahimik.<sep>Mademen.
+Maganda.<sep>Mapostora.
+Generoso.<sep>Agataw.
+Gastador.<sep>Gastador.
+Madaldal.<sep>Malisang.
+Maganda.<sep>Mapostora.
+Mas Bata.<sep>Mas Bata.
+Mas Luma.<sep>Mas Loma.
+Mas Bago.<sep>Mas Bago.
+Alketan.<sep>Alkitran.
+Alimango.<sep>Alimango.
+Alugbati.<sep>Alogbati.
+Aparador.<sep>Apardaor.
+Atrasado.<sep>Atrasado.
+Bakasyon.<sep>Bakasio.
+Bangkero.<sep>Bankiro.
+Bangketa.<sep>Bankita.
+Basabasa.<sep>Basabasa.
+Bastidor.<sep>Bastidor.
+Beterano.<sep>Bitirano.
+Bibingka.<sep>Bibingka.
+Kabataan.<sep>Kabataan.
+Kalabasa.<sep>Kalabasa.
+Kamandag.<sep>Kamandag.
+Kamiseta.<sep>Kamisita.
+Kampanya.<sep>Kampania.
+Kangkong.<sep>Tangkong.
+Kapritso.<sep>Kapritso.
+Karatula.<sep>Karatola.
+Kolehiyo.<sep>Kolihiyo.
+Kompanya.<sep>Kompania.
+Konsehal.<sep>Konsihal.
+Kontrata.<sep>Kontrata.
+Kriminal.<sep>Kriminal.
+Kudkuran.<sep>Kodkodan.
+Kulungan.<sep>Kolongan.
+Kumbento.<sep>Kombinto.
+Kumpisal.<sep>Kompisar.
+Kutsilyo.<sep>Kotsilio.
+Kutsinta.<sep>Kotsinta.
+Kuwerdas.<sep>Kowirdas.
+Kuwintas.<sep>Kolintas.
+Dahandahan.<sep>Dandan.
+Delikado.<sep>Dilikado.
+Dentista.<sep>Dintista.
+Deposito.<sep>Diposito.
+Dingding.<sep>Dingding.
+Dumalaga.<sep>Domaraga.
+Eklipse.<sep>Ingklipsi.
+Ehersisyo.<sep>Irsisio.
+Elepante.<sep>Ilipanti.
+Engkanto.<sep>Inkanto.
+Eskuwala.<sep>Iskowala.
+Espiritu.<sep>Ispiritu.
+Espongha.<sep>Ispongha.
+Estasyon.<sep>Istasion.
+Estatuwa.<sep>Istatowa.
+Galapong.<sep>Galapong.
+Gastador.<sep>Gastador.
+Gilingan.<sep>Gilingan.
+Gumamela.<sep>Gomamila.
+Guwantes.<sep>Gowantis.
+Guyabano.<sep>Goyabano.
+Hustisya.<sep>Hostisya.
+Insiyenso.<sep>Insinsi.
+Labatiba.<sep>Labatiba.
+Libingan.<sep>Lebengan.
+Magasawa.<sep>Magasawa.
+Malagkit.<sep>Maragket.
+Malasado.<sep>Malasado.
+Manugang.<sep>Manogang.
+Martilyo.<sep>Martilio.
+Masinsin.<sep>Masensen.
+Mayabong.<sep>Marabong.
+Mekaniko.<sep>Mikaniko.
+Mikrobyo.<sep>Mikrobyo.
+Minindal.<sep>Mirindal.
+Ngisngis.<sep>Ngisngis.
+Orihinal.<sep>Orihinal.
+Pakimkim.<sep>Pakemkem.
+Pagkatao.<sep>Pagkatao.
+Palaspas.<sep>Palaspas.
+Palengke.<sep>Palingki.
+Palikpik.<sep>Palikpik.
+Palupalo.<sep>Palopalo.
+Panadero.<sep>Panadiro.
+Panganay.<sep>Panganay.
+Panggabi.<sep>Panggabi.
+Pantalan.<sep>Pantalan.
+Pasahero.<sep>Pasahiro.
+Pelikula.<sep>Pilikola.
+Pingpong.<sep>Pingpong.
+Prinsipe.<sep>Prinsipi.
+Prinsesa.<sep>Prinsisa.
+Pukyutan.<sep>Potyokan.
+Pulitika.<sep>Politika.
+Pulitiko.<sep>Politiko.
+Puntirya.<sep>Pontirya.
+Rebolber.<sep>Ribolber.
+Relasyon.<sep>Rilasyon.
+Repinado.<sep>Ripinado.
+Salubsob.<sep>Salogsog.
+Sarisari.<sep>Sarisari.
+Sibilyan.<sep>Sibilian.
+Sinangag.<sep>Sinanlag.
+Singkamas.<sep>Tikamas.
+Singsing.<sep>Singsing.
+Sinturon.<sep>Sintoron.
+Sorbetes.<sep>Sorbetes.
+Sustento.<sep>Sustento.
+Tanikala.<sep>Tanikala.
+Telepono.<sep>Telepono.
+Tenyente.<sep>Tenyente.
+Tindahan.<sep>Tindahan.
+Tiyangge.<sep>Tiyangge.
+Tonelada.<sep>Tonelada.
+Tsinelas.<sep>Tsinelas.
+Tungtong.<sep>Tungtong.
+Tag-Init.<sep>Tag-Init.
+Eklipse.<sep>Bakonawa.
+Langit.<sep>De Langit.
+Dalawa.<sep>Darwa.
+Dalawa.<sep>Dos.
+Tatlo.<sep>Tatlo.
+Tatlo.<sep>Tris.
+Apat.<sep>Apat.
+Apat.<sep>Koatro.
+Lima.<sep>Lima.
+Lima.<sep>Singko.
+Siyam.<sep>Siam.
+Siyam.<sep>Noibi.
+Oras ng araw.<sep>Adlaw.
+Mamaya.<sep>Lagat-Lagat.
+Yakap.<sep>Akes.
+Yakap.<sep>Kepkep.
+Sipang.<sep>Sikad.
+Sipang.<sep>Sipa.
+Makipag-Usap.<sep>Limeg.
+Salaginto.<sep>Bagangan.
+Kabote.<sep>Kolat-Kolat.
+Kamag-Anak.<sep>Parinti.
+Kilay.<sep>Kelai.
+Kilay.<sep>Kelay.
+Pilikmata.<sep>Amimirek.
+Malupit.<sep>Mapintas.
+Bawasan.<sep>Awas.
+Bawasan.<sep>Boin.
+Matulog.<sep>Magkatorog.
+Mas Mahal.<sep>Mas Maal.
+Alkansiya.<sep>Alkansia.
+Kaarawan.<sep>Kaadlawan.
+Kubyertos.<sep>Korbitos.
+Disyembre.<sep>Disimbri.
+Diyanitor.<sep>Dianitor.
+Epidemiya.<sep>Ipidemia.
+Ganansiya.<sep>Ganansia.
+Gantsilyo.<sep>Gansilio.
+Halimbawa.<sep>Alimbawa.
+Lisensiya.<sep>Lisinsia.
+Malinamnam.<sep>Mananam.
+Miyerkules.<sep>Mirkoli.
+Silangan.<sep>Sidlangan.
+Uniporme.<sep>Unipormeh.
+Gabi-Gabi.<sep>Gabi-Gabi.
+Gitna.<sep>Tenga.
+Gitna.<sep>Sintro.
+Harap.<sep>Onan.
+Harap.<sep>Sa Onan.
+Likod.<sep>Likod.
+Likod.<sep>Sa Ori.
+Asim.<sep>Aslem.
+Asim.<sep>Maaslem.
+Mapait.<sep>Pait.
+Mapait.<sep>Mapait.
+Umiyak.<sep>Tangis.
+Umiyak.<sep>Iwik.
+Uminom.<sep>Inem.
+Uminom.<sep>Laklak.
+Ihagis.<sep>Pilak.
+Ihagis.<sep>Rabon.
+Huwag.<sep>Telek.
+Huwag.<sep>Kabli.
+Latigo.<sep>Palo.
+Latigo.<sep>Lapdes.
+Ulo Ng Lupa.<sep> Ololago.
+Sampaloc.<sep>Kalampisaw.
+Camansi.<sep>Kolo.
+Camansi.<sep>Rimas.
+Baba Ng Panga.<sep>Timid.
+Balakang.<sep>Balikawang.
+Binti.<sep>Batis.
+Talampakan.<sep>Raparapa.
+Mapagmataas.<sep>Ambogon.
+Mapagmataas.<sep>Maambog.
+Malupit.<sep>Ara Kanogon.
+Buksan.<sep>Abirto.
+Buksan.<sep>Abrian.
+Bukas.<sep>Abri.
+Maghiwalay.<sep>Magbelag.
+Albularyo.<sep>Albolario.
+Arawaraw.<sep>Adlawadlaw.
+Badminton.<sep>Badminton.
+Basketbol.<sep>Baskitbol.
+Brilyante.<sep>Brilianti.
+Kamantige.<sep>Kamantigi.
+Kamatayan.<sep>Kamatayan.
+Kandidato.<sep>Kandidato.
+Karetilya.<sep>Garatilia.
+Kasalanan.<sep>Kasalanan.
+Kasulutan.<sep>Kasolatan.
+Katapusan.<sep>Kataposan.
+Kuwadrado.<sep>Kowadrado.
+Eleksiyon.<sep>Iliksiyon.
+Entablado.<sep>Intablado.
+Eskandalo.<sep>Iskandalo.
+Makinista.<sep>Makinista.
+Magaspang.<sep>Magaspang.
+Malunggay.<sep>Balonggay.
+Matrikula.<sep>Matrikola.
+Munisipyo.<sep>Monisipyo.
+Ngudngud.<sep>Nfeyengete.
+Pambihira.<sep>Pambihira.
+Panaderya.<sep>Panadiry.
+Prinsipal.<sep>Prinsipal.
+Prusisyon.<sep>Prosisyon.
+Relihiyon.<sep>Rilihiyon.
+Republika.<sep>Ripoblika.
+Salbabida.<sep>Salbabida.
+Sertipiko.<sep>Sirtipiko.
+Sigarilyo.<sep>Sigarilyo.
+Talakitok.<sep>Talakitok.
+Tarantado.<sep>Tarantado.
+Telegrama.<sep>Telegrama.
+Timbangan.<sep>Timbangan.
+Traysikil.<sep>Traysikil.
+Nobyembre.<sep>Nobimbri.
+Disyembre.<sep>Disimbri.
+Bahaghari.<sep>Balangaw.
+Sampu.<sep>Sampolo.
+Sampu.<sep>Dyis.
+Pakiusap!<sep>Patigayon!
+Isang Piso.<sep>Saka Piso.
+Ligtas.<sep>Bonggo.
+Ligtas.<sep>Tolod.
+Sumigaw.<sep>Ogiaw.
+Sumigaw.<sep>Erang.
+Sumisip.<sep>Silig.
+Sumisip.<sep>Karas.
+Bumbilya.<sep>Boyog-Boyog.
+Paruparo.<sep>Alibangbang.
+Alimango.<sep>Tebed-Tebed.
+Sinigwelas.<sep>Sirgoilas.
+Ano kaya?<sep>Ano kabay?
+Tanga.<sep>Maroya ag isip.
+Mapagmataas.<sep>Bogalen.
+Maliit.<sep>Maite.
+Maliit.<sep>Maitey.
+Mababa.<sep>Mababa.
+Mababa.<sep>Potot.
+Pababa.<sep>Baba.
+Pababa.<sep>Paibaba.
+Ebidensiya.<sep>Ibidinsia.
+Makinilya.<sep>Makinailya.
+Mantikilya.<sep>Matikilya.
+Monumento.<sep>Maniominto.
+Palanggana.<sep>Planggana.
+Punongkahoy.<sep>Ponokaoy.
+Purgatoryo.<sep>Porgatory.
+Sampaguita.<sep>Sampagita.
+Tag-Ulan.<sep>Tag-Ororan.
+Bulalakaw.<sep>Bolalakaw.
+Isang libo.<sep>Saka ribo.
+Araw-araw.<sep>Adlaw-adlaw.
+Hatinggabi.<sep>Tenga gabi.
+Sa ngayon.<sep>Dading lagi.
+Tuwing hapon.<sep>Kadaapon.
+Isang taon.<sep>Saka dagon.
+Umusad.<sep>Dayon.
+Umusad.<sep>Dalagan.
+Tanggap.<sep>Risibi.
+Tanggap.<sep>Dawat.
+Pukol.<sep>Sontok.
+Pukol.<sep>Pabotil.
+Tumawa.<sep>Alakak.
+Tumawa.<sep>Kadlaw.
+Hugasan.<sep>Bonak.
+Hugasan.<sep> Koskos.
+Sigarilyas.<sep>Sigidilias.
+Bulbol ng pubis.<sep>Sabot.
+Ay sayang!<sep>Ay sayang!
+Hilain.<sep>Beteng.
+Hilain.<sep>Beras.
+Sa taas.<sep>Sa obong.
+Pataas.<sep>Pasaka.
+Mas malaki.<sep>Mas mabael.
+Mas maliit.<sep>Mas maitey.
+Mas mataas.<sep>Mas mataas.
+Mas mababa.<sep>Mas mababa.
+Mas mataas.<sep>Mas mataas.
+Mas mababa.<sep>Mas mababa.
+Mas pangit.<sep>Mas marimo.
+Mas malaki.<sep>Mas marake.
+Mas maliit.<sep>Mas maitey.
+Mas mahina.<sep>Mas maroya.
+Mas magaan.<sep>Mas maagan.
+Mas murang.<sep>Mas barato.
+Mas matanda.<sep>Mas malam.
+Alang-alang.<sep>Alang-alang.
+Bentilador.<sep>Bilintador.
+Bungisngis.<sep>Bongisngis.
+Kampanaryo.<sep>Kampanaryo.
+Demokrasya.<sep>Dimokrasia.
+Ebanghelyo.<sep>Ibanghilio.
+Engkantado.<sep>Ingkantado.
+Eskuwelahan.<sep>Iskowilan.
+Estudyante.<sep>Istodianti.
+Galunggong.<sep>Galonggong.
+Gobernador.<sep>Gobirnador.
+Milyonaryo.<sep>Milyonaryo.
+Pakinabang.<sep>Pakinabang.
+Pagkatapos.<sep>Pagkatapos.
+Salamangka.<sep>Salamangka.
+Sekretarya.<sep>Sikritarya.
+Sinegwelas.<sep>Sirgoilas.
+Sinegwelas.<sep>Sirgoilas.
+Sustansiya.<sep>Sustansiya.
+Watakwatak.<sep>Watakwatak.
+Miyerkules.<sep>Mirkolis.
+Kumusta?<sep>Komosta kamo?
+Kagabi.<sep>Kaapon nga gabi.
+Isang buwan.<sep>Saka bolan.
+Magkano?<sep>Pira?
+Magkano?<sep>Tagpira?
+Huminto.<sep>Tadeng.
+Huminto.<sep>Panari.
+Matamis.<sep>Tamis.
+Matamis.<sep>Matamis.
+Tumakbo.<sep>Dalagan.
+Tumakbo.<sep>Keras.
+Maglakad.<sep>Panaw.
+Maglakad.<sep>Tikang.
+Langaw.<sep>Agindan.
+Labanos.<sep>Rabanos.
+Labanos.<sep>Radis.
+Para saan?<sep>Para sadin?
+Gwapo.<sep>Matinlong lalaki.
+Malaki.<sep>Mabael.
+Malaki.<sep>Malapad.
+Itago.<sep>Tagon.
+Itago.<sep>Palipedan.
+Mas mahaba.<sep>Mas malabeg.
+Mas maikli.<sep>Mas mataged.
+Mas mabagal.<sep>Mas maloyo.
+Mas makitid.<sep>Mas mapiet.
+Bato-balani.<sep>Batobalani.
+Estranghero.<sep>Istranhiro.
+Heringgilya.<sep>Iringgilia.
+Setyembre.<sep>Siptimbri.
+Maya maya.<sep>Lagat-lagat.
+Talaga ba?<sep>Matod manda?
+Nasa sa iyo.<sep>Baala kaw.
+Masamang panaginip.<sep>Opay.
+Sampung piso.<sep>Dyis pisos.
+Babaeng manok.<sep>Manigbata.
+Gering-giring.<sep>Dalomasig.
+Kapatid na babae.<sep>Manang.
+Pamangkin.<sep>Inables nga babai.
+Apong babae.<sep>Apong babai.
+Ulo at leeg.<sep>Olo ig lieg.
+Likod ng tuhod.<sep>Lelenan.
+Ano kung?<sep>Samaoro kong?
+Kawawa naman!<sep>Kailo ra!
+Matipid.<sep>Matipid.
+Matipid.<sep>Maimet.
+Generoso.<sep>Abri ang alima.
+Mas mabilis.<sep>Mas madasig.
+Mas makapal.<sep>Mas madamel.
+Mas manipis.<sep>Mas manipis.
+Mas mabigat.<sep>Mas mabeagat.
+Mas matigas.<sep>Mas mategas.
+Mas malalim.<sep>Mas madalem.
+Mas mababaw.<sep>Mas mababaw.
+Mas madumi.<sep>Mas maboring.
+Kasangkapan.<sep>Kasangkapan.
+Korporasyon.<sep>Korporasyon.
+Konsumisyon.<sep>Konsimision.
+Inspirasyon.<sep>Inspirasyon.
+Araw-araw.<sep>Adlaw-adlaw.
+Araw-araw.<sep>Tanang adlaw.
+Magkano?<sep>Pira?
+Magkano?<sep>Tagpira?
+Alog.<sep>Ileng-ileng.
+Alog.<sep>Dogdog.
+Pamilya.<sep>Pamilia.
+Kapatid na lalaki.<sep>Manong.
+Bukong-bukong.<sep>Pokolpokol.
+Walang ingat.<sep>Aras-aras.
+Mas malakas.<sep>Mas mabaskeg.
+Mas malapad.<sep>Mas mawayang.
+Mas malambot.<sep>Mas malemek.
+Mas malinis.<sep>Mas malimpio.
+Limang libo.<sep>Lima ka ribo.
+Isang linggo.<sep>Saka domingo.
+Limang piso.<sep>Lima ka pisos.
+Lalaki ng manok.<sep>Langganen.
+Nephew.<sep>Inables nga lalaki.
+Apong lalaki.<sep>Apong lalaki.
+Takip mata.<sep>Kilid ang mata.
+Bakit ganyan?<sep>Ayamo dato?
+Mabuhay.<sep>Maboi.
+Mabuhay.<sep>Magpakaboi.
+Anting-anting.<sep>Anting-anting.
+Salamangker.<sep>Salamangkiro.
+Apat na libo.<sep>Apat ka ribo.
+Araw at gabi.<sep>Adlaw ig gabi.
+Liwanag ng araw.<sep>Pagkasanag.
+Tuwing umaga.<sep>Kada timprano.
+Pagbabago ng pera.<sep>Sinsilio.
+Isang sentimo.<sep>Saka sintabo.
+Dalhin.<sep>Dara.
+Dalhin.<sep>Bitbit.
+Dalhin.<sep>Karga.
+Ikiling.<sep>Tonga.
+Ikiling.<sep>Tonga-tonga.
+Paniki.<sep>Kabilaw.
+Paniki.<sep>Kolalanit.
+Anak na babae.<sep>Batang babai.
+Buong mukha.<sep>Itsora.
+Mapagpakumbaba.<sep>Mababa leba.
+Ipakita.<sep>Ipaseleng.
+Kamotengkahoy.<sep>Kamotengkaoy.
+Pitumpu.<sep>Pitompolo.
+Pitumpu.<sep>Sitinta.
+Walumpu.<sep>Walompolo.
+Walumpu.<sep>Otsinta.
+Tatlong libo.<sep>Tatlo ka ribo.
+Bukang-liwayway.<sep>Kasasanagen.
+Asawang babae.<sep>Asawang babai.
+Unang pinsan.<sep>Ilog i kaisara.
+Kuko sa kamay.<sep>Koko sa alima.
+Kuko ng daliri.<sep>Koko sa siki.
+Walang ingat.<sep>Ara pag amblig.
+Mahirap.<sep>Malised.
+Mahirap.<sep>Ara koarta.
+Pinakamabenta.<sep>Pinakabaminta.
+Dalawang libo.<sep>Darwa ka ribo.
+Bukas ng gabi.<sep>Aroman sa gabi.
+Sa ibang araw.<sep>Sa ibang adlaw.
+Napakamahal!<sep>Masiadong maal!
+Anak na lalaki.<sep>Batang lalaki.
+Bakit mahirap?<sep>Ayamo makori?
+Magtanggap.<sep>Magtogot.
+Magtanggap.<sep>Togotan.
+Bagyo.<sep>Mabaskeg nga karatong.
+Dalawampu.<sep>Darwampolo.
+Dalawampu.<sep>Bainti.
+Tatlumpu.<sep>Tatlompolo.
+Tatlumpu.<sep>Trainta.
+Isang daan.<sep>Saka gatos.
+Isang daan.<sep>Sinto.
+Ngayon.<sep>Dadi.
+Ngayon.<sep>Sa adlaw nga dia.
+Bukas ng hapon.<sep>Aroman sa apon.
+Maghapon.<sep>Magaapon.
+Maghapon.<sep>Saka adlaw.
+Magdamag.<sep>Magdamlag.
+Dalawampung piso.<sep>Bainti pisos.
+Ang pulang ito.<sep>Ang mapola.
+Ang puting ito.<sep>Ang mapoti.
+Gusto ko ito.<sep>Aliagan ko dia.
+Siya si Alice.<sep>Tana si Alice.
+Asawang lalaki.<sep>Asawang lalaki.
+Ikalawang pinsan.<sep>Ilog i karwa.
+Ninang ng sariling anak.<sep>Komay.
+Kasukasuan.<sep>Kaogatan.
+Kasukasuan.<sep>Tornilio.
+Saan ka na?<sep>Adin kaw agpakon?
+Generoso.<sep>Madali i pakitawan.
+Mamatay.<sep>Mapatay.
+Limampu.<sep>Limampolo.
+Limampu.<sep>Singkointa.
+Hanggang sa muli.<sep>Dading lagi.
+Sa ibang araw.<sep>Sa pira ka adlaw.
+Kuwartang papel.<sep>Koartang papil.
+Suhol na pera.<sep>Padanleg.
+Puso ng saging.<sep>Poso ang saging.
+Ninong ng sariling anak.<sep>Kompay.
+Sino ka?<sep>Sino kaw?
+Sino ka?<sep>Ikaw sino?
+Saan ka galing?<sep>Tagasadin kaw?
+Pangit.<sep>Marimo.
+Pangit.<sep>Beken i postora.
+Magalit.<sep>Masalug.
+Magalit.<sep>Magpangasilag.
+Kamotengbaging.<sep>Kamottingbalagen.
+Magandang gabi.<sep>Mayad nga gabi.
+Paalam!<sep>Adios! Maalin ako ron!
+Sa makalawa.<sep>Sa pangarwang adlaw.
+Limampung piso.<sep>Singkointa pisos.
+Ang maliit na ito.<sep>Ang maite.
+Ang nasa gitna.<sep>Ang sa tenga.
+Gusto ko iyon.<sep>Aliagan ko dato.
+Mag-ingat.<sep>Pag-amdam.
+Mag-ingat.<sep>Pag-amblig.
+Masama.<sep>Marimo.
+Masama.<sep>Bastos ang ogali.
+Animnapu.<sep>Anem ka polo.
+Animnapu.<sep>Saisinta.
+Siyamnapu.<sep>Siam ka polo.
+Siyamnapu.<sep>Nobinta.
+Magandang araw.<sep>Mayad nga adlaw.
+Magandang hapon.<sep>Mayad nga apon.
+Nag-aalangan ako.<sep>Alanganen ako.
+Kahapon ng hapon.<sep>Kaapon nga apon.
+Guni-guni ng araw.<sep>Akatonganga.
+Malamig na gabi.<sep>Maramig nga gabi.
+Bago ba ito?<sep>Bago pa dia?
+Ang itim na ito.<sep>Ang mangitit.
+Tumulong.<sep>Tabid.
+Tumulong.<sep>Tabiden.
+Tumulong.<sep>Tabidan.
+Anak na babae.<sep>Ing anak nga babai.
+Ayan ang lalaki!<sep>Dan ang lalaki!
+Bakit dapat gawin?<sep>Ayamo simpri!
+Mayaman.<sep>Manggaden.
+Mayaman.<sep>Dorong koarta.
+Magkasama.<sep>Mag imbeng.
+Magkasama.<sep>Magtabidan.
+Labinlima.<sep>Sampolo ig lima.
+Labinlima.<sep>Kinsi.
+Apatnapu.<sep>Apat nga polo.
+Apatnapu.<sep>Koarinta.
+Pasok!<sep>Pagdayon kamo.
+Pasok!<sep>Dayon kamo.
+Mabuti, salamat.<sep>Mayada, salamat.
+Bukas ng umaga.<sep>Aroman sa timprano.
+Maagang gabi.<sep>Bago mag gabi.
+Maagang gabi.<sep>Sirem.
+Mahilig sa pera.<sep>Matakab sa koarta.
+Bago ba ito?<sep>Dia bago?
+Bago ba ito?<sep>Bago dia?
+Ang malaki na ito.<sep>Ang mataged.
+Ang mahaba na ito.<sep>Ang malabeg.
+Malapit.<sep>Masebek.
+Marapit.<sep>Masebek.
+Mapait.<sep>Mapaet.
+Talbos ng kamote.<sep>Ogbos ang kamoti.
+Bakit ka galit?<sep>Ayamo asilag kaw?
+Bakit ka nandito?<sep>Ayamo digi kaw?
+Matalino.<sep>Brait.
+Matalino.<sep>Maantigo.
+Matalino.<sep>Akaelam.
+Pinong tao.<sep>Pino.
+Pinong tao.<sep>Beken i maraskal.
+Tumanggi.<sep>Indi agtogot.
+Tumanggi.<sep>Pangindian.
+Pagkukumpra.<sep>Pagkompara, pagtakes.
+Mas maganda.<sep>Mas matinlo.
+Labing-isa.<sep>Sampolo ig isara.
+Labing-isa.<sep>Onsi.
+Palit ng pera.<sep>Taga bailo i koarta.
+Magkano ito?<sep>Pira dia.
+Magkano ito?<sep>Tagpira dia.
+Bibili ako nito.<sep>Babakalen ko dia.
+Biyenan na babae.<sep>Panogangang babai.
+Anak na lalaki.<sep>Ing anak nga lalaki.
+Saan ka pupunta?<sep>Adin kaw mapakon?
+Labindalawa.<sep>Sampolo ig darwa.
+Labindalawa.<sep>Dosi.
+Labintatlo.<sep>Sampolo ig tatlo.
+Labintatlo.<sep>Trisi.
+Maraming salamat.<sep>Matamang salamat.
+Sa mga araw na ito.<sep>Sa pira ka adlaw.
+Isang daan piso.<sep>Saka gatos ka pisos.
+Maging alerto.<sep>Alisto kaw.
+Maging alerto.<sep>Pagbantay.
+Maging malungkot.<sep>Mapongaw.
+Maging malungkot.<sep>Pongawan.
+Limang daan.<sep>Lima ka gatos.
+Limang daan.<sep>Kinintos.
+Magandang umaga.<sep>Mayad nga timprano.
+Kahapon ng umaga.<sep>Kaapon nga timprano.
+Isang araw.<sep>Isarang adlaw.
+Isang araw.<sep>Saka adlaw.
+Alkansya.<sep>Alkansia.
+Alkansya.<sep>Taragoan i koarta.
+Bago ba iyon?<sep>Dato bago?
+Bago ba iyon?<sep>Bago dato?
+Ang nasa likod.<sep>Dato ang sa likod.
+Bibili ako niyan.<sep>Babakalen ko dato.
+Maghintay sa kanto.<sep>Pag elat sa kanto.
+Biyenan na lalaki.<sep>Panogangang lalaki.
+Manugang na babae.<sep>Manogang nga babai.
+Ano ang pangalan mo?<sep>Ano imong aran?
+Kailan ka umalis?<sep>Kaano kaw agpakon?
+Saan siya galing?<sep>Adin tana ag alin?
+Bakit ka masaya?<sep>Ayamo maambeng kaw?
+Bakit mahirap?<sep>Ayamo makori?
+Maging masaya.<sep>Malipay.
+Maging masaya.<sep>Magpangalipay.
+Magsinungaling.<sep>Magbotig.
+Magsinungaling.<sep>Kon i botig.
+Labing-apat.<sep>Sampolo ig apat.
+Labing-apat.<sep>Katorsi.
+Labimpito.<sep>Sampolo ig pito.
+Labimpito.<sep>Disisyiti.
+Labingwalo.<sep>Sampolo ig walo.
+Labingwalo.<sep>Disiotso.
+Huwag naman sana!<sep>Patawaden ang Gino!
+Guni-guni ng araw.<sep>Agaisip i madalem.
+Limampung sentimo.<sep>Singkointa sintabos.
+Magkano iyan?<sep>Pira dato.
+Magkano iyan?<sep>Tagpira dato.
+Liko sa kanan.<sep>Liko sa to.
+Liko sa kanan.<sep>Teyeb sa to.
+Matamis ang kendi.<sep>Matamis ang kindi.
+Maasim ang suka.<sep>Maaslem ang langgaw.
+Dahon ng malunggay.<sep>Daon ang balonggay.
+Sino ang gobernador?<sep>Ang gobernador?
+Taga saan po kayo?<sep>Taga adin kamo?
+Labing-anim.<sep>Sampolo ig anem.
+Labing-anim.<sep>Disisais.
+Labinsiyam.<sep>Sampolo ig siam.
+Labinsiyam.<sep>Disinoibi.
+Walang anuman.<sep>Indi moy intindien dan.
+Ganoon ba?<sep>Dato gali?
+Ganoon ba?<sep>Kondato talaga?
+Darating ang araw.<sep>Magaabot ang adlaw.
+Noong nakaraang taon.<sep>Aglebas nga dagon.
+Maraming pera.<sep>Dorong koarta.
+Maraming pera.<sep>Manggaden.
+Manugang na lalaki.<sep>Manogang nga lalaki.
+Sino ang kasama mo?<sep>Sino imong kaiban?
+Kailan ka dumating?<sep>Kaano kaw ag abot?
+Kailan ka darating?<sep>Inoro kaw mapakon?
+Kailan tayo kakain?<sep>Inoro kita makaen?
+Saan mo nakuha iyon?<sep>Adin mo abel dan?
+Bakit ka umiiyak?<sep>Ayamo agatangis kaw?
+Ilang taon ka na?<sep>Pira ka ren kadagon?
+Ano ang trabaho mo?<sep>Ano imong trabaho?
+Walong daan.<sep>Otso sintos.
+Sampung libo.<sep>Sampolo ka ribo.
+Tuwing isang araw.<sep>Kada darwa ka adlaw.
+Hanggang ngayon.<sep>Asta sa adlaw nga dia.
+Sa susunod na araw.<sep>Sa madason nga adlaw.
+Sa susunod na taon.<sep>Sa madason nga dagon.
+Noong nakaraang buwan.<sep>Aglebas nga bolan.
+Ang nakalagay dito.<sep>Ang dato sa onan.
+Mag-ingat!<sep>Amblig!
+Mag-ingat!<sep>Bantay!
+Mag-ingat!<sep>Pagbantay!
+Kailangan kong nandito.<sep>Dapat doto ako.
+Ano ang masasabi mo?<sep>Ano imong kakokon?
+Kailan ito nangyari?<sep>Kaano dato atabo?
+Bakit ka tumatawa?<sep>Ayamo agakadlaw kaw?
+Bakit ka malungkot?<sep>Ayamo mapongaw kaw?
+Bakit ka sumisigaw?<sep>Ayamo agaogiaw kaw?
+Ano po ang sa atin?<sep>Ano ang kanaten?
+Maupo muna kayo.<sep>Pagurang kamo anay.
+Anim na raan.<sep>Anem ka gatos.
+Anim na raan.<sep>Sais sintos.
+Pitong daan.<sep>Pito ka gatos.
+Pitong daan.<sep>Syiti sintos.
+Bukas ng tanghali.<sep>Aroman sa ogtong adlaw.
+Sa susunod na araw.<sep>Sa madason nga adlaw.
+Sa susunod na buwan.<sep>Sa madason nga bolan.
+Ano sa tingin mo?<sep>Ano sa imong pabetang?
+Dalawang daan.<sep>Darwa ka gatos.
+Dalawang daan.<sep>Dos sintos.
+Tatlong daan.<sep>Tatlo ka gatos.
+Tatlong daan.<sep>Tris sintos.
+Mamayang gabi.<sep>Lagat sa gabi.
+Mamayang gabi.<sep>Dadi sa gabi.
+Mga taon na lumipas.<sep>Aglebas nga mga dagon.
+Nagpapahiram ng pera.<sep>Agapaotang i koarta.
+Mapait ang ampalaya.<sep>Mapait ang maragoso.
+Bakit kita mahal?<sep>Ayamo ingmamaal ta kaw?
+Bakit gusto kita?<sep>Ayamo aliliagan ta kaw?
+Maantigo.<sep>Brait tana.
+Ikaw ay kaakit-akit.<sep>Matinlong lalaki kaw.
+Apat na raan.<sep>Apat ka gatos.
+Apat na raan.<sep>Koatro sintos.
+Siyam na raan.<sep>Siam ka gatos.
+Siyam na raan.<sep>Noibi sintos.
+Noong nakaraang Linggo.<sep>Aglebas nga Domingo.
+Luma ba ito?<sep>Dia loma ren?
+Luma ba ito?<sep>Dia malam den?
+Liko sa kaliwa.<sep>Liko sa wala.
+Liko sa kaliwa.<sep>Teyeb sa wala.
+Ano ang gagawin natin?<sep>Ano ateng boboaten?
+Bakit ka natatakot?<sep>Ayamo ing adlekan kaw?
+Bakit ka nanginginig?<sep>Ayamo agakelkeg kaw?
+Bakit, ikaw ang dahilan!<sep>Ayamo, ikaw dato!
+Ikaw ay matalino.<sep>Maantigo kaw.
+Ikaw ay matalino.<sep>Brait kaw.
+Siya ay matalino.<sep>Maantigo dan.
+Siya ay matalino.<sep>Brait dan.
+Ikaw ay mapagpakumbaba.<sep>Mababa imong leba.
+Pinakamaganda.<sep>Pinakamaantigo.
+Pinakamaganda.<sep>Pinakamaosay.
+Sino ang city mayor?<sep>Sino ang city mayor?
+Pakihintay lang po.<sep>Patigayon y elaten.
+Magandang tanghali.<sep>Mayad nga ogtong adlaw.
+Patawad.<sep>Pasinsia lamang.
+Patawad.<sep>Pakitaw pasinsia.
+Nagtataka ako, bakit?<sep>Abebereng ako, ayamo?
+Kahapon ng tanghali.<sep>Kaapon nga ogtong adlaw.
+Sa liwanag ng araw.<sep>Sa kasasanagen ang adlaw.
+Sa susunod na linggo.<sep>Sa madason nga domingo.
+Sa susunod na Linggo.<sep>Sa madason nga Domingo.
+Lugar para sa paradahan.<sep>Paradan.
+Lugar para sa paradahan.<sep>Taradengan.
+Maanghang ang paminta.<sep>Maarat ang katombal.
+Ang pangalan niya ay Mark.<sep>Mark anang aran.
+Siya ay taga Bulacan.<sep>Tana ay taga Bulakan.
+Isang milyon.<sep>Isara ka million, saka million.
+Maligayang pagdating!<sep>Maambeng nga pag-abot!
+Pagpalain ka ng Diyos!<sep>Kaloyan kaw ang Dios!
+Araw bago ngayon.<sep>Bago pa ang adlaw nga dia.
+Noong nakaraang gabi.<sep>Gabi bago kaapon.
+Sino ang kaibigan mo?<sep>Sino dan imong tangay?
+Kailan mangyayari iyon?<sep>Inoro dato matatabo?
+Bakit ka nagtago?<sep>Ayamo agatago kaw?
+Ang pangalan ko ay Mark.<sep>Akeng aran ay Mark.
+Ako ang bahala.<sep>Ako ang baala.
+Ako ang bahala.<sep>Baala ako ron.
+Napakamahal!<sep>Ang maal ingan!
+Napakamahal!<sep>Masiadong maal!
+Luma ba iyon?<sep>Loma ren dato?
+Luma ba iyon?<sep>Malam den dato?
+Ano ang dapat kong gawin?<sep>Ano akeng boboaten?
+Kailan ka pupunta?<sep>Inoro kaw mapakon?
+Bakit hindi mo sabihin?<sep>Ayamo animan ngani.
+Makasarili.<sep>Isbotan.
+Makasarili.<sep>Maisbot.
+Makasarili.<sep>Sirado ang alima.
+Maging magkaibigan.<sep>Magpakigtangay.
+Maging magkaibigan.<sep>Paratangay.
+Kahit ano pa ang mangyari.<sep>Maski anong matabo.
+Bawal ang parada.<sep>Bawal agparada.
+Bawal ang parada.<sep>Indi agparada.
+Saan mo ito ginagamit?<sep>Sadin mo dan gagamiten?
+Siya ay maganda.<sep>Mapostora tana.
+Siya ay maganda.<sep>Matinlo tana.
+Tana ang pinakamahusay.<sep>Tana ang pinakamaosay.
+Isang daang libo.<sep>Saka gatos ka ribo, sinto mil.
+Isang Libong Piso.<sep>Saka ribo ka pisos.
+Isang Libong Piso.<sep>Saka ribo.
+Sino ang nagsabi sa iyo?<sep>Sino ang agkon kanimo?
+Sa tulong ng Diyos!<sep>Kong itogot ang Gino!
+Ako ang bahala sa sitwasyon.<sep>Ako ang baala dian.
+Gabing nagdaan.<sep>Kaapon nga gabi.
+Gabing nagdaan.<sep>Aglebas nga gabi.
+Mataas ang presyo.<sep>Ang taas ang prisio.
+Mataas ang presyo.<sep>Ang maal.
+Kailan ka pupunta sa bahay?<sep>Inoro kaw mapakon sa balay?
+Bakit ako dapat mag-alala?<sep>Ayamo magadoadoa ako?
+Dalawampung libo.<sep>Darawampolo ka ribo, bainti mil.
+Kamakalawa.<sep>Aglebas nga darwa ka adlaw.
+Kamakalawa.<sep>Kasangapon.
+Limang Daan Piso.<sep>Lima ka gatos ka pisos.
+Limang Daan Piso.<sep>Kinintos.
+Napakamura!<sep>Ang kabarato ingan!
+Napakamura!<sep>Dorong kabarato!
+Ano ang ibig mong sabihin?<sep>Ano imong maliag ikon?
+Siya ay mabuti.<sep>Mayad tana.
+Siya ay mabuti.<sep>Mayad ang batang dia.
+Sa inyo na lang ang sukli.<sep>Kanimo ron ang sinsilio.
+Pakibilan ako ng kape.<sep>Patigayon pabakal ako kape.
+Sino ang makikita natin?<sep>Sino ang mabagat kanaten?
+Dalawamput lima.<sep>Darwampolo ig lima.
+Dalawamput lima.<sep>Bainti singko.
+Pwede bang tumawad?<sep>Poidi ka tawad.
+Pwede bang tumawad?<sep>Poiding tawadan.
+Bakit ka nandito?<sep>Ayamo digi kaw?
+Bakit ka nandito?<sep>Ayamo ikaw digi?
+Bakit mo ito kailangan?<sep>Ayamo kaministiran mo dato?
+Saan ka mananatili dito?<sep>Sadin kamo magadayon digi?
+Paano kita matutulungan?<sep>Samuro takaw matabangan?
+Ano po ang inyong problema?<sep>Ano indong problema?
+Siya ay taga Cuyo, Palawan.<sep>Taga Cuyo, Palawan tana.
+Bakit ko ikinagagalit ka?<sep>Ayamo asisilag ako kanimo?
+Ang batang iyon ay maingat.<sep>Maandam ang batang dato.
+Ano po ang aming maitutulong?<sep>Ano ameng katatabang?
+Limang Libong Piso.<sep>Lima ka ribong pisos.
+Limang Libong Piso.<sep>Lima ka ribo.
+Maasin ang tubig sa dagat.<sep>Maasin ang tobig sa dagat.
+Ano ang maiaalok ko sa iyo?<sep>Ano akeng katatao kanimo?
+Isang daan at sampu.<sep>Saka gatos ig sampolo.
+Isang daan at sampu.<sep> Sinto dyis.
+Paumanhin.<sep>Poidi kalebas.
+Paumanhin.<sep>Poidi kaagi
+Paumanhin.<sep>Palebas.
+Paumanhin.<sep>Paagi.
+Huwag pahintulutan ng Langit!<sep>Indi ra itogot ang Gino!
+Bawal ang pagsakay at pagbaba.<sep>Indi agsakay ig agbaba.
+Kailan ka nanood ng pelikula?<sep>Kaano kaw agseleng sini?
+Kailan ka pumunta sa bahay?<sep>Kaano kaw agpakon sa balay?
+Saan ka nakatira?<sep>Adin kaw agaistar?
+Saan ka nakatira?<sep>Adin kaw agaoli?
+Bakit ka nag-uusisa?<sep>Ayamo aga pangotana kaw?
+Hindi ko alam kung bakit?<sep>Indi ko maelaman kong ayamo?
+Siya ay masipag.<sep>Maderep tana.
+Siya ay masipag.<sep>Maderep ang batang dia.
+Pahintulot ng Diyos.<sep>Itogot ang Gino.
+Pahintulot ng Diyos.<sep>Togotan ang Gino.
+Huminto, Tumingin at Makinig!<sep>Tadeng, Seleng ig Pamati!
+Sino ang mga magulang mo?<sep>Sino imong mga gorang-gorang?
+Sino ang nag-imbita sa iyo?<sep>Sino ang ag imbitar kanimo?
+Magsabi ng katotohanan.<sep>Magbaeg ang Matod.
+Magsabi ng katotohanan.<sep>Kon ang Matod.
+Ano po ang inyong kailangan?<sep>Ano indong kaministeran?
+Ibigay ang sukli.<sep>Itaw ang sinsilio.
+Ibigay ang sukli.<sep>Sinsilioan mo.
+Maglakad nang mabilisan.<sep>Panaw i madasig.
+Maglakad nang mabilisan.<sep>Aporadong panaw.
+Dalawang Libong Piso.<sep>Darwa ka ribong pisos.
+Dalawang Libong Piso.<sep>Darwa ka ribo.
+Maglakad nang mabilis.<sep>Paspas ang panaw.
+Maglakad nang mabilis.<sep>Dasigan ang panaw.
+Tumayo sa gitna ng kalsada.<sep>Pagtindeg sa tenga ang karsada.
+Magdahan-dahan.<sep>Amat-amat lamang.
+Magdahan-dahan.<sep>Loay-loay lamang.
+Magdahan-dahan.<sep>Paloyo.
+Mario, sasama ka ba sa amin?<sep>Mario, ikaw matabid kanamen?
+Saan ang masama sa pagsubok?<sep>Ano ang marimo kong samitan?
+Kailan ka dumating sa Puerto?<sep>Kano kamo agabot sa Puerto?
+Tama ang presyo.<sep>Tama ang prisio.
+Tama ang presyo.<sep>Sakto lamang ang prisio.
+Sino ang nagbigay sa iyo niyan?<sep>Sino ang agtao kanimo dan?
+Ano ang pangalan ng iyong pinsan?<sep>Ano ang aran imong ilog?
+Ang presyo ay mura.<sep>Ang baba ang prisio.
+Ang presyo ay mura.<sep>Barato ang prisio.
+Langgam.<sep>Palamingko.
+Anay.<sep>Anay.
+Langgam.<sep>Dapo-dapo.
+Langgam.<sep>Dalit-dalit.
+Langgam.<sep>Koto-koto.
+Ano ang maitutulong ko sa iyo?<sep>Ano akeng katatabang kanimo.
+Bakit ko ito sinabi sa iyo?<sep>Ayamo ingkon ko dia kanimo.
+Sampung Libong Piso.<sep>Sampolo ka ribong pisos.
+Sampung Libong Piso.<sep>Sampolo ka ribo.
+Isang daan at pitumpu.<sep>Saka gatos ig pitompolo.
+Isang daan at pitumpu.<sep>Sinto sitinta.
+Isang daan at walumpu.<sep>Saka gatos ig walompolo.
+Isang daan at walumpu.<sep>Sinto otsinta.
+Kung paano mo gusto.<sep>Kong maliag kaw.
+Kung paano mo gusto.<sep>Kong ano imong aliagan.
+Ito ang aking kaibigan.<sep>Dagi akeng tangay.
+Ito ang aking kaibigan.<sep>Akeng tangay dia.
+Gaano kalayo ang capitol mula dito?<sep>Mororayeang capitol digi?
+Maglakad nang dahan-dahan.<sep>Loay-loay nga panaw.
+Maglakad nang dahan-dahan.<sep>Panaw i maloyo.
+Isang daan at dalawampu.<sep>Saka gatos ig darwampolo.
+Isang daan at dalawampu.<sep>Sinto bainti.
+Isang daan at tatlumpu.<sep>Saka gatos ig tatlompolo.
+Isang daan at tatlumpu.<sep>Sinto trainta.
+Huwag mo nang intindihin.<sep>Bayan mo ron lamang.
+Huwag mo nang intindihin.<sep>Indi moy isipen.
+Sino ang sasama sa akin?<sep>Sino ang matabid kanaken?
+Ano po ang inyong pangalan, at edad po?<sep>Ano imong aran, edad?
+Isang daan at limampu.<sep>Saka gatos ig limampolo.
+Isang daan at limampu.<sep>Sinto singkointa.
+Kay ganda ng umaga!<sep>Ang katinlo ingan ang timpo.
+Wow, ang ganda!<sep>Aroy, ang tinlo ingan!
+Wow, ang ganda!<sep>Aroy, ang katinlo baya!
+Kailan mo natanggap ang aking text?<sep>Kaano mo arisibi akeng tiks?
+Ipapasyal namin siya sa siyudad.<sep>Papasiar ta tana digi sa siodad.
+Saan mo nakuha ang kuwentong iyon?<sep>Adin mo abel ang kointong dan?
+Isang daan at apatnapu.<sep>Saka gatos ig apat ka polo.
+Isang daan at apatnapu.<sep>Sinto koarinta.
+Isang daan at animnapu.<sep>Saka gatos ig anem ka polo.
+Isang daan at animnapu.<sep>Sinto saisinta.
+Isang daan at siyamnapu.<sep>Saka gatos ig siam ka polo.
+Isang daan at siyamnapu.<sep>Sinto nobinta.
+Huwag mo nang banggitin.<sep>Ara bali dan.
+Huwag mo nang banggitin.<sep>Indi mo ron i sambiten dan.
+Kailan mo sinabi na mahal mo ako?<sep>Kaano kaw agkon nga maal mo ako?
+Saan ang daan papunta sa city hall?<sep>Sadin ang papakonsa city hall?
+Isang Daan Libong Piso.<sep>Sakagatos ka ribong pisos.
+Isang Daan Libong Piso.<sep>Saka gatos ka ribo.
+Magandang Hapon, Kamusta po kayo?<sep>Mayad nga apon, kumusta kamo ron?
+Saan ka kumakain tuwing tanghali?<sep>Adin kaw agakaen kada ogtong adlaw?
+Ano ang pangalan ng iyong kapatid na babae?<sep>Ano ang aran imong manang?
+Isang Milyong Piso.<sep>Isara ka miliong pisos.
+Isang Milyong Piso.<sep>Isara ka milion.
+Isang Milyong Piso.<sep>Saka milion.
+Ano ang pangalan ng iyong kapatid na lalaki?<sep>Ano ang aran imong manong.
+Paki-fill up po ang form na ito.<sep>Patigayon y sabaten ang form nga dya.
+Gaano katagal ka mananatili sa Palawan?<sep>Asta inoro kamo digi sa Palawan.
+Ano ang mga magandang restawran dito?<sep>Ano ang matitinlong karaenan digi?
+Kilalanin mo ang kapatid kong lalaki.<sep>Bagaten mo si manong.
+Magandang Umaga, Kamusta po kayo?<sep>Mayad nga timprano, kumusta kamo ron.
+Magandang Tangahali, Kamusta po kayo?<sep>Mayad nga ugto, kumusta kamo ron.
+Ano ang pangalan ng mga magulang mo?<sep>Ano ang aran imong mga gorang-gorang.
+Mabuting mabuti, Salamat.<sep>Mayad nga mayad, Salamat.
+Mabuting mabuti, Salamat.<sep>Dorong kaayad. Salamat.
+Wow, ang tamis!<sep>Aroy, ang tamis ingan!
+Wow, ang tamis!<sep>Aroy, midio papalamingkon den dan!
+Narito siya para sumali sa Baragatan.<sep>Digi tana para mag-ireg sa Baragatan.
+Napakasaya ng oras na iyon!<sep>Ang kaambeng kita noel.
+Napakasaya ng oras na iyon!<sep>Ang kaambeng kami ingan!
+Pinakamahusay na manlalaro ng basketbol.<sep>Pinakamaantigo agkarawat i baskitbol.
+Magkano ang huling presyo?<sep>Pira ang oring prisio.
+Magkano ang huling presyo?<sep>Pira ang pinakamababang prisio.
+Huwag mag-iwan ng anumang gamit sa loob.<sep>Indi magsala maski anong gamit sa seled.
+Ang babaing iyon ay pinong tao.<sep>Pino ang babaing dan.
+Ang babaing iyon ay pinong tao.<sep>Ang babaing dan ay matandes.
+Ano ang pangalan ng iyong ama?<sep>Ano ang aran i tatay mo?
+Ano ang pangalan ng iyong ama?<sep>Ano ang aran imong tatay?
+Ano ang pangalan ng iyong ina?<sep>Ano ang aran i nanay mo?
+Ano ang pangalan ng iyong ina?<sep>Ano ang aran imong nanay?
+Huwag kang mawalan ng pag-asa.<sep>Indi kaw madoran i pagsarig.
+Huwag kang mawalan ng pag-asa.<sep>Indi agroya imong leba.
+Ilang oras ang biyahe mula dito papunta sa bayan?<sep>Pira ka oras ang biyahe papakon sa bayan?
+Ano ang pangalan ng iyong nakababatang kapatid na babae?<sep>Ano ang arat imong libayen nga babai?
+Ano ang pangalan ng iyong nakababatang kapatid na lalaki?<sep>Ano ang aran imong libayen nga lalaki?
+Balik nalang po kayo bukas para mag-follow up.<sep>Balik kamo ron lamang aruman para sa maelaman indo.
+Ang malapit kong kaibigan ay darating mula sa Manila.<sep>Akeng marapit nga tangay ay magaabot alin sa Manila.
+Ano ang pangalan ng iyong nakatatandang kapatid na babae?<sep>Ano ang aran imong manang? Ano ang aran i manang mo?
+Ano ang pangalan ng iyong nakatatandang kapatid na lalaki?<sep>Ano ang aran imong manong? Ano ang aran i manong mo?
+Ano ang magagandang lugar na pwedeng bisitahin dito sa Puerto?<sep>Anong matitinlong logar nga mapapakonan digi sa Puerto?
+Nakatira siya sa Gomamela, Sta. Monica, Puerto Princesa City.<sep>Aga istar tana sa Gomamila, Sta. Monica, Siodad i ang Puerto Princesa.
+Ano po ang pangalan niyo sa pagkadalaga?<sep>ano imong apilido datong daraga ka pa?
+Ano po ang pangalan ng tatay at nanay?<sep>anong aran imong tatay ig nanay?
+Kelan po kayo huling nagpunta dito?<sep>Kano indong uring pakon digi?
+Ano po ang pinagkakakitaan niyo?<sep>Ano imong pangaboi?
+May kasama po ba kayo sa bahay?<sep>Mi kaiban b kamo sa balay?
+Saan po ang permanente niyong tirahan?<sep>Adin indong permamenteng ing istaran?
+Ilan taon na po kayong nakatura dito?<sep>Pira ren kadagon kamo istar doto?
+Meron po ba kayong ballpen?<sep>Mi ballpen kaw?
+Sandali lang po ma'am/ sir!<sep>Indi buay lang ma’am/sir!
+Titignan ko po kung ano ang maari kong gawin.<sep>Selengen ko kung ano pwedi kong buaten.
+May iba pa po ba kayong kakilala dito?<sep>Mi iba kamong kilala digi?
+Maupo po muna kayo sandali.<sep>Pagurang anay indi buay.
+Pwede po ba kayong bumalik mamayang hapon?<sep>Pwedi kabay kamo kabalik lagat sa apon?
+Ano po ang sadya nila?<sep>Kamo maga iwan andan digi?
+Ilan po ang dala niyong ID?<sep>Pira kabilog indong darang ID?
+May mga kamag-anak po ba kayong nandito?<sep>Mi mga parente b kamo digi?
+Pwede bang malaman ang pangalan mo?<sep>Pwedi ba maelaman indong aran?
+Nagugutom na ako.<sep>Ing gegetem ako ron.
+kailangan ko na umuwi dahil tinatawag na ako ng aking nanay<sep>Kaministiran ko ron mag uli ay ing tatawag ako ron in nanay.
+Pupunta ako sa palengke para bumili ng hapunan<sep>Mapakon ako sa palengke para kabakal yapon.
+Saan ang malapit na tindahan?<sep>Adin ang marapit nga tindan?
+May alam ka bang restaurant?<sep>Mi aelaman kang karaenanan?
+Mahal mo ba ako?<sep>Ing gegegman mo ba ako?
+Gising na!<sep>Pag mata ren!
+Nanood ako ng pelikula sa sinehan kagabi<sep>Ang seleng ako pelikula sa sinian kagabi.
+Saan ang pinakamalapit na ospital?<sep>Adin ang pinakamarapit nga ospital?
+Anong pangalan mo?<sep>Ano imong aran?
+Kaano-ano mo siya?<sep>Anono mo tana?
+Magkano ito?<sep>Tagpiira ja?
+May sukli pa po ba?<sep>Ako mi sinsilyo pa?
+Masarap ba?<sep>Masabor ba?
+Nasunog ba?<sep>Asunog ba?
+Tara sabay sabay na tayo<sep>Amos maderengan kita
+May kailangan pa ba kayo?<sep>Mi kaministiran ka pa ba?
+Nasaan ka na?<sep>Adin ka ren?
+Nanaginip ka ba?<sep>Akataginep kaw?
+Masama ba pakiramdan mo?<sep>Makuri ba imong pamati?
+Kulang ka sa resistensya<sep>Kurang kaw i resistinsya
+Nabusog ka ba?<sep>Abusog ka ra?
+May iba ka pa bang gusto?<sep>Mijan ka pa bang aliliagan?
+Halika na dito.<sep>Amos ka digi.
+Ayoko niyan.<sep>Indi ako maliag i dan.
+May mali ba akong nagawa?<sep>Mi nabuat ba akong mali?
+Nagmeryenda na po ba kayo?<sep>Ag miryenda kamo ron da?
+May coke po dito<sep>Dagi mi coke
+Gusto niyo po ng cake?<sep>Aliag kamo i cake?
+Gusto niyo po ng tubig?<sep>Aliag kamo tubig?
+May candy po kami dito?<sep>Mi kendi kami digi
+bibili po kayo?<sep>Mabakal kamo?
+Maraming Salamat po!<sep>Matamang salamat!
+Balik po kayo!<sep>Balik kamo uman!
+Sa uulitin po!<sep>Sa urumanen!
+Paalam po<sep>Adios
+Kumain po muna kayo.<sep>Pagkaen kamo anay
+Mag lunch po muna kayo<sep>Pag igma kamo anay
+Balik nalang po kayo pagkatapos niyo po kumain.<sep>Pagbalik kamo lamang tapos kamo kaen.
+Tara na po, nagaantay po si Madam sa inyo.<sep>Amos kamo ron aga elat si Madam kanindo.
+Maari niyo po ako kausapin tungkol po diyan?<sep>Pwedi indo akong kampangen tenged jan?
+Mayroon po ba kayong valid id?<sep>Mijan b kamong valid ID?
+anong gawa mo?<sep>Aga iwan kaw?
+Gutom na ako.<sep>Getem ako ron.
+Uhaw na ako.<sep>Ing wawaw ako ron.
+Masarap ang pagkain.<sep>Masabor ang pagkaen
+Busog na ako.<sep>Busog ako ron.
+Gusto kong kumain ng adobo.<sep>Aliag ako kaen adobo
+Mahilig ako sa sinigang.<sep>Mahilig ako i tinola
+Ano ang ulam?<sep>ano imong sera?
+Mayroon ka bang kanin?<sep>Mijan kang kanen?
+Pwede ba akong humingi ng tubig?<sep>Pwedi ba ako kapakitaw tubig?
+Kain tayo!<sep>Makaen kita!
+Kakagising ko lang.<sep>kamamata ko lang.
+Kakain na ako.<sep>Makaen ako ron
+Naligo na ako.<sep>Akaparigos ako ron.
+Papasok na ako sa trabaho.<sep>Maseled ako ron sa trabaho.
+Pauwi na ako.<sep>Pauli ako ron.
+Nag-aaral ako ngayon.<sep>Aga adal ako dadi.
+Nagluluto ako ng hapunan.<sep>Aga luto ako yapon.
+Naglalaba ako ng damit.<sep>Aga pamunak ako.
+Naglilinis ako ng bahay.<sep>Apanlimpyo ako ang balay
+Nagpapahinga ako.<sep>Apanari ako.
+Pakibaba po ang inyong boses.<sep>Patigayon luay-luay limeg
+Pakisara po ang ilaw.<sep>Patigayon isarado ang light
+Paki-open po ang pinto.<sep>Paki abrian ang puertan?
+Kumusta po ang inyong araw?<sep>Kumosta imong adlaw?
+Anong oras na po?<sep>Ano oras den dadi?
+Nasaan po ang CR?<sep>Adin ang kasilyas/CR?
+Pakibaba po ang kurtina.<sep>Patigayon ibaba ang kurtina
+Pakitulungan po ako dito.<sep>Pakitabangan ako digi
+Kumusta po ang inyong pamilya?<sep>Kumosta imong pamilya
+Anong balita sa inyo?<sep>Ano ang barita kanindo
+Gusto niyo po bang sumama?<sep>Aliag ba kamo ang tabid?
+Malamig po ba sa loob?<sep>Maramig ba sa seled?
+Pakipatay po ang TV.<sep>Paki sarado ang tV.
+Gusto niyo po bang mag-kape?<sep>Aliliag ba kamo mag kape?
+Pakibuksan po ang bintana.<sep>Pakiabrian ang bintana
+May tanong po ako.<sep>Mi pakiman ako
+Pwede ko po bang hiramin ito?<sep>Pwedi ko kabay belesan ja?
+Nasaan na po tayo?<sep>Adin kita Ren?
+May masakit po ba sa inyo?<sep>Mi masakit ba kanimo?
+Kumain na po ba kayo?<sep>Agkaen kamo Ren?
+Pauwi na po ba kayo?<sep>Pauli kamo Ren ba?
+Pakikuha po ang tubig.<sep>Pakibel ang tubig.
+Pakitawag po si Ate<sep>Tawagan anay di manang mo.
+Maghintay po muna kayo dito.<sep>Mag elat kamo anay digue.
+Pakibilisan po ang paglakad. <sep>Pag apura ra panaw.
+Huwag po kayong mag-alala.<sep>Indi kaw agpabera Bera.
+Naglalaro po ba kayo ng basketball?<sep>Makarawat kamo basket ball Dadi?
+Gusto niyo po bang manood ng sine? <sep>Alaig kamo Ag seleng sine?
+Pakilinis po ang mesa.<sep>Pakilimpyo ang lamesa.
+Tuloy po kayo sa loob.<sep>dayon kamo sa seled.
+Pakipatay po ang ilaw.<sep>Pataya ang sindi.
+Nasaan po ang susi?<sep>Adin ang liabe?
+Pwede po bang magtanong?<sep>Pwedi magpakiman?
+Ano pong kulay ang gusto niyo?<sep>Anong kulay imong aliagan?
+May appointment po ba kayo ngayon?<sep>May skedyol ka po ba Dadi?
+Magkano po ang lahat?<sep>Pera tanan?
+Pakitingnan po ang listahan.<sep>Pakiseleng po ang listan.
+Pwede po bang humiram ng ballpen?<sep>Pwedi kabeles pangsulat?
+Anong oras po tayo aalis?<sep>Anong Ora's kita Malin?
+Kailangan ko po ng tulong.<sep>Kailangan ko po tabang.
+Magkita po tayo bukas.<sep>Makita kita aruman.
+Ano pong gagawin niyo ngayon?<sep>Ano bubwaten Dadi?
+Gusto niyo po bang sumama sa amin?<sep>Alaig kamo angtabid kanamen?
+Pwede po bang humingi ng tubig?<sep>Pwedi magpakitaw tubig?
+Pwede po bang gamitin ang telepono?<sep>Pwedi ag gamit telepono?
+Mag-ingat po kayo sa daan.<sep>Mag amblig kamo sa Dalan.
+Pauwi na po ako.<sep>Pauli ako ren.
+Pakikabit po ang seatbelt.<sep>Pakikabit ang seatbelt.
+Pakibigay po ang sukli.<sep>Pakitaw ang barya.
+Pakiabot po ang asin.<sep>Abutan anay ang asin.
+Pakikuha po ang remote.<sep>Pavel ang remot.
+Pwede po bang magtanong ng direksyon?<sep>Pwedi magpakiman ang direksyon.
+Nasaan po ang sakayan ng jeep?<sep>Adin ang sakayan ang Jeep.
+Paki-hinaan po ang volume.<sep>Pakiluayan ang baskeg.
+Pakibaba po ang telepono.<sep>Ibaba mo ang telepono.
+Pakisara po ang gripo.<sep>Pakisarado ang gripo.
+Pakilinis po ang sahig.<sep>Pakilimpyo ang saleg.
+Anong oras po tayo kakain?<sep>Anong Ora's kita makaen?
+Pakipasa po ang papel.<sep>Pakipasa ang papel.
+Ano po ang susunod na gagawin?<sep>Ano ang madason na bubwaten?
+Pakitext po ako kapag andyan na kayo.<sep>Pakitext ako kung jan karen.
+Pakidala po ang mga gamit ko.<sep>Pakidara akeng mga gamit.
+Pwede po ba tayong mag-usap?<sep>Pwedi ba kita Ag Ampang.
+Kumusta po ang biyahe niyo?<sep>Kamusta indong byahe?
+Pakitanong po kay nanay.<sep>Paki pakiman Ky nanay.
+Pwede po bang magpalit ng upuan?<sep>Pwedi magbaylo gururangan?
+Pwedeng dito po muna kayo?<sep>Pwedi digue kamo anay?
+Pakisundo po ako sa school.<sep>Pakibel ako sa skul.
+Anong oras po kayo aalis?<sep>Anong Ora's kamo malin?
+Pakisabi po sa kanya na tumawag ako.<sep>Pakikon kananda na ako agtawag.
+Pwede po bang humingi ng tulong?<sep>Pwedi mag pakitaw tabang?
+Kailan po ang susunod na meeting?<sep>Inuro ang madason na meting ?
+Pakisabi po kay kuya na nandito ako.<sep>Pakikon Ki manong ako digue ren.
+Anong oras po magbubukas ang tindahan?<sep>Anong Ora's maabre ang tindan?
+Pakihulog po ang sulat sa mailbox.<sep>Pakiulog ang sulat sa box.
+Pakibalik po ang libro sa shelf.<sep>Paki balik ang libro sa beretangan
+Pwede po bang makisuyo?<sep>Pwedi papatigayun?
+Pakialagaan po ang mga bata.<sep>Pakisagid anay ang mga bata.
+Nasaan po ang paracetamol?<sep>Adin ang bulong?
+Pwede po bang pakiulit?<sep>Pwedi paolit?
+Anong oras po ang alis ng bus?<sep>Anong Ora's Malin ang bus.
+Pakipirmahan po ang dokumento.<sep>Pakiperman ang mga papel.
+Pakisabihan po sila na darating ako.<sep>Pakikon na maboy ako.
+Pwede po bang mag-stay dito?<sep>Pwedi ba magtinir digue?
+Pakitawag po ang doktor.<sep>Pakitawag di dok.
+Anong oras po kayo uuwi?<sep>Anong Oras ka k mauli.
+Pakihinaan po ang aircon.<sep>Pakiluayan ang aircon.
+Nasaan po ang pinakamalapit na bangko?<sep>Adin ang oinakamarapit na bangko.
+Pakiluto po ang itlog.<sep>pakiluto ang itlog.
+Pakiabot po ang charger.<sep>Paki abot ang charger.
+Pwede po bang magpakarga ng load?<sep>Pwedi magpaload?
+Pakibukas po ang bintana.<sep>Pakiabre any ang bentana.
+Pakisabi po kay tatay na may bisita siya.<sep>Pakikon Ki tatay mo mi bisita tana.
+Pwede po bang magtanong tungkol dito?<sep>Pwedi magpakiman tengued digue?
+Anong oras po kayo magigising?<sep>Anong Oras kaw Mamata?
+Pakihiram po ang libro.<sep>Pakibelesan ang libro.
+Pakikabit po ang kurtina.<sep>kabitan anay ang kurtina.
+Pwede po bang magtanong kung magkano ito?<sep>Pwedi magpakiman kung pera Ja?
+Pakihinto po ang sasakyan.<sep>Patadenga ang sarakayan.
+Nasaan po ang resibo?<sep>Adin ang recibo?
+Pakihingi po ng ketchup.<sep>pakitaw ketshup.
+Pakikabit po ang mga ilaw.<sep>Kabitan anay ang sindi.
+Pwede po bang mag-order ng pagkain? <sep>Pwedi Ag order pagkaen.
+Pakibaba po ang kurtina.<sep>Pakibaba ang kurtina.
+Anong oras po tayo magsisimula?<sep>Anong Ora's maumpisa?
+Mga ilang libro meron ka?<sep>Pira ka libro ang mejan kaw?
+Lahat ng halaman ay kailangan ang tubig at ilaw.<sep>Tanang tanem kaministiran tubig mi sanag.
+Mahal na hobi ang astronomiya.<sep>Mal na paranglingaw-lingawan ang astronomiya.
+Marunong ka bang magbilang hanggang sampu sa Intsik?<sep>Kaelam kaw ag bilang mag umpisa isara asta sampulo?
+Mayroon ka bang reklamo?<sep>Mejan kaw reklamo?
+Marunong ka bang magmahjong?<sep>Kaelam kaw ag mahjong?
+Nagiging mahal ang lahat.<sep>Aga mal ang tanan.
+Palagi siyang humihiram ng pera sa akin.<sep>Pirmi tana agabeles koarta kanaken.
+Tinanong niya kung gusto ko ang math.<sep>Ing papakiman na ako, kung maliagan ang (math).
+Nanakaw 'yong kotse niya kahapon.<sep>Eng takaw anang kotse kapon.
+Talagang gusto niya ang siyensiyang piksiyon.<sep>Alyagan na enged ang siyensiyang piksiyon.
+Isang tasa pa ng kape?<sep>Saka tasa pa ang kape?
+Paano sinusulat ang apelyido mo?<sep>Pasamuro eng susulat imong apelyido.
+Gaano kalayo ang sumusunod na estasyon ng gasolina?<sep>Muro raye pa ang madason na istascion ang gasolinan.
+Ilang wika ang marunong ka?<sep>Pira ka limeg imong nanaelaman?.
+Sawa na akong kausapin siya.<sep>Suram ako ren pakigampang kanana.
+Di ko na mainom ang serbesa.<sep>Inde ko ren kaya ag laklak pa.
+Talagang hindi ako sumasang-ayon dito.<sep>Ako talaga inde ag payag dige.
+Isip kong hindi nila naintindihan.<sep>Indi nanda enged maintindian akeng isip.
+Ayaw kong kumain.<sep>Inde ako maliag ag kaen.
+Di ko alam kung nasa akin pa.<sep>Indi maelaman kung digi pa manda kanaken.
+Natutuwa ako sa litrato.<sep>Alilipay ako sa litrato.
+Araw-araw nagbubus akong papuntang eskuwela.<sep>Adlaw adlaw aga sakay ako sa bus papakon sa akeng iskwelan.
+Nagpapalaki ako ng mga orkid sa grinhaws ko.<sep>Aga pa bael ako akeng mga burak na orkid sakeng taraneman.
+Sana'y hindi nila ako niloloko.<sep>Basiparang ara anda ako ra'y lulukwa.
+Mga sampung talaba yata ang kinain niya.<sep>Medyo sampulo ka talaba anang nakaen.
+Akala ko tatay ni Mary si Tom.<sep>Akeng kaelam si Tomas anang tatay ni Marya.
+Gusto kong bumalik doon ngayong gabi.<sep>Akeng aliagan mabalik ako duto dading gabi.
+Sabihin mo sa akin ang katotohanan.<sep>Baegan kanaken ang matod.
+Basta tatapusin ko itong trabaho.<sep>Basta tataposen ko ja akeng obra.
+Di ko yun mahuhulaan.<sep>Inde ko ato mapinto.
+Kung ako ikaw, mag-aaral ako nang mas mabuti.<sep>Kung ako ikaw, maga adal ako e matinlo.
+Mas mahirap ba ang Ingles kaysa sa Hapon?<sep>Mas makuri ba ag limeg na ingles kaysa hapon?
+Kakain ba rito, o magteteyk-awt?<sep>Dige ba makaen o sa lua?
+Hindi kailangang maging ganito.<sep>Beken kaministiran maging tulad ja.
+Umiinit nang umiinit na.<sep>Aga'init ng aga'init.
+Kumukulimlim na sa labas.<sep>Agalem sa lua.
+Mas komplikado kaysa sa iyan.<sep>Mas makuri ja kesa jan.
+Kagabi, nakinig ako sa radyo.<sep>Ang aglebas na gabi, ag pamati ako sa radyo.
+Inom tayo o kung ano man.<sep>Maenem kita o maski ano ren lang.
+Galing Osaka ang lolo ko.<sep>Ag alin Osaka akeng lolo.
+Naglalaro ng manika ang kapatid ko.<sep>Aga karawat e manika akeng libayen.
+Tinanong niya kung ba't siya umiiyak.<sep>ing pakimanan na, ayamo ika aga tangis.
+May pusa siya. Puti ang pusa niya.<sep>May kuti tana. Kulay puti anang kuti.
+Kilalang-kilala niya ang nanay mo.<sep>aelaman na aelaman na imong ina.
+Sabi niya'y gusto niya ng mga bulaklak.<sep>Ing kun na, na aliagan na e burak.
+Nag-taxi siya papunta sa museo.<sep>ag bayad tana e sarakayan papakun sa museo.
+Nagsulat siya ng libro tungkol sa ibon.<sep>Ag sulat tana libro tenged sa langgam.
+Sabihin mo samin kung anong alam mo tungkol kay Tom.<sep>kunon mo kanamen ang imong aelaman ki Tom.
+Nag-iisang nakatira ang matandang babae.<sep>Sakabilog lamang aka istar ang malam na babai.
+Puno ang bote na ng tubig.<sep>ang botilya puno ren e tubig.
+Tumakbo 'yong bata nang nakita niya ako.<sep>Ag dalagan ang bata pagkakita kanaken.
+Malaki ang populasyon ng siyudad.<sep>mabael ang populasyon e ang siyudad.
+Nililibot ng Buwan ang Tiyera.<sep>ing lilibot ang bolan ang tiyera.
+Tunay pala yung tsismis.<sep>matod gali ang baribarita.
+Hindi makagupit iyong gunting.<sep>indi katupi imong gunting.
+May mabigat na buwis sa tabako.<sep>may mabael na buwis sa tabako.
+Wala silang tsoys kundi umalis.<sep>ara sanda ibang papaiswagan kundi mag alin.
+Namatay si Tom nang may hawak na baril.<sep>apatay si Tom na may kawid pusil.
+May rason si Tomas na magalit.<sep>medjan rason si Tomas para masilag.
+Kailangan ni Tomas ng oras para mag-isip.<sep>kaministiran ni Tomas ang oras para kaisip-isip.
+Ang mga magulang ni Tom ay si John at Mary.<sep>ang mga gurang gurang ni Tom ay si John ig Mary.
+Dalawang pamilya ang nakatira sa bahay na iyon.<sep>Darwa ka pamilya ang aka istar sa balay na dan.
+Nag-aalmusal kami sa loob ng gusali.<sep>aga kaen kami digi sa silid ang gusali?
+Hindi ka imbitado sa party.<sep>ara kaw ing imbataran sa okasyon.
+Bakit mo sila pinaparusahan?<sep>ayamo ing pi'pinitinsyan mo sanda?
+Saan mo gagamitin ang perang 'to?<sep>sadin gagamiten ang koartang ja?
+Nasaan na yung iba pang files?<sep>adin den ang ibang mga papilis?
+Anong klaseng musika ang gusto mo?<sep>anong klasing musika imong alyagan?
+Ba't mo pininturahang pula ang bangkito?<sep>ayamo ing pinturan mo i kulay pula ang bangkito?
+Bakit di mo sabihin sa kanya nang diretso?<sep>ayamo inde mo kunon kanana diritso?
+Di ka ba sasama sa aming pagdaldalan?<sep>indi kaw ag tabid sameng papakunan?
+Talagang maaga ka nitong umaga.<sep>matod maga kaw kainang maga?
+Wala ako sa bayan nang ilang araw.<sep>Ako ara sa lansangan y pira ka adlaw.
+Mas mahirap kaysa sa iniisip mo.<sep>Mas makuri kaysa saimong ing isip.
+Nag-martsa ang mga puwersang Hapones patungo sa Burma.<sep>Ag martsa ang mga gurpo ang hapones papakun sa Burma.
+Magbidyugeym tayo o kaya ano.<sep>Magkarawat kita o saben kabay ano.
+Sa taglamig, nag-iiski ang pamilya ko.<sep>Sa tagramig ngani aga padalusdos akeng pamilya.
+Limang taon na ang nakalipas nang namatay ang lolo ko.<sep>Lima ka dagon den ang aglebas ang mapatay akeng lolo.
+Di kaya ng pondo natin ang ganyang luho.<sep>Indi kaya ateng pondo ang tuladang kaliagan.
+Ang aming kapalaran ay depende sa iyong mga desisyon.<sep>Ameng madarason nga tiempo aka dependi saimong mga desisyon.
+Kailangan sa kombustiyon ang oksiheno.<sep>Kailangan sa kalayo ang oksidyen.
+Nangongopyang malimit ng pagsasalita ng tao ang loro.<sep>Agausoy madagmit sa limeg ang tao ang pikoy.
+Talagang mas gusto ko ang buhay sa bukid.<sep>Talagang mas aliagan ko ang pangabui sa bukid.
+Binati niya ako ng "Magandang umaga."<sep>Ing kunan na ako mayad nga temprano.
+Kating-kati na siyang ibunyag ang sikreto.<sep>Katel na katel tana reng ibaeg ang sikreto.
+Maraming likas na kayamanan ang bansang ito.<sep>Marakeng manggad ang banuang dya.
+Umiibig sa kapatid kong babae ang lalaking iyon.<sep>Ing gueguegman ang lalaking dato akeng bugtitinay nga babay.
+Bagay ang kurbatang iyan sa baro mo.<sep>Bagay ang kurbatang Dan saimong lambong.
+Yun talaga ang gusto nyang mangyari.<sep>Dato talaga maman anang aliagan matabo.
+Masyadong mahirap ang takdang-aralin.<sep>Pwerteng ka kuri ang ing papabuat.
+Kumakanta ang mga ibon sa mga puno.<sep>Aga Kanta ang mga langgam sa kapunoan.
+Nakikinig sa radyo ang bata nang nakahiga.<sep>Agapamati ang bata sa radyo nga aga ingga.
+Ipadadala nang koreo ang sulat bukas.<sep>Ipapadara y ang opisina ang sulat aruman.
+Nasa malaking kuwarto ang parti.<sep>Sa Mabael nga kwarto ang agaparti.
+Mahal talaga ang presyo ng awtong ito.<sep>Mal talaga ang presyo ang sarakayan nga dya.
+Naging palaka ang prinsipe.<sep>Naging pangka ang adi.
+Ang mga nagbiyabiyahe'y galing sa iba-ibang bansa.<sep>Ang mga agabyahe agalin sa iba-ibang lugar.
+Maganda ang panahon nang buong linggo.<sep>Matinlo ang tiempo ang buong dominggo.
+Naniniwala sila sa buhay pagkatapos ng kamatayan.<sep>Aparaet sanda sa kabui pagkatapos ang kamatayen.
+Pangalawang beses ko itong lumipad.<sep>Pangarwang beses ko dya ag lepad.
+Umarte si Tomas na parang di niya kilala si Maria.<sep>Ag arte si Thomas na medyo sa Indi na makilala di Maria.
+Magtatatlumpo na si Tom sa Oktubre.<sep>Maga trenta ren si Tom sa oktuber.
+Nanghihingi kami ng paumanhin dahil sa masamang panahon.<sep>Agapakitaw kami pasensya sa marimong tiempo.
+Maihahatid namin ang produkto sa Hunyo.<sep>Mamated amen ang produkto sa Jun.
+Bawat kitang walang sikreto.<sep>Kada magkitang ara sikreto.
+Sinukat namin ang lalim ng ilog.<sep>Ing takes amen ang dalem ang ilog.
+Inabot namin ang tuktok ng bundok.<sep>Ing abot amen ang talipuspusan ang bundok.
+Dapat nagtagpo tayo nang alas siyete.<sep>Dapat magkita kita ang alas syete.
+Dapat nagtagpo kami nang alas siyete.<sep>Dapat magkita kami ang alas syete.
+Itutuloy natin ang miting pagkatapos ng tsa.<sep>Idadayun ta ang arampangan pagtapos inem ang tsa.
+Anong klaseng tsokolate ang gusto mo?<sep>Anong klaseng tsokolate imong aliagan.
+Anong oras ka natutulog?<sep>Anong kaw aga katurog?
+Anumang gawin mo, huwag mong kalimutan ito.<sep>Kung anono man imong bubuaten, Indi mo dya lipatan.
+Kailan at saan ang handa ng almusal?<sep>Inuro asta sadin ang pagprepara ang pamaw?
+Alin ang gusto mo, kanin o tinapay?<sep>Adin imong aliagan, kanen o tinapay?
+Nang nagbabasa, nakatulog ako.<sep>Maentras agabasa, akakaturog ako.
+Sasama ka ba sa akin sa tindahan?<sep>Matabid kaw kanaken sa tindan?
+Tapos na ang taglamig; tagsibol na.<sep>Tapos den ang tagramig, taginit den.
+Bakit hindi ka pumasok para sa tasang tsa?<sep>Ayamo Indi kaw agseled para sa tasang tsa.
+Kahapon, napakinig ko ang isang magandang kanta.<sep>Kapon, akabati ako matinlong kanta.
+Dapat palaging gawin ang tama.<sep>Dapat perming buaten ang tama.
+Pagka nagsasalita ka, akala mo'y alam lahat.<sep>Kada agalineg kaw, sa perming elam mo ang tanan.
+Mas sikat ka sa akala mo.<sep>Mas kilala kaw saimong ing isip.
+Ang bahay ay hindi lang basta gusali.<sep>Ang balay ay beken lang basta bilding.
+Ang larawan ay kahalaga nang libong salita.<sep>Ang imahi ay kantidad y sakaribong limeg.
+Pagkatapos ng almusal, naglakad kami.<sep>Pakatapos ang pamaw, Ag panaw kami.
+Tinatanggap ang lahat ng mahalagang kredit kard.<sep>Ing reresibi ang tanang importanteng kredit kard.
+Lahat kami'y tumanaw sa bintana.<sep>Tanan kami ang seleng sa bintana.
+Kahit na umuulan, lumabas ako.<sep>Maski agauran, aglua ako.
+Aatend ka ba ng miting?<sep>Magapakun kaw sa miting?
+Handa na ba kayong pasimulan ang inyong biyahe?<sep>Ayos den ba kamo impisan den indung byahe?
+Ang alam ko ay hindi siya nag-asawa.<sep>Ang akeng aelaman Ara tanay pangasawa.
+Meron ka bang gusto pang sabihin?<sep>Mi aliag ka pang ikunen?
+Tinuturo ang Ingles sa karamihang bayan.<sep>Ing tuturo ang Ingles sa kapupuruan.
+Natapos mo na ba ang nobela?<sep>Atapos mo ren ang nobela?
+Mukhang siya ang may gawa nito.<sep>Medyo sa tana ang mi buat dya.
+Gusto niyang pumunta sa Amerika.<sep>Aliag tana Ag pakun sa amerika.
+Hindi naitago ng mukha niya ang tunay niyang nararamdaman.<sep>Ara na natagao anang matod nga nasisintian.
+Hindi ko alam kung anong mangyayari bukas.<sep>Indi ko maelaman kung anong matabo aruman.
+Mayroon bang isang bagay na nais mong matutunan?<sep>Eein maliyag akng isaraag bagay nga kiag kong maelaman?
+Naguguluhan ako sa lahat ng nangyayari.<sep>Apoporit ako sa mga atatabo
+Hindi ko inaasahan ang mga bagay na ito.<sep>Ara ko kamaresmes ang mga bagay na ja.
+Tinutulungan ko lang ang sarili ko.<sep>Ing tatabangan ko ron lang aqueng sadili.
+May mga araw na pakiramdam ko ay walang saysay ang lahat.<sep>Sa aqueng pay no-ino sa aqueng sadili ara atatabo ang tanan sa aqueng ing bubuat.
+Hindi ko alam kung paano ko ipapaliwanag ito.<sep>Indi omaelaman kong paywan ko eh esplikar ang mga bagay nga ja.
+Gusto kong maging masaya ka.<sep>Liag ko ms permi kaw maambeng sa imong sadili.
+Minsan lang mangyari ito, kaya’t sisikapin kong maging handa.<sep>kaysan lang matabo animanminister kong perming preparado sa tanan nga oras.
+Naniniwala ka ba sa tadhana?<sep>Agaparaet kaw tadhana?
+Gusto ko lang magpahinga sa lahat ng ito.<sep>Aliag ako lang Ag panari sa tanan nga dya.
+Parang hindi ko na kayang maghintay pa.<sep>Medyo indi ko ren kayang mag elat pa.
+Naiintindihan ko kung bakit ka nag-aalala.<sep>Nanaintindian ko ayamo kaw aga pabera-bera.
+Sige lang, magtiwala ka, gagawin ko ang lahat.<sep>Sige lang, magsarig kaw, bubuaten ko ang tanan.
+Hindi ko inaasahan, ngunit tanggap ko.<sep>Ara koy sasarig, Pero resibi ko.
+Walang problema, maghahanap tayo ng paraan.<sep>Ara problema, masadyap kita remedyo.
+Naiintindihan ko na may mga bagay na hindi kontrolado.<sep>Nanaintindian ko nga mi mga bagay na beken kontrolado.
+Hindi ko alam kung paano, pero tiwala akong magkakaroon tayo ng solusyon.<sep>Indi ako kaelam kung pasamuro, Pero agasarig ako nga magaka solusyon kita.
+Alam ko na mahirap, pero kayang-kaya mo.<sep>Aelaman ko na makuri, Pero kayang-kaya mo.
+Kung iyan ang desisyon mo, igagalang ko.<sep>Kung dan imong desisyon, ing gagalang ko
+Minsan, kailangan natin magtakda ng hangganan.<sep>Kaisan, kailangan ta magtaw y limitasyon.
+Lahat ng pagsubok ay may katapusan.<sep>Tanang problema may katapusan.
+Gagawin ko ang lahat ng aking makakaya.<sep>Bubuaten ko ang tanan nga akeng makakaya.
+Pag tiyagaan mo lang, lahat ay magiging maayos.<sep>Pagpatikaseg lang, magiging mayos ang tanan.
+Huwag kang mawalan ng pag-asa.<sep>Indi kaw maduran y sarig.
+Ano ang kahulugan ng buhay para sa iyo?<sep>Anono anang maliag ikun ang kabui para kanimo?
+May liwanag pa sa dulo ng kalsada.<sep>May sanag pa sauri ang karsada.
+Hanggang sa dulo, maniniwala akong makakaya natin.<sep>Tengued sauri, agasarig akong makakaya ta dya.
+Bawat araw ay isang pagkakataon.<sep>Kada adlaw ay isarang pagkakataon.
+Walang imposible sa taong determinado.<sep>Ara imposible sa taong disidido.
+Hanggang may buhay, may pag-asa.<sep>Maentras mi kabui, may pagsarig.
+Hindi ko na kayang magtago ng aking nararamdaman.<sep>Indi ko ren kayang magtago akeng asisintian.
+Hindi ko intensyon na magdulot ng sakit.<sep>Beken ko intensyon nga magtaw masakit.
+Ipinagpapaliban ko ito, ngunit hindi ko na kayang maghintay pa.<sep>Dya papalampasen ko ,pero Indi ako ren kayang mag elat pa.
+Ano ang pakiramdam mo tungkol sa hinaharap?<sep>Anono imong asisintian atetengued sa madarason nga adlaw?
+Ano ang pinakamahalaga sa iyo sa buhay?<sep>Anono ang pinaka importante samong kabui?
+Paano natin malalaman kung tayo ay nasa tamang landas?<sep>Pasamuro ta mamaelaman kung kita ay sa tamang landas?
+Ano ang ibig sabihin ng tunay na kaligayahan para sa iyo?<sep>Anono ang maliag ikun ang matod nga kambengan para kanimo?
+Kung maaari kang bumalik sa nakaraan, anong babaguhin mo?<sep>Kung pwede kaw agbalik sa kanudaya, anono imong babagun?
+Tanggap ko na hindi lahat ay makakamtan.<sep>Resibi ko nga beken tanan mabebel.
+Sa palagay mo ba, may mga bagay na hindi natin kayang kontrolin?<sep>Saimong panid, mi mga bagay nga Indi tah kayang kotrolon?
+Sana’y mapatawad mo ako sa aking pagkukulang.<sep>Basipang mapatawad mo ako sakeng mga kakurangan.
+Kung makakapili ka, anong uri ng buhay ang nais mo?<sep>Kung kakapili kaw, anong klaseng kabui imong aliagan?
+Patawad kung ako ay naging abala.<sep>Pasensya kung ako ay naging isturbo.
+Hindi ko na kayang magpaliwanag ng mas maayos.<sep>Indi ko ren kayang magpaliwanag pa y ang mas mayos.
+Kung nagkamali ako, humihingi ako ng paumanhin.<sep>Kung agkamli ako, apakitaw ako pasensya.
+Patawarin mo ako kung nasaktan kita.<sep>Patawada ako kung nasakitan takaw.
+Paumanhin kung hindi kita natulungan.<sep>Patawad kung Ara takaw natabangi.
+Nanghihinayang ako sa aking pagkakamali.<sep>Aganesel ako sakeng pagkakamali.
+Hindi ko inaasahan ang ganitong epekto ng aking desisyon.<sep>Ara koy sasarig na tuladya ang epekto akeng desisyon.
+Kumain ka na ba?<sep>Agkaen ka Ren?
+Anong ginagawa mo?<sep>Anono imong ingbubuat?
+Pwede bang magtanong?<sep>Pwede agpakiman?
+Gusto mo ba ng tulong?<sep>Aliag kaw tabang?
+Ilang taon ka na?<sep>Pira ka Ren kadagon?
+Pwede mo bang ulitin?<sep>Pwede moy uliten?
+Saan tayo kakain?<sep>Adin Kita Makaen?
+Anong gusto mong kainin?<sep>Anono imong aliag y kaenen?
+Nakita mo ba ang bag ko?<sep>Akita mo akeng bag?
+Paano kita matutulungan ngayon?<sep>Pasamuro takaw matatabangan dadi?
+Saan banda ang pinakamalapit na mall?<sep>Sadin tengued ang pinakamaitey nga mall?
+Anong oras tayo magkikita bukas?<sep>Anong oras kita mabagat aruman?
+Pwede mo bang iabot ang libro?<sep>Pwede pabot ang libro?
+Kailan tayo pwedeng mag-usap?<sep>Inuro kita pwede agampang?
+Bakit hindi mo sinabi sa akin?<sep>Ayamo Ara moy kunan kanaken?
+Magkano ang binayaran mo kahapon?<sep>Pira imong ing bayadan kapon?
+Pwede bang samahan mo ako mamaya?<sep>Pwede mo ako iban lalagat?
+Kailangan ko nang umalis ngayon.<sep>Kailangan ko ren agalin dadi.
+Tingnan mo ang ganda ng tanawin!<sep>Selenga ang tinlo ang kalibutan!
+Huwag mong kalimutang dalhin ang payong.<sep>Indi moy lipatan daraen ang payong.
+Sino ang kausap mo sa telepono?<sep>Sino imong kampang sa telepunu.
+Gusto kong matutong magluto ng adobo.<sep>Aliag ako kaesged agluto adobo.
+Ano ang plano mo para sa weekend?<sep>Anono imong plano para sa madason nga sabado mi dominggo.
+Nandito na ako sa labas ng bahay mo.<sep>Dige ako ren salua indung balay.
+Pwedeng makahingi ng tubig, kung pwede?<sep>Pwede kapakitaw tubig kung pwede?
+Mahalaga sa akin ang iyong opinyon.<sep>Importante kanaken imong kukunen.
+Gagamitin mo ba ang laptop mamaya?<sep>Gagamiten mo ang laptop lalagat?
+Itago mo ang susi sa ligtas na lugar.<sep>Tagun mo ang susi sa mayos na bertangan.
+Kailan tayo pwedeng pumunta sa parke?<sep>Inuro kita pwede Ag pakun sa parke?
+Hindi ko maintindihan ang sinasabi mo.<sep>Indi ko maintindian imong ing kukun.
+Pakihinaan naman ang volume ng radyo.<sep>Pakiluayan ang bolyum ang radyo.
+Sa tingin ko, tama ang sagot niya.<sep>Sakeng seleng, Tama anang sabat.
+Sumama ka na sa amin sa sinehan.<sep>Pagtabid den kanamen sa sinehan.
+Kailangan natin maghanda para sa meeting.<sep>Kailangan kita ag prepara para sa miting.
+Pwede bang magtanong tungkol sa project?<sep>Pwede Ag pakiman atetengued sa project?
+Bumili ka na ba ng pagkain para sa aso?<sep>Ag bakal ka Ren pagkaen para sa tso?
+Magugustuhan mo ang lugar na pupuntahan natin.<sep>Maliliagan mo ang lugar nga ateng papakunan.
+Masarap ang pagkain dito sa restaurant na ito.<sep>Masabor ang pagkaen sa karaenan nga dya.
+Nasaan na ang susi ng kotse ko?<sep>Adin ang susi akeng sarakayan?
+Tapos ka na ba sa ginagawa mo?<sep>Tapos Karen saimong ing bubuat?
+Pwede bang makisuyo na isara ang pinto?<sep>Pwede patigayun saradon ang pwertan?
+Kailangan ko ng tulong sa pag-aayos ng gamit.<sep>Kailangan ko Ag tabang sa pagayos gamit.
+Anong oras na tayo aalis papunta doon?<sep>Anong oras kita Malin papakun duto?
+Pagkatapos nito, magpahinga ka muna sandali.<sep>Pagkatapos dya magpanari ka nay arabuay.
+May mas mura ba?<sep>Mi mas barato pa?
+Ang mahal naman!<sep>Ang mal ingan!
+Saan ang pamilihan?<sep>Sadin ang barakalan?
+May sukli po ba?<sep>May Barya pa?
+May discount po ba?<sep>Mi tawad?
+Wala ba kayong mas maliit?<sep>Ara kamo mas maitey?
+Saan ang sakayan?<sep>Adin ang sarakayan?
+Magkano po ang pamasahe<sep>Tag Pira ang pamasahe?
+Ma ano Ulam?<sep>Nay ano ang sera?
+Paano pumunta sa Cuyo?<sep>Pasamuro makapakun sa Cuyo?
+Ilang minuto pa bago dumating?<sep>Pira pa ka minuto bago mabot?
+Saan ako sasakay papunta sa Cuyo?<sep>Adin ako masakay papakun sa Cuyo?
+Dito ba ang hintayan ng bus?<sep>Dya dige ang erelatan ang bus?
+Gaano pa kalayo?<sep>Muro pa ka raye?
+Pwede bang umupo rito?<sep>Pwede Ag gurang dige?
+Anong masarap na pagkain niyo?<sep>Anono indung masabor na pagkaen?
+Gusto ko ng tubig, please.<sep>Pakitaw ako tubig, patigayun.
+Pwedeng makahingi ng menu?<sep>Pwede kapakitaw listan indung menu?
+Ilang minuto pa ang hihintayin?<sep>Pira ka minuto ang elaten?
+Pakibilisan po.<sep>Pakidasigan po.
+Pwede bang take-out?<sep>Pwede daraen?
+Gusto ko pang umorder.<sep>Aliag ako pa Ag order.
+Pakikuha ng bill, please.<sep>Pakibel ang bill, patigayun.
+Tulungan niyo ako.<sep>Tabangi Indu ako
+Tumawag ng pulis!<sep>Pagtawag pulis.
+May aksidente!<sep>Mi disgrasya!
+Saan ang pinakamalapit na ospital?<sep>Sadin ang pinakamarapit na ospital?
+Ingat ka sa daan!<sep>Amblig kaw sa dalan!
+Tumigil ka!<sep>Pagtadeng!
+Masama pakiramdam ko.<sep>Marimo akeng paramatiyan.
+May sakit ako.<sep>Mi masakit ako.
+May meeting tayo mamaya.<sep>Mi arampangan kita lalagat.
+Busy ako ngayon.<sep>Ming bubuat ako dadi.
+May tanong ako.<sep>Mi pakiman ako.
+Paki-email na lang.<sep>Paki email den lang.
+Kailangan kong matapos ito.<sep>Kailangan ko matapos dya.
+Anong assignment natin?<sep>Anong ateng assignment?
+Kailan ang deadline?<sep>Inuro ang deadline?
+Naiintindihan mo ba?<sep>Nanaintindian mo?
+Kayang-kaya mo yan!<sep>Kayang kaya mo dan!
+Ano sa tingin mo?<sep>Ano saimong seleng?
+Bahala ka na.<sep>Balakajan.
+May problema ba?<sep>Mi problema?
+Hindi ako sigurado.<sep>Beken ako sigurado.
+Huwag kang mag-alala.<sep>Indi kaw ang isip mayad.
+Ang gulo mo!<sep>Ang kagulo kaw.
+Nandito na ako.<sep>Dage ako ren.
+Ang daming tao!<sep>Ang karake ang tao!
+Pwede po bang magtanong?<sep>Pwede ang pakiman?
+Pasensya na po.<sep>Pasensya po.
+Sandali lang po.<sep>Indubuay lamang.
+Hindi ko po alam.<sep>Ako indi kaelam.
+Pakiulit nga po.<sep>Pakiulit ngani.
+Pasok po kayo.<sep>Dayon camo.
+Magkano po ang isang kilo ng mangga?<sep>Tag Pira ang sakakilo ang pumangga?
+May sariwang isda pa po kayo?<sep>Mi sariwa po kamong isda?
+Pwede po bang tumawad sa presyo?<sep>Pwede Ag tawad sa presyo?
+Saan po ang paradahan ng traysikel?<sep>Sadin ang parkingan ang traysikel?
+May libreng tasting po ba ang tinda ninyo?<sep>Mi libreng Samit indung tinda?
+Mag-ingat po kayo sa mga mandurukot.<sep>Amblig kamo sa mga takawan.
+Saan po ako pwedeng kumuha ng taxi?<sep>Sadin pwede agbel taxi?
+May pulis station po bang malapit dito?<sep>Mi police station na marapit dige?
+Ilan po ang minimum na bibilhin para sa wholesale price?<sep>Pira ang minimum na babakalen nga para sa wholesale price?
+Bawal po ang pagtawid dito, gamitin ang overpass.<sep>Bawal ang agi dige, gamiten ang 0verpass.
+Pakiingatan po ang inyong bag habang namimili.<sep>Ambligan ndu indung mga bag maentras apamakal.
+Ilang kilo po ang pwede sa eco bag na ito?<sep>Pira ka kilo ang pwede sa eco bag nga dya?
+May sukli po kayo sa limang daan?<sep>Mi barya kamo sa lima ka gatos?
+Pakibigay po ang resibo ng binili ko.<sep>Pakitaw ang resibo akeng binakal.
+Anong oras po bumubukas ang palengke?<sep>Anong oras agabri ang palengke?
+May libreng plastic bag po ba o kailangan bumili?<sep>Mi libreng plastic bag ba o kailangan magbakal?
+Saan po ang pinakamalapit na sakayan papunta sa terminal?<sep>Sadin ang pinakamarapit na sarakayan papakun terminal?
+May CCTV po ba dito sa tindahan ninyo?<sep>Mi cctv dige saindung tindan?
+Huwag po tayong magtulakan, lahat ay makakabili.<sep>Indi kita Ag turuludan tanan kita kababakal.
+Saan po ang daan papunta sa police outpost?<sep>Sadin ang aragian papakun pulis outpost?
+Kailangan po bang kumuha ng appointment bago pumunta?<sep>Kailangan pa po agbel appointment bago magpakun?
+Ano po ang requirements para kumuha ng birth certificate?<sep>Ano ang requirements para makabel y birth certificate?
+Paki-fill out po ang form bago pumunta sa window.<sep>Pakisulatan ang form bago magpakun sa window.
+Saan po ang pila para sa renewal ng ID?<sep>adin po ang Libya para sa renewal ang ID?
+Ilang araw bago ma-release ang dokumento?<sep>Pira kadlaw bago mataw ang dokumento?
+May bayad po ba ang pagkuha ng barangay clearance?<sep>Mi bayad ang pagbel barangay clearance?
+Pakihintay po ang tawag ng inyong pangalan.<sep>Paki elat ang tawag indung aran.
+Huwag po tayong magtulakan, lahat ay maseserbisyuhan.<sep>Indi kita Ag turuludan, tanan kita maseserbisyuan.
+Pakisuot po ang face mask bago pumasok.<sep>Pakisot ang face mask bago magseled.
+Saan po ang inquiry section para sa SSS?<sep>Sadin ang parakimanan tengued ang para sa SSS?
+Kailangan po bang magdala ng original copy ng dokumento?<sep>Kailangan pa magdara ang original nga kopya ang dokumento?
+Anong oras po ang cut-off para sa transaksyon?<sep>Anong oras maga cut-off ang transaksyon?
+May available po bang express processing?<sep>Medyan pang ibang express processing?
+Saan po ako pwedeng magtanong tungkol sa PhilHealth?<sep>Sadin pwede Ag pakiman atetengued sa Philhealth?
+Paki-check po ang inyong form bago ipasa.<sep>Paseleng matinlo indung form bago itaw.
+Saan po kukunin ang ticket number para sa pila?<sep>Sadin po bebelen ang ticket number para sa linya?
+May libreng consultation po ba dito sa health center?<sep>Mi libreng konsulta po ba dige sa health center?
+Bawal po ang kumain sa loob ng opisina.<sep>Bawal agkaen sa seled ang opisina.
+May ramp po ba para sa may kapansanan?<sep>Mi ramp po ba para sa mi mga taong may diperensya.?
+Ilang minuto ang kailangan hintayin bago matawag?<sep>Pira ka minuto ang kailangang elaten bago tawagen?
+Pakitapon po ng basura sa tamang lalagyan.<sep>Pakipilak ang basura sa tamang bertangan.
+Bawal po ang magdala ng alagang hayop dito.<sep>Bawal ang magdara ayep dige.
+May entrance fee po ba dito sa parke?<sep>Mi bayad ba dige sa parke.
+Saan po ang palikuran?<sep>Sadin po ang CR.
+Ilang taon ang limit sa playground na ito?<sep>Pira ka dagon ang pwede sa kararawatan nga dya?
+Pwedeng mag-jogging dito tuwing umaga?<sep>Pwede Ag jogging dige kada temprano.
+Huwag po sanang tapakan ang mga halaman.<sep>Indi po lapakan ang mga pananem.
+May upuan po ba sa paligid para magpahinga?<sep>Mi gururangan po ba dige para magpanari?
+Bawal po ang mag-ingay nang sobra, may nagpapahinga.<sep>Bawal ang maglisang, mi agapanari.
+Saan po ang daan papunta sa picnic area?<sep>Sadin ang aragian papakun picnic area?
+Maaari po bang magdala ng sariling pagkain?<sep>Pwede kabay Ag dara y sadiling pagkaen?
+May available po bang bike rental dito?<sep>Mi available ba na rerentan bike dige?
+Saan po ang pinakamalapit na drinking fountain?<sep>Sadin po ang pinakamarapit na drinking fountain?
+May bayad po ba ang paggamit ng pavilion?<sep>Mi bayad ang paggamiy ang pavilion?
+Bawal po ang magkalat sa pampublikong lugar.<sep>Bawal Ag rikot sa pampublikong lugar.
+Saan po ang entrance papunta sa balayong?<sep>Sadin ang entrance papakun balayong?
+Maaari po bang magdala ng sariling upuan?<sep>Pwede kabay Ag dara sadiling gururangan?
+May libreng yoga class po ba dito sa park?<sep>Mi libreng yoga class dige sa park?
+Anong oras po bukas ang park?<sep>Anong oras ang abri ang park?
+Pwede bang magdala ng tent para sa camping?<sep>Pwede ba angdara tent para sa camping?
+Saan po banda ang food court?<sep>Sadin tenged ang food court?
+May fitting room po ba kayo?<sep>Mi fitting room kamo?
+Ano po ang pinakamaliit na size ng sapatos na ito?<sep>Ano ang pinakamaitey nga size ang sapataos nga dya?
+Saan ang cashier para sa contactless payment?<sep>Sadin ang cashier para sa contactless payment?
+May promo po ba kayo ngayon?<sep>Mi promo kamo dadi?
+Pwede bang magtanong kung may stock pa kayo nito?<sep>Pwede Ag pakiman kung mo stock kamo pa dage?
+Wala na po bang tawad sa presyo?<sep>Ara ren tawad sa prisio?
+Ano ang warranty policy ng produktong ito?<sep>Anono ang warranty policy ang produktong dya?
+May parking space pa po ba sa basement?<sep>Mi parking space pa sa basement?
+Pwede bang palitan ito kung may sira?<sep>Pwede telesan dya kung mi rangga?
+Bukas po ba kayo tuwing holiday?<sep>Abri kamo ba kada holiday?
+Saan ang pinakamalapit na ATM dito?<sep>Adin ang pinakamarapit na ATM dige?
+May libreng wifi po ba sa mall na ito?<sep>Mi libreng wifu kabay dige sa mall?
+Ilang kilo ang pwede sa baggage counter?<sep>Pira ka kilo ang pwede sa baggage counter?
+May food tasting po ba sa supermarket?<sep>Mi samitan pagkaen ba sa supermarket?
+Ilang oras bago i-claim ang biniling item sa pick-up counter?<sep>Pira ka oras bago mabel ang binakal sa pick up counter?
+Maaari bang ipadeliver ang pinamili namin?<sep>Pwede ipadeliver ameng binakal?
+Anong oras po kayo nagsasara?<sep>Anong oras kami magasarado?
+May available po bang wheelchair para sa senior?<sep>mi available kamo na wheelchair para sa malam?
+Saan po ang lost and found section?<sep>Sadin ang lost and found section ampir?
+Bayad po, isang Tiniguiban.<sep>Bayad, saka tiniguiban.
+Pakiabot po ng bayad sa driver.<sep>Pakidawat ang bayad sa driver.
+Pakibigay na lang po ang sukli sa likod.<sep>Pakitaw den lang ang barya sa likod.
+Dito lang po ako bababa.<sep>Dige ako ren lang mababa.
+Pakiusog po sa loob para may makaupo pa.<sep>Pakiisud ang sa seled para mi Maka gurang pa.
+Saan po ang sakayan papuntang Cuyo? ·<sep>Sadin ang sarakayan papakun cuyo?
+May discount po ba para sa senior citizen?<sep>Mi bawas ba para sa mga senior citizen?
+Pakibukas po ng bintana, mainit sa loob.<sep>Paki abri ang bintana, mainit sa seled.
+Bawal po ang magsakay at magbaba sa hindi tamang lugar.<sep>Bawal ang magsakay mi magbaba sa beken tamang lugar.
+Ingatan ang inyong mga gamit laban sa mandurukot.<sep>Amblegan indong mga gamit sa mga takawan
+Paalala: Huwag kalimutan ang inyong mga gamit bago bumaba.<sep>Ing papaelam: indi lipatan ang indong mga gamit bago mag paibaba.
+Huwag pong sumandal sa pinto ng van.<sep>Indi ag sandig sa portan ang sarakayan.
+Pakiabot po ng pamasahe, estudyante po.<sep>Patigayon iabot ang pamasahi, estudyante
+Ilang minuto pa bago dumating ang susunod na multicab?<sep>Pira ka minuto pa bago mag abot ang madason na multicab (sarakayan)?
+Pwede po bang pakibawasan ang volume ng cellphone?<sep>Pwede Paki bawasan ang baskeg ang tunog imong cellphone?
+Pasensya na po, matrapik sa daan ngayon.<sep>Pasensya po, matrapik sa dalan dadi.
+May biyahe pa po ba hanggang alas-diyes ng gabi?<sep>Mijan pa bang byahi tigka alas-gis ang gabi?
+Magandang Umaga!<sep>Mayad nga timprano!
+Magandang Tanghali!<sep>Mayad nga ogtong adlaw!
+Magandang Hapon!<sep>Mayad nga apon!
+
+
+
+

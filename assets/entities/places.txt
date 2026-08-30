@@ -1,0 +1,34 @@
+# Place names: cities, provinces, countries. One per line.
+# Place names are the SAME across languages, so these teach the model to copy them
+# through unchanged. Heavy on the Palawan / Cuyo region since that's the Cuyonon home.
+# Lines starting with # are ignored.
+Cuyo
+Palawan
+Puerto Princesa
+Coron
+El Nido
+Roxas
+Taytay
+Agutaya
+Magsaysay
+Manila
+Quezon City
+Cebu
+Davao
+Iloilo
+Bacolod
+Baguio
+Zamboanga
+Cagayan de Oro
+Batangas
+Cavite
+Laguna
+Pampanga
+Mindoro
+Antique
+Aklan
+Pilipinas
+Philippines
+Amerika
+Japan
+China

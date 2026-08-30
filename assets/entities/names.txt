@@ -1,0 +1,36 @@
+# People's names (given names + surnames). One per line.
+# A name is the SAME in Tagalog and Cuyonon, so these teach the model to copy names
+# through unchanged. Add the real names you care about (family, friends, public figures).
+# Lines starting with # are ignored.
+Maria
+Jose
+Juan
+Pedro
+Ana
+Rosa
+Andres
+Antonio
+Cristina
+Miguel
+Angela
+Grace
+Mark
+John
+Michael
+Divina
+Ramon
+Teresita
+Ernesto
+Corazon
+Fernando
+Luzviminda
+Jomar
+Christianne
+Ruejean
+Dela Cruz
+Santos
+Reyes
+Bautista
+Villanueva
+Fabello
+Magbanua

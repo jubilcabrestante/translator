@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Generated training data — regenerate with: python scripts/prepare_data.py
+/data/
+
+# Model outputs / checkpoints — regenerate with ./train_all.ps1 or the Colab notebook
+/outputs/
+
+# Hugging Face / model caches
+.cache/
+*.safetensors
+*.pt
+*.bin
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
