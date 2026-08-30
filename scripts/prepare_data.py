@@ -264,28 +264,39 @@ def main():
         for key in keys:
             members = clusters[key]
             emitted = collections.Counter()     # (src node, tgt lang) -> count
-            for src_node, tgt_node in itertools.permutations(members, 2):
-                src_lang, tgt_lang = src_node[0], tgt_node[0]
-                if src_lang == tgt_lang:
-                    continue
-                if tgt_node in adjacency[src_node]:
-                    kind = "direct"
-                elif adjacency[src_node] & adjacency[tgt_node]:
-                    kind = "bridged"
-                else:
-                    continue
-                if kind == "bridged" and args.no_bridged:
-                    continue
-                if emitted[(src_node, tgt_lang)] >= args.max_variants:
-                    continue
-                if (per_direction_cap is not None
-                        and direction_totals[(src_lang, tgt_lang)] >= per_direction_cap):
-                    continue
-                emitted[(src_node, tgt_lang)] += 1
-                direction_totals[(src_lang, tgt_lang)] += 1
-                counts[(src_lang, tgt_lang, kind)] += 1
-                out.append(to_example(src_lang, surface[src_node],
-                                      tgt_lang, surface[tgt_node]))
+            for src_node in members:
+                src_lang = src_node[0]
+                # Walk outward from each node instead of crossing every member
+                # against every other. A cluster is a connected component, and at
+                # corpus scale one hub string ("Yes.") welds a component tens of
+                # thousands of nodes wide -- permutations over that is quadratic
+                # and never finishes. Direct neighbours are the attested pairs;
+                # neighbours-of-neighbours are the bridged ones. Both are bounded
+                # by degree, not by cluster size.
+                candidates = []
+                for neighbour in adjacency[src_node]:
+                    if neighbour[0] != src_lang:
+                        candidates.append((neighbour, "direct"))
+                if not args.no_bridged:
+                    direct = set(adjacency[src_node])
+                    for neighbour in adjacency[src_node]:
+                        for hop2 in adjacency[neighbour]:
+                            if (hop2 != src_node and hop2[0] != src_lang
+                                    and hop2 not in direct):
+                                candidates.append((hop2, "bridged"))
+
+                for tgt_node, kind in candidates:
+                    tgt_lang = tgt_node[0]
+                    if emitted[(src_node, tgt_lang)] >= args.max_variants:
+                        continue
+                    if (per_direction_cap is not None
+                            and direction_totals[(src_lang, tgt_lang)] >= per_direction_cap):
+                        continue
+                    emitted[(src_node, tgt_lang)] += 1
+                    direction_totals[(src_lang, tgt_lang)] += 1
+                    counts[(src_lang, tgt_lang, kind)] += 1
+                    out.append(to_example(src_lang, surface[src_node],
+                                          tgt_lang, surface[tgt_node]))
         return out
 
     cap = args.max_per_direction

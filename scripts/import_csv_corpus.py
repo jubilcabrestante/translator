@@ -6,15 +6,15 @@ translation datasets ship in) into the OPUS Moses layout that
 `prepare_data.py` already reads: one plain-text file per language, one aligned
 sentence per line.
 
-Filtering is the point of this script, not a side effect. A large scraped or
-machine-translated set carries rows that actively damage a small fine-tune:
+By default EVERY row is kept. Filtering is available but opt-in:
 
-  * Untranslated rows, where both columns are identical. These teach the model
-    to echo its input, which it is already too eager to do.
-  * Very long rows. train.py truncates at --max-seq-len (256 tokens by
-    default), so a 250-word row is cut mid-sentence and teaches the model to
-    stop mid-sentence. Length is capped in WORDS, well under that limit.
-  * Duplicates, which quietly reweight whatever they duplicate.
+  --drop-untranslated  rows whose two columns are identical
+  --drop-duplicates    repeated pairs
+  --max-words N        rows longer than N words on either side
+
+Those exist because train.py truncates at --max-seq-len (256 tokens), so rows
+longer than that are cut mid-sentence during training. If you keep long rows,
+raise --max-seq-len to match rather than letting them be silently cut.
 
 Usage:
     python scripts/import_csv_corpus.py \\
@@ -52,11 +52,16 @@ def main():
                     help="Language names from languages.json, matching --columns.")
     ap.add_argument("--out", required=True,
                     help="Output folder; one file per language is written into it.")
-    ap.add_argument("--max-words", type=int, default=30,
+    ap.add_argument("--max-words", type=int, default=0,
                     help="Drop rows where either side exceeds this many words. "
-                         "Anything near train.py's --max-seq-len gets truncated "
-                         "mid-sentence, which teaches the model to stop mid-sentence.")
-    ap.add_argument("--min-words", type=int, default=1)
+                         "0 (the default) keeps every row. Set it only if you want "
+                         "filtering: train.py truncates at --max-seq-len, so rows "
+                         "longer than that are cut mid-sentence during training.")
+    ap.add_argument("--min-words", type=int, default=0)
+    ap.add_argument("--drop-untranslated", action="store_true",
+                    help="Drop rows whose two columns are identical.")
+    ap.add_argument("--drop-duplicates", action="store_true",
+                    help="Drop repeated pairs.")
     ap.add_argument("--config", default=None)
     args = ap.parse_args()
 
@@ -88,21 +93,22 @@ def main():
                 if not a or not b:
                     stats["empty"] += 1
                     continue
-                if a.lower() == b.lower():
+                if args.drop_untranslated and a.lower() == b.lower():
                     stats["untranslated"] += 1
                     continue
                 na, nb = len(a.split()), len(b.split())
-                if na < args.min_words or nb < args.min_words:
+                if args.min_words and (na < args.min_words or nb < args.min_words):
                     stats["too short"] += 1
                     continue
-                if na > args.max_words or nb > args.max_words:
+                if args.max_words and (na > args.max_words or nb > args.max_words):
                     stats["too long"] += 1
                     continue
-                key = (a.lower(), b.lower())
-                if key in seen:
-                    stats["duplicate"] += 1
-                    continue
-                seen.add(key)
+                if args.drop_duplicates:
+                    key = (a.lower(), b.lower())
+                    if key in seen:
+                        stats["duplicate"] += 1
+                        continue
+                    seen.add(key)
                 pairs.append((a, b))
             print(f"  {os.path.basename(path)}: {rows} rows read")
 
