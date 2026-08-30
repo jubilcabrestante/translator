@@ -262,877 +262,877 @@ Hatid.<sep>Deliver.
 Hayop.<sep>Animal.
 Higa.<sep>Lie down.
 Higop.<sep>Sip.
-Hilaw.<sep>unripe.
-Himas.<sep>gentle massage.
-Hindi.<sep>no.
-Hipag.<sep>sister-in-law.
-Hubad.<sep>naked.
-Hukom.<sep>judge.
-Hugas.<sep>washing with water.
-Hugot.<sep>pulling out.
-Hulog.<sep>fall.
-Luhod.<sep>kneeling.
-Mahal.<sep>expensive.
-Pahid.<sep>act of wiping or rubbing lightly.
-Pawid.<sep>nipa palm.
-Relo.<sep>watch.
-Uling.<sep>charcoal.
-Utang.<sep>debt.
-Walo.<sep>eight.
-Yelo.<sep>ice.
-Yero.<sep>galvanized iron sheets for roofing, etc.
-Yoyo.<sep>yo-yo.
-Ngayon.<sep>now.
-Maaga.<sep>early.
-Pera.<sep>money.
-Gilid.<sep>border.
-Tawag.<sep>act of calling someone.
-Umupo.<sep>to sit.
-Ibon.<sep>bird.
-Manok.<sep>chicken.
-Baboy.<sep>pig.
-Ahas.<sep>snake.
-Tigre.<sep>tiger.
-Kasoy.<sep>cashew.
-Pinya.<sep>pineapple.
-Karot.<sep>carrot.
-Sitaw.<sep>yardlong bean.
-Tiyo.<sep>uncle.
-Tiya.<sep>female equivalent of tiyo: aunt.
-Bayaw.<sep>brother-in-law.
-Pinsan.<sep>cousin.
-Bungo.<sep>skull.
-Ilong.<sep>nose.
-Ngipin.<sep>tooth.
-Kamay.<sep>hand.
-Pulso.<sep>pulse.
-Balat.<sep>skin.
+Hilaw.<sep>Unripe.
+Himas.<sep>Gentle massage.
+Hindi.<sep>No.
+Hipag.<sep>Sister-in-law.
+Hubad.<sep>Naked.
+Hukom.<sep>Judge.
+Hugas.<sep>Washing with water.
+Hugot.<sep>Pulling out.
+Hulog.<sep>Fall.
+Luhod.<sep>Kneeling.
+Mahal.<sep>Expensive.
+Pahid.<sep>Act of wiping or rubbing lightly.
+Pawid.<sep>Nipa palm.
+Relo.<sep>Watch.
+Uling.<sep>Charcoal.
+Utang.<sep>Debt.
+Walo.<sep>Eight.
+Yelo.<sep>Ice.
+Yero.<sep>Galvanized iron sheets for roofing, etc.
+Yoyo.<sep>Yo-yo.
+Ngayon.<sep>Now.
+Maaga.<sep>Early.
+Pera.<sep>Money.
+Gilid.<sep>Border.
+Tawag.<sep>Act of calling someone.
+Umupo.<sep>To sit.
+Ibon.<sep>Bird.
+Manok.<sep>Chicken.
+Baboy.<sep>Pig.
+Ahas.<sep>Snake.
+Tigre.<sep>Tiger.
+Kasoy.<sep>Cashew.
+Pinya.<sep>Pineapple.
+Karot.<sep>Carrot.
+Sitaw.<sep>Yardlong bean.
+Tiyo.<sep>Uncle.
+Tiya.<sep>Female equivalent of tiyo: aunt.
+Bayaw.<sep>Brother-in-law.
+Pinsan.<sep>Cousin.
+Bungo.<sep>Skull.
+Ilong.<sep>Nose.
+Ngipin.<sep>Tooth.
+Kamay.<sep>Hand.
+Pulso.<sep>Pulse.
+Balat.<sep>Skin.
 Abril.<sep>April.
-Album.<sep>album.
-Ampon.<sep>adopted child.
-Anino.<sep>shadow.
-Araro.<sep>plough.
-Armas.<sep>weapon.
-Asawa.<sep>spouse.
-Asero.<sep>steel.
-Asoge.<sep>mercury.
-Atras.<sep>backward movement.
-Ayuda.<sep>aid.
-Babae.<sep>woman.
-Babaw.<sep>shallowness.
-Bakla.<sep>effeminate man.
-Bakya.<sep>wooden sandal.
-Balsa.<sep>raft.
-Balse.<sep>waltz.
-Banda.<sep>band.
-Banig.<sep>woven mat.
-Banga.<sep>fan palm.
-Banyo.<sep>bathroom.
-Bapor.<sep>vapor.
-Barko.<sep>ship.
-Basyo.<sep>empty container.
-Batya.<sep>round, shallow wood-carved basin.
-Bawal.<sep>not allowed.
-Bayad.<sep>payment.
-Berde.<sep>green.
-Berso.<sep>verse.
-Bigas.<sep>husked, uncooked rice.
-Bigat.<sep>weight.
-Bihon.<sep>rice vermicelli.
-Bilas.<sep>co-sibling-in-law.
-Lipad.<sep>flight.
-Lipas.<sep>lapse of time.
-Lista.<sep>listing.
-Litaw.<sep>visible.
-Lugar.<sep>place.
-Luksa.<sep>in mourning clothes.
-Lugaw.<sep>lugaw.
-Lumot.<sep>moss.
+Album.<sep>Album.
+Ampon.<sep>Adopted child.
+Anino.<sep>Shadow.
+Araro.<sep>Plough.
+Armas.<sep>Weapon.
+Asawa.<sep>Spouse.
+Asero.<sep>Steel.
+Asoge.<sep>Mercury.
+Atras.<sep>Backward movement.
+Ayuda.<sep>Aid.
+Babae.<sep>Woman.
+Babaw.<sep>Shallowness.
+Bakla.<sep>Effeminate man.
+Bakya.<sep>Wooden sandal.
+Balsa.<sep>Raft.
+Balse.<sep>Waltz.
+Banda.<sep>Band.
+Banig.<sep>Woven mat.
+Banga.<sep>Fan palm.
+Banyo.<sep>Bathroom.
+Bapor.<sep>Vapor.
+Barko.<sep>Ship.
+Basyo.<sep>Empty container.
+Batya.<sep>Round, shallow wood-carved basin.
+Bawal.<sep>Not allowed.
+Bayad.<sep>Payment.
+Berde.<sep>Green.
+Berso.<sep>Verse.
+Bigas.<sep>Husked, uncooked rice.
+Bigat.<sep>Weight.
+Bihon.<sep>Rice vermicelli.
+Bilas.<sep>Co-sibling-in-law.
+Lipad.<sep>Flight.
+Lipas.<sep>Lapse of time.
+Lista.<sep>Listing.
+Litaw.<sep>Visible.
+Lugar.<sep>Place.
+Luksa.<sep>In mourning clothes.
+Lugaw.<sep>Lugaw.
+Lumot.<sep>Moss.
 Lunes.<sep>Monday.
-Madre.<sep>nun.
-Mamon.<sep>mamon.
+Madre.<sep>Nun.
+Mamon.<sep>Mamon.
 Marso.<sep>March.
-Metro.<sep>meter.
-Multa.<sep>fine.
-Nanay.<sep>mother.
-Niyog.<sep>coconut.
-Ngalan.<sep>name.
-Pader.<sep>stone or concrete wall or fence.
-Palay.<sep>rice plant.
-Palya.<sep>failure.
-Panga.<sep>jaw.
-Panyo.<sep>handkerchief.
-Papel.<sep>paper.
-Pasan.<sep>act of carrying on one's shoulders.
-Pasko.<sep>alternative letter-case form of Pasko.
-Patag.<sep>level.
-Patay.<sep>cadaver.
-Pekas.<sep>freckle.
-Petsa.<sep>date.
-Pikot.<sep>cornered.
-Pigsa.<sep>boil.
-Pirma.<sep>signature.
-Pison.<sep>steamroller.
-Pista.<sep>feast day.
-Pitso.<sep>brisket.
-Plaka.<sep>plate.
-Plano.<sep>plan.
-Plasa.<sep>plaza.
-Plema.<sep>phlegm.
-Poder.<sep>power.
-Pondo.<sep>fund.
-Prito.<sep>fried.
-Pugad.<sep>nest.
-Pulis.<sep>police officer.
-Punas.<sep>sponge bath.
-Purok.<sep>district.
-Pusod.<sep>navel.
-Puson.<sep>hypogastrium.
-Pusta.<sep>bet.
-Putol.<sep>act of cutting or slicing.
-Radyo.<sep>radio.
-Raspa.<sep>rasp.
-Regla.<sep>menstruation.
-Renda.<sep>rein.
-Reyna.<sep>queen.
-Rimas.<sep>breadfruit.
-Ronda.<sep>patrol.
-Rosas.<sep>rose.
-Sabaw.<sep>soup.
-Sabog.<sep>scattered all around.
-Sabon.<sep>soap.
-Sakay.<sep>ride.
-Sakit.<sep>disease.
-Sakop.<sep>occupation.
-Sahig.<sep>floor.
-Salok.<sep>scooping of water.
-Salot.<sep>epidemic.
-Salsa.<sep>salsa.
-Sanga.<sep>branch.
-Selyo.<sep>postage stamp.
-Silaw.<sep>glare.
-Silbi.<sep>use.
-Silid.<sep>room.
-Silya.<sep>chair.
-Sindi.<sep>lighting with fire.
-Singa.<sep>blowing of one's nose.
-Sipon.<sep>common cold.
-Sobre.<sep>envelope.
-Sopas.<sep>sopas.
-Sugal.<sep>gambling.
-Suhay.<sep>prop.
-Sulat.<sep>writing.
-Sulsi.<sep>mend.
-Suman.<sep>suman.
-Sumpa.<sep>curse.
-Sunog.<sep>fire.
-Supot.<sep>plastic bag.
-Surot.<sep>bedbug.
-Tabla.<sep>tied.
-Tabas.<sep>cut.
+Metro.<sep>Meter.
+Multa.<sep>Fine.
+Nanay.<sep>Mother.
+Niyog.<sep>Coconut.
+Ngalan.<sep>Name.
+Pader.<sep>Stone or concrete wall or fence.
+Palay.<sep>Rice plant.
+Palya.<sep>Failure.
+Panga.<sep>Jaw.
+Panyo.<sep>Handkerchief.
+Papel.<sep>Paper.
+Pasan.<sep>Act of carrying on one's shoulders.
+Pasko.<sep>Alternative letter-case form of Pasko.
+Patag.<sep>Level.
+Patay.<sep>Cadaver.
+Pekas.<sep>Freckle.
+Petsa.<sep>Date.
+Pikot.<sep>Cornered.
+Pigsa.<sep>Boil.
+Pirma.<sep>Signature.
+Pison.<sep>Steamroller.
+Pista.<sep>Feast day.
+Pitso.<sep>Brisket.
+Plaka.<sep>Plate.
+Plano.<sep>Plan.
+Plasa.<sep>Plaza.
+Plema.<sep>Phlegm.
+Poder.<sep>Power.
+Pondo.<sep>Fund.
+Prito.<sep>Fried.
+Pugad.<sep>Nest.
+Pulis.<sep>Police officer.
+Punas.<sep>Sponge bath.
+Purok.<sep>District.
+Pusod.<sep>Navel.
+Puson.<sep>Hypogastrium.
+Pusta.<sep>Bet.
+Putol.<sep>Act of cutting or slicing.
+Radyo.<sep>Radio.
+Raspa.<sep>Rasp.
+Regla.<sep>Menstruation.
+Renda.<sep>Rein.
+Reyna.<sep>Queen.
+Rimas.<sep>Breadfruit.
+Ronda.<sep>Patrol.
+Rosas.<sep>Rose.
+Sabaw.<sep>Soup.
+Sabog.<sep>Scattered all around.
+Sabon.<sep>Soap.
+Sakay.<sep>Ride.
+Sakit.<sep>Disease.
+Sakop.<sep>Occupation.
+Sahig.<sep>Floor.
+Salok.<sep>Scooping of water.
+Salot.<sep>Epidemic.
+Salsa.<sep>Salsa.
+Sanga.<sep>Branch.
+Selyo.<sep>Postage stamp.
+Silaw.<sep>Glare.
+Silbi.<sep>Use.
+Silid.<sep>Room.
+Silya.<sep>Chair.
+Sindi.<sep>Lighting with fire.
+Singa.<sep>Blowing of one's nose.
+Sipon.<sep>Common cold.
+Sobre.<sep>Envelope.
+Sopas.<sep>Sopas.
+Sugal.<sep>Gambling.
+Suhay.<sep>Prop.
+Sulat.<sep>Writing.
+Sulsi.<sep>Mend.
+Suman.<sep>Suman.
+Sumpa.<sep>Curse.
+Sunog.<sep>Fire.
+Supot.<sep>Plastic bag.
+Surot.<sep>Bedbug.
+Tabla.<sep>Tied.
+Tabas.<sep>Cut.
 Tabon.<sep>Philippine megapode.
-Talim.<sep>sharpness.
-Tamad.<sep>lazy.
-Tamis.<sep>sweetness.
-Tanan.<sep>act of escaping.
-Tanda.<sep>sign.
-Tanga.<sep>stupid.
-Tanim.<sep>plant.
-Tanso.<sep>copper.
-Tapos.<sep>completed.
-Tatay.<sep>father.
-Tawad.<sep>remission.
-Tawas.<sep>alum.
-Tenis.<sep>tennis.
-Tibag.<sep>demolishing.
-Tibay.<sep>material or structural strength.
-Tiket.<sep>ticket.
-Tigas.<sep>hardness.
-Tigib.<sep>filled up to full capacity.
-Timog.<sep>south.
-Tinda.<sep>goods for sale.
-Tingi.<sep>retail selling.
-Tinik.<sep>thorn.
-Tinta.<sep>ink.
-Trono.<sep>throne.
-Tropa.<sep>group of friends.
-Troso.<sep>log.
-Tsart.<sep>chart.
-Tsiko.<sep>sapodilla.
-Tubig.<sep>water.
-Tukod.<sep>support.
-Tukso.<sep>temptation.
-Tuhog.<sep>act of stringing together things.
-Tulad.<sep>act of copying or imitating.
-Tulay.<sep>bridge.
-Tumba.<sep>fallen down.
-Tunaw.<sep>melted.
-Tunog.<sep>sound.
-Tusok.<sep>pierce.
-Tuwad.<sep>upside-down.
-Ugali.<sep>conduct.
-Usisa.<sep>inquiry.
-Wisik.<sep>act of sprinkling water or liquid.
-Yapak.<sep>barefoot.
-Lupa.<sep>earth.
-Niyebe.<sep>snow.
-Sumayaw.<sep>to dance.
+Talim.<sep>Sharpness.
+Tamad.<sep>Lazy.
+Tamis.<sep>Sweetness.
+Tanan.<sep>Act of escaping.
+Tanda.<sep>Sign.
+Tanga.<sep>Stupid.
+Tanim.<sep>Plant.
+Tanso.<sep>Copper.
+Tapos.<sep>Completed.
+Tatay.<sep>Father.
+Tawad.<sep>Remission.
+Tawas.<sep>Alum.
+Tenis.<sep>Tennis.
+Tibag.<sep>Demolishing.
+Tibay.<sep>Material or structural strength.
+Tiket.<sep>Ticket.
+Tigas.<sep>Hardness.
+Tigib.<sep>Filled up to full capacity.
+Timog.<sep>South.
+Tinda.<sep>Goods for sale.
+Tingi.<sep>Retail selling.
+Tinik.<sep>Thorn.
+Tinta.<sep>Ink.
+Trono.<sep>Throne.
+Tropa.<sep>Group of friends.
+Troso.<sep>Log.
+Tsart.<sep>Chart.
+Tsiko.<sep>Sapodilla.
+Tubig.<sep>Water.
+Tukod.<sep>Support.
+Tukso.<sep>Temptation.
+Tuhog.<sep>Act of stringing together things.
+Tulad.<sep>Act of copying or imitating.
+Tulay.<sep>Bridge.
+Tumba.<sep>Fallen down.
+Tunaw.<sep>Melted.
+Tunog.<sep>Sound.
+Tusok.<sep>Pierce.
+Tuwad.<sep>Upside-down.
+Ugali.<sep>Conduct.
+Usisa.<sep>Inquiry.
+Wisik.<sep>Act of sprinkling water or liquid.
+Yapak.<sep>Barefoot.
+Lupa.<sep>Earth.
+Niyebe.<sep>Snow.
+Sumayaw.<sep>To dance.
 Itulak.<sep>I tried pushing.
-Labong.<sep>young, tender, edible bamboo shoot.
-Gilagid.<sep>gum.
-Braso.<sep>arm.
-Dibdib.<sep>chest.
-Daliri.<sep>finger.
-Katawan.<sep>body.
-Bituka.<sep>intestine.
-Mabuti.<sep>good.
-Mabait.<sep>kind.
-Isara.<sep>to close.
-Amihan.<sep>northeast monsoon.
-Anghit.<sep>body odor.
-Buhawi.<sep>tornado.
-Bunggo.<sep>collision.
-Buwaya.<sep>crocodile.
-Kidlat.<sep>lightning.
-Dalawa.<sep>two.
-Espiya.<sep>spy.
-Hagdan.<sep>ladder.
-Halang.<sep>obstacle.
-Haligi.<sep>post.
-Hambog.<sep>boastful.
-Hangin.<sep>wind.
-Haplos.<sep>gentle caress with the hand.
-Harana.<sep>harana.
+Labong.<sep>Young, tender, edible bamboo shoot.
+Gilagid.<sep>Gum.
+Braso.<sep>Arm.
+Dibdib.<sep>Chest.
+Daliri.<sep>Finger.
+Katawan.<sep>Body.
+Bituka.<sep>Intestine.
+Mabuti.<sep>Good.
+Mabait.<sep>Kind.
+Isara.<sep>To close.
+Amihan.<sep>Northeast monsoon.
+Anghit.<sep>Body odor.
+Buhawi.<sep>Tornado.
+Bunggo.<sep>Collision.
+Buwaya.<sep>Crocodile.
+Kidlat.<sep>Lightning.
+Dalawa.<sep>Two.
+Espiya.<sep>Spy.
+Hagdan.<sep>Ladder.
+Halang.<sep>Obstacle.
+Haligi.<sep>Post.
+Hambog.<sep>Boastful.
+Hangin.<sep>Wind.
+Haplos.<sep>Gentle caress with the hand.
+Harana.<sep>Harana.
 Harina.<sep>It's fritter mix.
-Hasang.<sep>gills.
-Lansa.<sep>characteristic fishy odor or taste.
-Lilim.<sep>shade.
-Mabaho.<sep>foul.
-Mantsa.<sep>stain.
+Hasang.<sep>Gills.
+Lansa.<sep>Characteristic fishy odor or taste.
+Lilim.<sep>Shade.
+Mabaho.<sep>Foul.
+Mantsa.<sep>Stain.
 Nahuli.<sep>Arrested.
-Perlas.<sep>pearl.
-Punso.<sep>anthill.
-Rantso.<sep>ranch.
-Santo.<sep>saint.
-Unano.<sep>dwarf.
-Welga.<sep>strike.
-Yabong.<sep>luxuriant foliage or growth.
-Buwan.<sep>moon.
-Bagyo.<sep>typhoon.
-Bukas.<sep>open.
-Maalat.<sep>salty.
-Palakpak.<sep>clap.
-Tumalon.<sep>to jump.
-Tindig.<sep>deportment.
-Lumangoy.<sep>to swim.
-Kalapati.<sep>dove.
-Kabayo.<sep>horse.
-Langka.<sep>jackfruit.
-Pakwan.<sep>watermelon.
-Saging.<sep>banana.
-Pipino.<sep>cucumber.
-Talong.<sep>eggplant.
-Bawang.<sep>garlic.
+Perlas.<sep>Pearl.
+Punso.<sep>Anthill.
+Rantso.<sep>Ranch.
+Santo.<sep>Saint.
+Unano.<sep>Dwarf.
+Welga.<sep>Strike.
+Yabong.<sep>Luxuriant foliage or growth.
+Buwan.<sep>Moon.
+Bagyo.<sep>Typhoon.
+Bukas.<sep>Open.
+Maalat.<sep>Salty.
+Palakpak.<sep>Clap.
+Tumalon.<sep>To jump.
+Tindig.<sep>Deportment.
+Lumangoy.<sep>To swim.
+Kalapati.<sep>Dove.
+Kabayo.<sep>Horse.
+Langka.<sep>Jackfruit.
+Pakwan.<sep>Watermelon.
+Saging.<sep>Banana.
+Pipino.<sep>Cucumber.
+Talong.<sep>Eggplant.
+Bawang.<sep>Garlic.
 Pechay.<sep>- Bok choy.
-Ninong.<sep>godfather.
-Ninang.<sep>godmother.
-Bigote.<sep>moustache.
-Balbas.<sep>beard.
-Balikat.<sep>shoulder.
-Pantog.<sep>urinary bladder.
-Maganda.<sep>beautiful.
-Gwapo.<sep>superseded, pre-2007 spelling of guwapo.
-Mataas.<sep>high.
+Ninong.<sep>Godfather.
+Ninang.<sep>Godmother.
+Bigote.<sep>Moustache.
+Balbas.<sep>Beard.
+Balikat.<sep>Shoulder.
+Pantog.<sep>Urinary bladder.
+Maganda.<sep>Beautiful.
+Gwapo.<sep>Superseded, pre-2007 spelling of guwapo.
+Mataas.<sep>High.
 Agosto.<sep>August.
-Ahente.<sep>agent.
-Alahas.<sep>jewel.
-Alalay.<sep>prop.
-Angkin.<sep>claim.
-Anonas.<sep>bullock's heart.
-Asenso.<sep>progress.
-Asukal.<sep>sugar.
-Asunto.<sep>court case.
-Atsara.<sep>atchara.
-Bakuna.<sep>vaccine.
-Balita.<sep>information.
-Balota.<sep>ballot paper.
-Banak.<sep>mullet.
-Bangko.<sep>bank.
-Banlaw.<sep>rinse.
-Bantay.<sep>guard.
-Bantog.<sep>famous.
-Baraha.<sep>playing card or cards.
-Barnis.<sep>varnish.
-Basket.<sep>basket.
-Baston.<sep>cane.
-Batuta.<sep>police baton.
-Bayong.<sep>bayong.
-Bigkis.<sep>girdle.
-Bihira.<sep>scarce.
-Bilang.<sep>number.
-Binyag.<sep>baptism.
-Birhen.<sep>virgin.
-Bukana.<sep>front.
-Bukayo.<sep>bukayo.
-Bukbok.<sep>rice weevil.
-Butete.<sep>tadpole.
-Kadena.<sep>chain.
-Kadyos.<sep>pigeon pea.
-Kagabi.<sep>last night.
-Kahera.<sep>female equivalent of kahero: lady cashier.
-Kainan.<sep>place to eat.
-Kapote.<sep>raincoat.
-Karera.<sep>race, racing.
-Katalo.<sep>antagonist.
-Kilala.<sep>person with whom one is acquainted.
-Kingke.<sep>petroleum lamp.
-Kisame.<sep>ceiling.
-Korona.<sep>crown.
-Krisis.<sep>crisis.
+Ahente.<sep>Agent.
+Alahas.<sep>Jewel.
+Alalay.<sep>Prop.
+Angkin.<sep>Claim.
+Anonas.<sep>Bullock's heart.
+Asenso.<sep>Progress.
+Asukal.<sep>Sugar.
+Asunto.<sep>Court case.
+Atsara.<sep>Atchara.
+Bakuna.<sep>Vaccine.
+Balita.<sep>Information.
+Balota.<sep>Ballot paper.
+Banak.<sep>Mullet.
+Bangko.<sep>Bank.
+Banlaw.<sep>Rinse.
+Bantay.<sep>Guard.
+Bantog.<sep>Famous.
+Baraha.<sep>Playing card or cards.
+Barnis.<sep>Varnish.
+Basket.<sep>Basket.
+Baston.<sep>Cane.
+Batuta.<sep>Police baton.
+Bayong.<sep>Bayong.
+Bigkis.<sep>Girdle.
+Bihira.<sep>Scarce.
+Bilang.<sep>Number.
+Binyag.<sep>Baptism.
+Birhen.<sep>Virgin.
+Bukana.<sep>Front.
+Bukayo.<sep>Bukayo.
+Bukbok.<sep>Rice weevil.
+Butete.<sep>Tadpole.
+Kadena.<sep>Chain.
+Kadyos.<sep>Pigeon pea.
+Kagabi.<sep>Last night.
+Kahera.<sep>Female equivalent of kahero: lady cashier.
+Kainan.<sep>Place to eat.
+Kapote.<sep>Raincoat.
+Karera.<sep>Race, racing.
+Katalo.<sep>Antagonist.
+Kilala.<sep>Person with whom one is acquainted.
+Kingke.<sep>Petroleum lamp.
+Kisame.<sep>Ceiling.
+Korona.<sep>Crown.
+Krisis.<sep>Crisis.
 Kristo.<sep>Christ.
-Kulang.<sep>lacking.
-Kulata.<sep>butt.
-Kulong.<sep>imprisoned.
-Kumpil.<sep>confirmation.
-Kuskos.<sep>rub.
-Kusina.<sep>kitchen.
-Dalaga.<sep>young, unmarried lady.
-Daldal.<sep>impertinent talk.
-Daplis.<sep>nearly missed.
-Dayami.<sep>rice straw.
-Domino.<sep>dominoes.
-Doktor.<sep>doctor.
-Embudo.<sep>funnel.
-Ensayo.<sep>rehearsal.
-Epekto.<sep>effect.
-Espada.<sep>sword.
-Esposa.<sep>wife.
-Esposo.<sep>husband.
-Estapa.<sep>estafa.
-Galang.<sep>a common surname from Kapampangan.
-Gansal.<sep>odd number.
-Garahe.<sep>garage.
-Gastos.<sep>expenses.
-Giling.<sep>grinding.
-Ginisa.<sep>sautéed.
-Gitara.<sep>guitar.
-Gulong.<sep>wheel.
-Guwang.<sep>big hole.
-Ibabaw.<sep>top.
-Ilalim.<sep>bottom.
-Itsura.<sep>appearance.
-Lababo.<sep>sink.
-Labaha.<sep>razor.
-Lagari.<sep>saw.
-Lagpak.<sep>fall.
-Lalaki.<sep>man.
-Langaw.<sep>fly.
-Langit.<sep>sky.
-Libing.<sep>burial.
-Lusong.<sep>descent to a lower place.
-Maanta.<sep>rancid.
-Maayos.<sep>organized.
-Mababa.<sep>low.
-Makina.<sep>machine.
-Madali.<sep>quick.
-Magaan.<sep>light.
-Malayo.<sep>far.
-Maleta.<sep>suitcase.
-Mapait.<sep>bitter.
-Marmol.<sep>marble.
+Kulang.<sep>Lacking.
+Kulata.<sep>Butt.
+Kulong.<sep>Imprisoned.
+Kumpil.<sep>Confirmation.
+Kuskos.<sep>Rub.
+Kusina.<sep>Kitchen.
+Dalaga.<sep>Young, unmarried lady.
+Daldal.<sep>Impertinent talk.
+Daplis.<sep>Nearly missed.
+Dayami.<sep>Rice straw.
+Domino.<sep>Dominoes.
+Doktor.<sep>Doctor.
+Embudo.<sep>Funnel.
+Ensayo.<sep>Rehearsal.
+Epekto.<sep>Effect.
+Espada.<sep>Sword.
+Esposa.<sep>Wife.
+Esposo.<sep>Husband.
+Estapa.<sep>Estafa.
+Galang.<sep>A common surname from Kapampangan.
+Gansal.<sep>Odd number.
+Garahe.<sep>Garage.
+Gastos.<sep>Expenses.
+Giling.<sep>Grinding.
+Ginisa.<sep>Sautéed.
+Gitara.<sep>Guitar.
+Gulong.<sep>Wheel.
+Guwang.<sep>Big hole.
+Ibabaw.<sep>Top.
+Ilalim.<sep>Bottom.
+Itsura.<sep>Appearance.
+Lababo.<sep>Sink.
+Labaha.<sep>Razor.
+Lagari.<sep>Saw.
+Lagpak.<sep>Fall.
+Lalaki.<sep>Man.
+Langaw.<sep>Fly.
+Langit.<sep>Sky.
+Libing.<sep>Burial.
+Lusong.<sep>Descent to a lower place.
+Maanta.<sep>Rancid.
+Maayos.<sep>Organized.
+Mababa.<sep>Low.
+Makina.<sep>Machine.
+Madali.<sep>Quick.
+Magaan.<sep>Light.
+Malayo.<sep>Far.
+Maleta.<sep>Suitcase.
+Mapait.<sep>Bitter.
+Marmol.<sep>Marble.
 Martes.<sep>Tuesday.
-Martsa.<sep>march.
-Matris.<sep>uterus.
-Medyas.<sep>socks.
-Milyon.<sep>million.
-Mintis.<sep>failed.
-Miting.<sep>rally.
-Minuto.<sep>minute.
-Musiko.<sep>musician.
+Martsa.<sep>March.
+Matris.<sep>Uterus.
+Medyas.<sep>Socks.
+Milyon.<sep>Million.
+Mintis.<sep>Failed.
+Miting.<sep>Rally.
+Minuto.<sep>Minute.
+Musiko.<sep>Musician.
 Naisip.<sep>Thought it.
-Nilaga.<sep>nilaga.
+Nilaga.<sep>Nilaga.
 Niloko.<sep>Fools.
-Nganga.<sep>act of opening one's mouth.
-Obrero.<sep>laborer.
-Obispo.<sep>bishop.
-Pabaya.<sep>careless.
-Pakpak.<sep>wing.
-Paksiw.<sep>paksiw.
-Palara.<sep>foil.
-Palito.<sep>toothpick.
-Paltik.<sep>recoil of something stretched.
-Pansit.<sep>noodles.
-Parada.<sep>parking.
-Pareho.<sep>same.
-Parola.<sep>lighthouse.
-Pastol.<sep>shepherd.
-Pasyal.<sep>promenade.
-Patani.<sep>lima bean.
-Payong.<sep>umbrella.
+Nganga.<sep>Act of opening one's mouth.
+Obrero.<sep>Laborer.
+Obispo.<sep>Bishop.
+Pabaya.<sep>Careless.
+Pakpak.<sep>Wing.
+Paksiw.<sep>Paksiw.
+Palara.<sep>Foil.
+Palito.<sep>Toothpick.
+Paltik.<sep>Recoil of something stretched.
+Pansit.<sep>Noodles.
+Parada.<sep>Parking.
+Pareho.<sep>Same.
+Parola.<sep>Lighthouse.
+Pastol.<sep>Shepherd.
+Pasyal.<sep>Promenade.
+Patani.<sep>Lima bean.
+Payong.<sep>Umbrella.
 Petsay.<sep>Chinese cabbage.
-Pingga.<sep>carrying pole.
-Piraso.<sep>piece.
-Piring.<sep>blindfold.
-Pisngi.<sep>cheek.
-Pitaka.<sep>wallet.
-Pitsel.<sep>pitcher.
-Premyo.<sep>prize.
-Pulbos.<sep>powdered.
-Pulido.<sep>polished.
-Pulpol.<sep>dull.
-Puntos.<sep>point.
-Putahe.<sep>choice dish.
-Rasyon.<sep>ration.
-Rayuma.<sep>rheumatism.
-Rekado.<sep>subordinate ingredients added to a dish.
-Regalo.<sep>gift.
-Reseta.<sep>prescription.
-Retaso.<sep>snippet.
-Retiro.<sep>retirement.
-Ropero.<sep>basket or hamper for dirty linen.
-Roskas.<sep>screw thread.
+Pingga.<sep>Carrying pole.
+Piraso.<sep>Piece.
+Piring.<sep>Blindfold.
+Pisngi.<sep>Cheek.
+Pitaka.<sep>Wallet.
+Pitsel.<sep>Pitcher.
+Premyo.<sep>Prize.
+Pulbos.<sep>Powdered.
+Pulido.<sep>Polished.
+Pulpol.<sep>Dull.
+Puntos.<sep>Point.
+Putahe.<sep>Choice dish.
+Rasyon.<sep>Ration.
+Rayuma.<sep>Rheumatism.
+Rekado.<sep>Subordinate ingredients added to a dish.
+Regalo.<sep>Gift.
+Reseta.<sep>Prescription.
+Retaso.<sep>Snippet.
+Retiro.<sep>Retirement.
+Ropero.<sep>Basket or hamper for dirty linen.
+Roskas.<sep>Screw thread.
 Sabado.<sep>Saturday.
-Saksak.<sep>stabbing.
-Salpok.<sep>crash.
-Sangag.<sep>frying of rice.
-Sarili.<sep>one's own.
-Sastre.<sep>tailor.
-Sawsaw.<sep>dipping into water.
-Sayang.<sep>waste.
-Senado.<sep>senate.
-Sermon.<sep>sermon.
-Siksik.<sep>crowded.
-Signos.<sep>destiny.
-Sima.<sep>barb.
-Singaw.<sep>vapor.
-Singko.<sep>five.
-Sinsin.<sep>density.
-Sipsip.<sep>sip.
-Sirena.<sep>mermaid.
-Suksok.<sep>act of tucking.
-Sulong.<sep>advance.
-Sulyap.<sep>glance.
-Sungay.<sep>horn.
-Sungka.<sep>sungka.
-Suntok.<sep>punch.
-Tabako.<sep>tobacco.
-Tabang.<sep>blandness.
-Taklob.<sep>cover.
-Tadtad.<sep>minced.
-Tainga.<sep>ear.
-Talaba.<sep>oyster.
-Talaga.<sep>surely.
-Tambol.<sep>drum.
-Tangke.<sep>tank.
-Tastas.<sep>unstitched.
-Tihaya.<sep>flat on one's back.
-Tinapa.<sep>smoked fish.
-Titulo.<sep>title.
-Tiyani.<sep>tweezers.
-Tosino.<sep>tocino.
-Tubero.<sep>plumber.
-Tuktok.<sep>peak.
-Tugtog.<sep>act of playing a musical instrument.
-Tutuli.<sep>earwax.
-Wakwak.<sep>ripped or torn violently.
+Saksak.<sep>Stabbing.
+Salpok.<sep>Crash.
+Sangag.<sep>Frying of rice.
+Sarili.<sep>One's own.
+Sastre.<sep>Tailor.
+Sawsaw.<sep>Dipping into water.
+Sayang.<sep>Waste.
+Senado.<sep>Senate.
+Sermon.<sep>Sermon.
+Siksik.<sep>Crowded.
+Signos.<sep>Destiny.
+Sima.<sep>Barb.
+Singaw.<sep>Vapor.
+Singko.<sep>Five.
+Sinsin.<sep>Density.
+Sipsip.<sep>Sip.
+Sirena.<sep>Mermaid.
+Suksok.<sep>Act of tucking.
+Sulong.<sep>Advance.
+Sulyap.<sep>Glance.
+Sungay.<sep>Horn.
+Sungka.<sep>Sungka.
+Suntok.<sep>Punch.
+Tabako.<sep>Tobacco.
+Tabang.<sep>Blandness.
+Taklob.<sep>Cover.
+Tadtad.<sep>Minced.
+Tainga.<sep>Ear.
+Talaba.<sep>Oyster.
+Talaga.<sep>Surely.
+Tambol.<sep>Drum.
+Tangke.<sep>Tank.
+Tastas.<sep>Unstitched.
+Tihaya.<sep>Flat on one's back.
+Tinapa.<sep>Smoked fish.
+Titulo.<sep>Title.
+Tiyani.<sep>Tweezers.
+Tosino.<sep>Tocino.
+Tubero.<sep>Plumber.
+Tuktok.<sep>Peak.
+Tugtog.<sep>Act of playing a musical instrument.
+Tutuli.<sep>Earwax.
+Wakwak.<sep>Ripped or torn violently.
 Enero.<sep>January.
 Hunyo.<sep>June.
 Hulyo.<sep>July.
-Bituin.<sep>star.
-Lindol.<sep>earthquake.
-Ambon.<sep>drizzle.
-Kahapon.<sep>yesterday.
-Maasim.<sep>sour.
-Upo.<sep>act of sitting.
-Patola.<sep>ridged gourd.
-Mahaba.<sep>long.
-Maikli.<sep>short.
+Bituin.<sep>Star.
+Lindol.<sep>Earthquake.
+Ambon.<sep>Drizzle.
+Kahapon.<sep>Yesterday.
+Maasim.<sep>Sour.
+Upo.<sep>Act of sitting.
+Patola.<sep>Ridged gourd.
+Mahaba.<sep>Long.
+Maikli.<sep>Short.
 Bibliya.<sep>Bible.
-Bulkan.<sep>volcano.
-Kuyumad.<sep>tiny young louse.
-Dahilan.<sep>reason.
-Habagat.<sep>south or southwest wind.
-Higante.<sep>giant.
-Pandan.<sep>a barangay of Bogo, Cebu, Philippines.
-Patatas.<sep>potato.
-Plantsa.<sep>smoothing iron.
-Salaan.<sep>sieve.
-Sinangag.<sep>fried rice.
-Singhot.<sep>sniff.
-Ulap.<sep>cloud.
-Tagtuyot.<sep>drought.
+Bulkan.<sep>Volcano.
+Kuyumad.<sep>Tiny young louse.
+Dahilan.<sep>Reason.
+Habagat.<sep>South or southwest wind.
+Higante.<sep>Giant.
+Pandan.<sep>A barangay of Bogo, Cebu, Philippines.
+Patatas.<sep>Potato.
+Plantsa.<sep>Smoothing iron.
+Salaan.<sep>Sieve.
+Sinangag.<sep>Fried rice.
+Singhot.<sep>Sniff.
+Ulap.<sep>Cloud.
+Tagtuyot.<sep>Drought.
 Sa gabi.<sep>Zumba at night.
-Kaibigan.<sep>friend.
-Kambing.<sep>goat.
-Kalabaw.<sep>carabao.
-Abokado.<sep>avocado.
-Kamatis.<sep>tomato.
-Mangga.<sep>mango.
-Repolyo.<sep>cabbage.
-Mustasa.<sep>mustard.
-Sibuyas.<sep>onion.
-Sentido.<sep>sense.
-Lalamunan.<sep>throat.
-Kilikili.<sep>armpit.
-Kandungan.<sep>lap.
-Binti.<sep>leg.
-Maingat.<sep>careful.
-Masipag.<sep>diligent.
-Bastos.<sep>rude.
-Abogado.<sep>lawyer.
-Alakdan.<sep>scorpion.
-Alambre.<sep>wire.
-Almirol.<sep>laundry starch.
-Andamyo.<sep>gangplank.
-Artista.<sep>movie star.
-Asikaso.<sep>work one is involved in.
-Aspalto.<sep>asphalt.
-Bakante.<sep>vacant.
-Balutan.<sep>bundle.
-Bandeha.<sep>tray.
-Bandila.<sep>flag.
-Barbero.<sep>barber.
-Bariles.<sep>barrel.
-Baterya.<sep>battery.
-Bayabas.<sep>guava.
-Bayawak.<sep>monitor lizard.
-Binatog.<sep>binatog.
-Bintana.<sep>window.
-Botante.<sep>voter.
-Bugtong.<sep>riddle.
+Kaibigan.<sep>Friend.
+Kambing.<sep>Goat.
+Kalabaw.<sep>Carabao.
+Abokado.<sep>Avocado.
+Kamatis.<sep>Tomato.
+Mangga.<sep>Mango.
+Repolyo.<sep>Cabbage.
+Mustasa.<sep>Mustard.
+Sibuyas.<sep>Onion.
+Sentido.<sep>Sense.
+Lalamunan.<sep>Throat.
+Kilikili.<sep>Armpit.
+Kandungan.<sep>Lap.
+Binti.<sep>Leg.
+Maingat.<sep>Careful.
+Masipag.<sep>Diligent.
+Bastos.<sep>Rude.
+Abogado.<sep>Lawyer.
+Alakdan.<sep>Scorpion.
+Alambre.<sep>Wire.
+Almirol.<sep>Laundry starch.
+Andamyo.<sep>Gangplank.
+Artista.<sep>Movie star.
+Asikaso.<sep>Work one is involved in.
+Aspalto.<sep>Asphalt.
+Bakante.<sep>Vacant.
+Balutan.<sep>Bundle.
+Bandeha.<sep>Tray.
+Bandila.<sep>Flag.
+Barbero.<sep>Barber.
+Bariles.<sep>Barrel.
+Baterya.<sep>Battery.
+Bayabas.<sep>Guava.
+Bayawak.<sep>Monitor lizard.
+Binatog.<sep>Binatog.
+Bintana.<sep>Window.
+Botante.<sep>Voter.
+Bugtong.<sep>Riddle.
 Bumbero.<sep>A fire engine.
-Butones.<sep>button.
-Kaingin.<sep>slash-and-burn style of clearing land.
-Kamalig.<sep>rice granary.
-Kamison.<sep>chemise.
-Kampana.<sep>church bell.
-Kandado.<sep>lock.
-Kandila.<sep>candle.
-Kantero.<sep>quarryman.
-Kapatas.<sep>foreman.
+Butones.<sep>Button.
+Kaingin.<sep>Slash-and-burn style of clearing land.
+Kamalig.<sep>Rice granary.
+Kamison.<sep>Chemise.
+Kampana.<sep>Church bell.
+Kandado.<sep>Lock.
+Kandila.<sep>Candle.
+Kantero.<sep>Quarryman.
+Kapatas.<sep>Foreman.
 Kastila.<sep>Castilian.
-Kawayan.<sep>bamboo.
-Klinika.<sep>clinic.
-Kolitis.<sep>colitis.
-Kulugo.<sep>wart.
-Kumusta.<sep>hello.
-Kunsumo.<sep>superseded, pre-2014 spelling of konsumo.
-Kurbata.<sep>necktie.
+Kawayan.<sep>Bamboo.
+Klinika.<sep>Clinic.
+Kolitis.<sep>Colitis.
+Kulugo.<sep>Wart.
+Kumusta.<sep>Hello.
+Kunsumo.<sep>Superseded, pre-2014 spelling of konsumo.
+Kurbata.<sep>Necktie.
 Kurtina.<sep>Curtains.
-Kutsara.<sep>spoon.
-Kuwarta.<sep>money.
-Kuwarto.<sep>room.
-Kuwelyo.<sep>collar.
-Kuwenta.<sep>computation.
-Kuwitis.<sep>rocket-type firecracker.
-Demanda.<sep>lawsuit.
-Drayber.<sep>driver.
-Duwende.<sep>duende.
-Eksakto.<sep>exact.
-Empatso.<sep>indigestion.
-Esperma.<sep>spermaceti.
-Estante.<sep>shelf.
-Gaspang.<sep>roughness.
-Gunting.<sep>scissors.
-Halakhak.<sep>loud laughter.
-Higaan.<sep>bed.
+Kutsara.<sep>Spoon.
+Kuwarta.<sep>Money.
+Kuwarto.<sep>Room.
+Kuwelyo.<sep>Collar.
+Kuwenta.<sep>Computation.
+Kuwitis.<sep>Rocket-type firecracker.
+Demanda.<sep>Lawsuit.
+Drayber.<sep>Driver.
+Duwende.<sep>Duende.
+Eksakto.<sep>Exact.
+Empatso.<sep>Indigestion.
+Esperma.<sep>Spermaceti.
+Estante.<sep>Shelf.
+Gaspang.<sep>Roughness.
+Gunting.<sep>Scissors.
+Halakhak.<sep>Loud laughter.
+Higaan.<sep>Bed.
 Huwebes.<sep>Thursday.
-Insulto.<sep>insult.
-Intindi.<sep>understanding.
-Labanos.<sep>radish.
-Larawan.<sep>picture.
-Mababaw.<sep>shallow.
-Mabigat.<sep>heavy.
-Madilim.<sep>dark.
-Maestra.<sep>female equivalent of maestro: female teacher.
+Insulto.<sep>Insult.
+Intindi.<sep>Understanding.
+Labanos.<sep>Radish.
+Larawan.<sep>Picture.
+Mababaw.<sep>Shallow.
+Mabigat.<sep>Heavy.
+Madilim.<sep>Dark.
+Maestra.<sep>Female equivalent of maestro: female teacher.
 Maestro.<sep>Maestro.
-Malamig.<sep>cold.
-Mangkok.<sep>big bowl or saucer.
-Manipis.<sep>thin.
-Mantika.<sep>cooking oil.
-Marupok.<sep>weak.
-Masakit.<sep>painful.
-Maskara.<sep>mask.
-Masyado.<sep>very.
-Matabil.<sep>boastful.
-Matamis.<sep>sweet.
-Matigas.<sep>hard.
-Medalya.<sep>medal.
-Opisina.<sep>office.
-Orasyon.<sep>prayer.
+Malamig.<sep>Cold.
+Mangkok.<sep>Big bowl or saucer.
+Manipis.<sep>Thin.
+Mantika.<sep>Cooking oil.
+Marupok.<sep>Weak.
+Masakit.<sep>Painful.
+Maskara.<sep>Mask.
+Masyado.<sep>Very.
+Matabil.<sep>Boastful.
+Matamis.<sep>Sweet.
+Matigas.<sep>Hard.
+Medalya.<sep>Medal.
+Opisina.<sep>Office.
+Orasyon.<sep>Prayer.
 Oregano.<sep>Cuban oregano.
-Ospital.<sep>hospital.
-Pabigat.<sep>burden.
-Pabrika.<sep>factory.
-Pagkain.<sep>food.
-Palakol.<sep>axe.
-Palasyo.<sep>palace.
-Pamilya.<sep>family.
-Paminta.<sep>peppercorn.
-Pangako.<sep>promise.
-Parilya.<sep>grill.
-Patawad.<sep>apology.
-Pawikan.<sep>sea turtle.
+Ospital.<sep>Hospital.
+Pabigat.<sep>Burden.
+Pabrika.<sep>Factory.
+Pagkain.<sep>Food.
+Palakol.<sep>Axe.
+Palasyo.<sep>Palace.
+Pamilya.<sep>Family.
+Paminta.<sep>Peppercorn.
+Pangako.<sep>Promise.
+Parilya.<sep>Grill.
+Patawad.<sep>Apology.
+Pawikan.<sep>Sea turtle.
 Pebrero.<sep>February.
-Pinggan.<sep>plate.
-Pintura.<sep>paint.
-Piyansa.<sep>bail.
-Planeta.<sep>planet.
-Plastik.<sep>plastic.
-Posporo.<sep>match.
-Propeta.<sep>prophet.
-Puhunan.<sep>capital.
-Pulgada.<sep>inch.
-Pulpito.<sep>pulpit.
-Putakti.<sep>wasp.
-Reklamo.<sep>complaint.
-Reporma.<sep>reform.
-Resulta.<sep>result.
-Romansa.<sep>romance.
-Rosaryo.<sep>rosary.
-Salamat.<sep>thank you.
-Salamin.<sep>mirror.
-Sapatos.<sep>shoe.
-Sekreta.<sep>secret police.
-Semento.<sep>cement.
-Silbato.<sep>whistle.
-Singkit.<sep>slant-eyed.
-Sipunin.<sep>to catch a cold.
-Sistema.<sep>system.
-Subasta.<sep>auction.
-Sugalan.<sep>gambling house.
-Sugarol.<sep>gambler.
-Sumpong.<sep>fit.
-Sundalo.<sep>soldier.
-Sundang.<sep>dagger.
-Suwelas.<sep>sole.
-Suweldo.<sep>salary.
-Tandang.<sep>rooster.
-Tanglad.<sep>lemongrass.
-Timbang.<sep>weight.
-Tinapay.<sep>bread.
-Tindera.<sep>female equivalent of tindero: female storekeeper.
-Tinidor.<sep>fork.
-Trabaho.<sep>work.
-Tuwalya.<sep>towel.
-Kulog.<sep>thunder.
-Wala.<sep>nothing.
+Pinggan.<sep>Plate.
+Pintura.<sep>Paint.
+Piyansa.<sep>Bail.
+Planeta.<sep>Planet.
+Plastik.<sep>Plastic.
+Posporo.<sep>Match.
+Propeta.<sep>Prophet.
+Puhunan.<sep>Capital.
+Pulgada.<sep>Inch.
+Pulpito.<sep>Pulpit.
+Putakti.<sep>Wasp.
+Reklamo.<sep>Complaint.
+Reporma.<sep>Reform.
+Resulta.<sep>Result.
+Romansa.<sep>Romance.
+Rosaryo.<sep>Rosary.
+Salamat.<sep>Thank you.
+Salamin.<sep>Mirror.
+Sapatos.<sep>Shoe.
+Sekreta.<sep>Secret police.
+Semento.<sep>Cement.
+Silbato.<sep>Whistle.
+Singkit.<sep>Slant-eyed.
+Sipunin.<sep>To catch a cold.
+Sistema.<sep>System.
+Subasta.<sep>Auction.
+Sugalan.<sep>Gambling house.
+Sugarol.<sep>Gambler.
+Sumpong.<sep>Fit.
+Sundalo.<sep>Soldier.
+Sundang.<sep>Dagger.
+Suwelas.<sep>Sole.
+Suweldo.<sep>Salary.
+Tandang.<sep>Rooster.
+Tanglad.<sep>Lemongrass.
+Timbang.<sep>Weight.
+Tinapay.<sep>Bread.
+Tindera.<sep>Female equivalent of tindero: female storekeeper.
+Tinidor.<sep>Fork.
+Trabaho.<sep>Work.
+Tuwalya.<sep>Towel.
+Kulog.<sep>Thunder.
+Wala.<sep>Nothing.
 Ano Pa?<sep>Go on?
-Maanghang.<sep>spicy.
-Alitaptap.<sep>firefly.
-Bubuyog.<sep>bumblebee.
-Garapata.<sep>tick.
-Hinlalaki.<sep>thumb.
-Tahimik.<sep>quiet.
-Magdagdag.<sep>to add something.
-Kumuha.<sep>to get.
-Kunin.<sep>to take something by the hand.
-Kumpuni.<sep>repair.
-Gobyerno.<sep>government.
-Heneral.<sep>general.
-Maghapon.<sep>all day.
-Nerbiyos.<sep>panic attack.
-Pabayaan.<sep>to neglect.
-Pulisya.<sep>the police.
-Usisera.<sep>feminine of usisero.
-Usisero.<sep>overly inquisitive person.
+Maanghang.<sep>Spicy.
+Alitaptap.<sep>Firefly.
+Bubuyog.<sep>Bumblebee.
+Garapata.<sep>Tick.
+Hinlalaki.<sep>Thumb.
+Tahimik.<sep>Quiet.
+Magdagdag.<sep>To add something.
+Kumuha.<sep>To get.
+Kunin.<sep>To take something by the hand.
+Kumpuni.<sep>Repair.
+Gobyerno.<sep>Government.
+Heneral.<sep>General.
+Maghapon.<sep>All day.
+Nerbiyos.<sep>Panic attack.
+Pabayaan.<sep>To neglect.
+Pulisya.<sep>The police.
+Usisera.<sep>Feminine of usisero.
+Usisero.<sep>Overly inquisitive person.
 Linggo.<sep>Sunday.
 Biyernes.<sep>Friday.
 Oktubre.<sep>October.
 Sino Pa?<sep>Anyone else?
-Kakilala.<sep>acquaintance.
-Hawak.<sep>holding of something in one's hand.
-Pumili.<sep>to choose.
-Elepante.<sep>elephant.
-Mansanas.<sep>apple.
-Kalabasa.<sep>squash.
-Kangkong.<sep>water spinach.
-Singkamas.<sep>jicama.
+Kakilala.<sep>Acquaintance.
+Hawak.<sep>Holding of something in one's hand.
+Pumili.<sep>To choose.
+Elepante.<sep>Elephant.
+Mansanas.<sep>Apple.
+Kalabasa.<sep>Squash.
+Kangkong.<sep>Water spinach.
+Singkamas.<sep>Jicama.
 Ay Mali!.<sep>- ...all lies.
-Gastador.<sep>spendthrift.
-Madaldal.<sep>talkative.
-Alimango.<sep>crab.
-Aparador.<sep>wardrobe.
-Bakasyon.<sep>vacation.
-Bangkero.<sep>banker.
-Bangketa.<sep>sidewalk.
-Beterano.<sep>veteran.
-Bibingka.<sep>bibingka.
-Kabataan.<sep>youth.
-Kamandag.<sep>venom.
-Kamiseta.<sep>undershirt.
-Kampanya.<sep>campaign.
-Kapritso.<sep>caprice.
-Karatula.<sep>sign.
-Kolehiyo.<sep>college.
-Kompanya.<sep>company.
-Konsehal.<sep>councilor.
-Kontrata.<sep>contract.
-Kriminal.<sep>criminal.
-Kulungan.<sep>cage.
-Kumbento.<sep>convent.
-Kumpisal.<sep>confession.
-Kutsilyo.<sep>knife.
-Kutsinta.<sep>kutsinta.
-Kuwerdas.<sep>string.
-Kuwintas.<sep>necklace.
-Delikado.<sep>dangerous.
-Dentista.<sep>dentist.
-Deposito.<sep>deposit.
-Dingding.<sep>wall of a room or house.
-Eklipse.<sep>eclipse.
-Ehersisyo.<sep>exercise.
-Engkanto.<sep>engkanto.
-Eskuwala.<sep>carpenter's square.
-Espiritu.<sep>spirit.
-Espongha.<sep>sponge.
-Estasyon.<sep>railway station.
-Galapong.<sep>rice flour.
+Gastador.<sep>Spendthrift.
+Madaldal.<sep>Talkative.
+Alimango.<sep>Crab.
+Aparador.<sep>Wardrobe.
+Bakasyon.<sep>Vacation.
+Bangkero.<sep>Banker.
+Bangketa.<sep>Sidewalk.
+Beterano.<sep>Veteran.
+Bibingka.<sep>Bibingka.
+Kabataan.<sep>Youth.
+Kamandag.<sep>Venom.
+Kamiseta.<sep>Undershirt.
+Kampanya.<sep>Campaign.
+Kapritso.<sep>Caprice.
+Karatula.<sep>Sign.
+Kolehiyo.<sep>College.
+Kompanya.<sep>Company.
+Konsehal.<sep>Councilor.
+Kontrata.<sep>Contract.
+Kriminal.<sep>Criminal.
+Kulungan.<sep>Cage.
+Kumbento.<sep>Convent.
+Kumpisal.<sep>Confession.
+Kutsilyo.<sep>Knife.
+Kutsinta.<sep>Kutsinta.
+Kuwerdas.<sep>String.
+Kuwintas.<sep>Necklace.
+Delikado.<sep>Dangerous.
+Dentista.<sep>Dentist.
+Deposito.<sep>Deposit.
+Dingding.<sep>Wall of a room or house.
+Eklipse.<sep>Eclipse.
+Ehersisyo.<sep>Exercise.
+Engkanto.<sep>Engkanto.
+Eskuwala.<sep>Carpenter's square.
+Espiritu.<sep>Spirit.
+Espongha.<sep>Sponge.
+Estasyon.<sep>Railway station.
+Galapong.<sep>Rice flour.
 Gumamela.<sep>Chinese hibiscus.
-Guwantes.<sep>hand glove.
-Guyabano.<sep>soursop.
-Hustisya.<sep>justice.
-Labatiba.<sep>enema.
-Libingan.<sep>grave.
-Malagkit.<sep>sticky.
-Malasado.<sep>soft-boiled.
-Manugang.<sep>child-in-law.
-Martilyo.<sep>hammer.
-Mayabong.<sep>leafy.
-Mekaniko.<sep>mechanic.
-Mikrobyo.<sep>microbe.
-Orihinal.<sep>original.
-Palengke.<sep>market.
-Palikpik.<sep>fin.
-Palupalo.<sep>batlet.
-Panadero.<sep>baker.
-Panganay.<sep>firstborn child.
-Pantalan.<sep>wooden or bamboo pier.
-Pasahero.<sep>passenger.
-Pelikula.<sep>film.
-Pingpong.<sep>ping pong.
-Prinsipe.<sep>prince.
-Prinsesa.<sep>princess.
+Guwantes.<sep>Hand glove.
+Guyabano.<sep>Soursop.
+Hustisya.<sep>Justice.
+Labatiba.<sep>Enema.
+Libingan.<sep>Grave.
+Malagkit.<sep>Sticky.
+Malasado.<sep>Soft-boiled.
+Manugang.<sep>Child-in-law.
+Martilyo.<sep>Hammer.
+Mayabong.<sep>Leafy.
+Mekaniko.<sep>Mechanic.
+Mikrobyo.<sep>Microbe.
+Orihinal.<sep>Original.
+Palengke.<sep>Market.
+Palikpik.<sep>Fin.
+Palupalo.<sep>Batlet.
+Panadero.<sep>Baker.
+Panganay.<sep>Firstborn child.
+Pantalan.<sep>Wooden or bamboo pier.
+Pasahero.<sep>Passenger.
+Pelikula.<sep>Film.
+Pingpong.<sep>Ping pong.
+Prinsipe.<sep>Prince.
+Prinsesa.<sep>Princess.
 Pukyutan.<sep>Philippine giant honey bee.
-Pulitika.<sep>superseded, pre-2014 spelling of politika.
-Pulitiko.<sep>superseded, pre-2014 spelling of politiko.
-Puntirya.<sep>superseded spelling of punterya.
-Rebolber.<sep>revolver.
-Relasyon.<sep>relation.
-Repinado.<sep>refined.
-Salubsob.<sep>sliver.
-Sibilyan.<sep>civilian.
-Singsing.<sep>ring.
-Sinturon.<sep>belt.
-Sorbetes.<sep>sorbetes.
-Sustento.<sep>alimony.
-Tanikala.<sep>chain.
-Telepono.<sep>telephone.
-Tenyente.<sep>lieutenant.
-Tindahan.<sep>store.
-Tiyangge.<sep>street market.
-Tonelada.<sep>ton.
-Tsinelas.<sep>slippers.
-Tag-Init.<sep>hot season.
-Tatlo.<sep>three.
-Siyam.<sep>nine.
-Mamaya.<sep>later.
-Yakap.<sep>hug.
-Makipag-Usap.<sep>to engage in conversation with someone.
-Salaginto.<sep>golden tortoise beetle.
-Kamag-Anak.<sep>relative.
-Kilay.<sep>eyebrow.
-Pilikmata.<sep>eyelash.
-Malupit.<sep>cruel.
-Matulog.<sep>to sleep.
-Alkansiya.<sep>piggy bank.
-Kaarawan.<sep>birthday.
-Kubyertos.<sep>silverware.
+Pulitika.<sep>Superseded, pre-2014 spelling of politika.
+Pulitiko.<sep>Superseded, pre-2014 spelling of politiko.
+Puntirya.<sep>Superseded spelling of punterya.
+Rebolber.<sep>Revolver.
+Relasyon.<sep>Relation.
+Repinado.<sep>Refined.
+Salubsob.<sep>Sliver.
+Sibilyan.<sep>Civilian.
+Singsing.<sep>Ring.
+Sinturon.<sep>Belt.
+Sorbetes.<sep>Sorbetes.
+Sustento.<sep>Alimony.
+Tanikala.<sep>Chain.
+Telepono.<sep>Telephone.
+Tenyente.<sep>Lieutenant.
+Tindahan.<sep>Store.
+Tiyangge.<sep>Street market.
+Tonelada.<sep>Ton.
+Tsinelas.<sep>Slippers.
+Tag-Init.<sep>Hot season.
+Tatlo.<sep>Three.
+Siyam.<sep>Nine.
+Mamaya.<sep>Later.
+Yakap.<sep>Hug.
+Makipag-Usap.<sep>To engage in conversation with someone.
+Salaginto.<sep>Golden tortoise beetle.
+Kamag-Anak.<sep>Relative.
+Kilay.<sep>Eyebrow.
+Pilikmata.<sep>Eyelash.
+Malupit.<sep>Cruel.
+Matulog.<sep>To sleep.
+Alkansiya.<sep>Piggy bank.
+Kaarawan.<sep>Birthday.
+Kubyertos.<sep>Silverware.
 Disyembre.<sep>December.
-Diyanitor.<sep>janitor.
-Ganansiya.<sep>profit.
-Gantsilyo.<sep>crochet hook, knitting needle.
-Halimbawa.<sep>for example.
-Lisensiya.<sep>license.
-Malinamnam.<sep>delicious.
-Miyerkules.<sep>superseded, pre-2014 spelling of Miyerkoles.
-Silangan.<sep>east.
-Uniporme.<sep>uniform.
-Gabi-Gabi.<sep>nightly.
-Gitna.<sep>center.
-Harap.<sep>front.
-Likod.<sep>back.
-Umiyak.<sep>to cry.
-Uminom.<sep>to drink.
-Ihagis.<sep>to cast.
-Huwag.<sep>do not.
-Latigo.<sep>whip.
+Diyanitor.<sep>Janitor.
+Ganansiya.<sep>Profit.
+Gantsilyo.<sep>Crochet hook, knitting needle.
+Halimbawa.<sep>For example.
+Lisensiya.<sep>License.
+Malinamnam.<sep>Delicious.
+Miyerkules.<sep>Superseded, pre-2014 spelling of Miyerkoles.
+Silangan.<sep>East.
+Uniporme.<sep>Uniform.
+Gabi-Gabi.<sep>Nightly.
+Gitna.<sep>Center.
+Harap.<sep>Front.
+Likod.<sep>Back.
+Umiyak.<sep>To cry.
+Uminom.<sep>To drink.
+Ihagis.<sep>To cast.
+Huwag.<sep>Do not.
+Latigo.<sep>Whip.
 Sampaloc.<sep>Sampaloc.
-Balakang.<sep>hip.
-Talampakan.<sep>sole.
-Mapagmataas.<sep>haughty.
-Buksan.<sep>to be opened.
-Maghiwalay.<sep>to separate.
-Albularyo.<sep>herb doctor.
-Badminton.<sep>badminton.
-Basketbol.<sep>basketball.
-Brilyante.<sep>diamond.
-Kamatayan.<sep>death.
-Kandidato.<sep>candidate.
-Karetilya.<sep>pushcart.
-Kasalanan.<sep>sin.
-Katapusan.<sep>end.
-Kuwadrado.<sep>square.
-Eleksiyon.<sep>election.
-Entablado.<sep>stage.
-Eskandalo.<sep>scandal.
-Makinista.<sep>machine operator.
-Magaspang.<sep>rough.
-Malunggay.<sep>malunggay.
-Matrikula.<sep>matriculation.
+Balakang.<sep>Hip.
+Talampakan.<sep>Sole.
+Mapagmataas.<sep>Haughty.
+Buksan.<sep>To be opened.
+Maghiwalay.<sep>To separate.
+Albularyo.<sep>Herb doctor.
+Badminton.<sep>Badminton.
+Basketbol.<sep>Basketball.
+Brilyante.<sep>Diamond.
+Kamatayan.<sep>Death.
+Kandidato.<sep>Candidate.
+Karetilya.<sep>Pushcart.
+Kasalanan.<sep>Sin.
+Katapusan.<sep>End.
+Kuwadrado.<sep>Square.
+Eleksiyon.<sep>Election.
+Entablado.<sep>Stage.
+Eskandalo.<sep>Scandal.
+Makinista.<sep>Machine operator.
+Magaspang.<sep>Rough.
+Malunggay.<sep>Malunggay.
+Matrikula.<sep>Matriculation.
 Munisipyo.<sep>Town hall.
-Pambihira.<sep>extraordinary.
-Panaderya.<sep>bakery.
-Prinsipal.<sep>principal.
-Prusisyon.<sep>procession.
-Relihiyon.<sep>religion.
-Republika.<sep>republic.
-Salbabida.<sep>life preserver.
-Sigarilyo.<sep>cigarette.
-Talakitok.<sep>orange-spotted trevally.
-Tarantado.<sep>shameless.
-Telegrama.<sep>telegram.
-Timbangan.<sep>balance.
+Pambihira.<sep>Extraordinary.
+Panaderya.<sep>Bakery.
+Prinsipal.<sep>Principal.
+Prusisyon.<sep>Procession.
+Relihiyon.<sep>Religion.
+Republika.<sep>Republic.
+Salbabida.<sep>Life preserver.
+Sigarilyo.<sep>Cigarette.
+Talakitok.<sep>Orange-spotted trevally.
+Tarantado.<sep>Shameless.
+Telegrama.<sep>Telegram.
+Timbangan.<sep>Balance.
 Nobyembre.<sep>November.
-Bahaghari.<sep>rainbow.
-Sampu.<sep>ten.
-Pakiusap!<sep>request!
-Ligtas.<sep>safe.
-Sumisip.<sep>a municipality of Basilan, Philippines.
-Paruparo.<sep>butterfly.
-Sinigwelas.<sep>red mombin.
+Bahaghari.<sep>Rainbow.
+Sampu.<sep>Ten.
+Pakiusap!<sep>Request!
+Ligtas.<sep>Safe.
+Sumisip.<sep>A municipality of Basilan, Philippines.
+Paruparo.<sep>Butterfly.
+Sinigwelas.<sep>Red mombin.
 Ano kaya?<sep>So, I don't know?
-Maliit.<sep>small.
-Pababa.<sep>downward.
-Ebidensiya.<sep>evidence.
-Makinilya.<sep>small machine.
+Maliit.<sep>Small.
+Pababa.<sep>Downward.
+Ebidensiya.<sep>Evidence.
+Makinilya.<sep>Small machine.
 Mantikilya.<sep>Butter.
-Monumento.<sep>monument.
-Palanggana.<sep>washbowl.
-Punongkahoy.<sep>tree.
+Monumento.<sep>Monument.
+Palanggana.<sep>Washbowl.
+Punongkahoy.<sep>Tree.
 Purgatoryo.<sep>Purgatory.
-Tag-Ulan.<sep>rainy season.
-Bulalakaw.<sep>meteor.
+Tag-Ulan.<sep>Rainy season.
+Bulalakaw.<sep>Meteor.
 Isang libo.<sep>A thousand.
-Araw-araw.<sep>daily.
-Hatinggabi.<sep>midnight.
+Araw-araw.<sep>Daily.
+Hatinggabi.<sep>Midnight.
 Sa ngayon.<sep>Not yet.
 Isang taon.<sep>1 year.
-Tanggap.<sep>admitted.
-Pukol.<sep>toss.
-Tumawa.<sep>to laugh.
-Hugasan.<sep>to wash with water.
-Sigarilyas.<sep>winged bean.
+Tanggap.<sep>Admitted.
+Pukol.<sep>Toss.
+Tumawa.<sep>To laugh.
+Hugasan.<sep>To wash with water.
+Sigarilyas.<sep>Winged bean.
 Hilain.<sep>Pull up.
 Sa taas.<sep>Up there. - We need to.
 Pataas.<sep>Going up.
@@ -1140,131 +1140,131 @@ Mas malaki.<sep>The bigger one.
 Mas maliit.<sep>Smaller.
 Mas mataas.<sep>Higher.
 Mas mahina.<sep>Weaker.
-Alang-alang.<sep>regard.
-Bentilador.<sep>electric fan.
-Bungisngis.<sep>giggle.
-Kampanaryo.<sep>belfry, bell tower.
-Demokrasya.<sep>democracy.
-Ebanghelyo.<sep>alternative letter-case form of Ebanghelyo.
-Eskuwelahan.<sep>school.
-Estudyante.<sep>pupil.
-Galunggong.<sep>shortfin scad.
-Gobernador.<sep>governor.
-Milyonaryo.<sep>millionaire.
-Pakinabang.<sep>benefit.
-Pagkatapos.<sep>after.
-Salamangka.<sep>magic.
+Alang-alang.<sep>Regard.
+Bentilador.<sep>Electric fan.
+Bungisngis.<sep>Giggle.
+Kampanaryo.<sep>Belfry, bell tower.
+Demokrasya.<sep>Democracy.
+Ebanghelyo.<sep>Alternative letter-case form of Ebanghelyo.
+Eskuwelahan.<sep>School.
+Estudyante.<sep>Pupil.
+Galunggong.<sep>Shortfin scad.
+Gobernador.<sep>Governor.
+Milyonaryo.<sep>Millionaire.
+Pakinabang.<sep>Benefit.
+Pagkatapos.<sep>After.
+Salamangka.<sep>Magic.
 Sekretarya.<sep>Secretary.
-Sustansiya.<sep>nutrients.
-Kumusta?<sep>hello?
+Sustansiya.<sep>Nutrients.
+Kumusta?<sep>Hello?
 Isang buwan.<sep>For a whole month.
-Magkano?<sep>how much?
-Huminto.<sep>to stop.
-Tumakbo.<sep>to run.
-Maglakad.<sep>to walk.
+Magkano?<sep>How much?
+Huminto.<sep>To stop.
+Tumakbo.<sep>To run.
+Maglakad.<sep>To walk.
 Para saan?<sep>What for?
-Malaki.<sep>big.
-Itago.<sep>to hide.
+Malaki.<sep>Big.
+Itago.<sep>To hide.
 Mas mabagal.<sep>Slower.
-Estranghero.<sep>stranger.
-Heringgilya.<sep>hypodermic syringe.
+Estranghero.<sep>Stranger.
+Heringgilya.<sep>Hypodermic syringe.
 Setyembre.<sep>September.
 Talaga ba?<sep>Really?
 Masamang panaginip.<sep>Bad dream.
 Kapatid na babae.<sep>Sister.
-Pamangkin.<sep>nibling.
+Pamangkin.<sep>Nibling.
 Kawawa naman!<sep>Poor thing!
-Matipid.<sep>economical.
+Matipid.<sep>Economical.
 Mas mabilis.<sep>Faster.
-Korporasyon.<sep>corporation.
-Konsumisyon.<sep>annoyance.
-Inspirasyon.<sep>inspiration.
-Alog.<sep>shake.
-Bukong-bukong.<sep>ankle.
+Korporasyon.<sep>Corporation.
+Konsumisyon.<sep>Annoyance.
+Inspirasyon.<sep>Inspiration.
+Alog.<sep>Shake.
+Bukong-bukong.<sep>Ankle.
 Walang ingat.<sep>That reckless woman.
 Mas malakas.<sep>Stronger.
 Limang libo.<sep>5,000.5,000.
 Isang linggo.<sep>One week.
 Bakit ganyan?<sep>What did she request?
-Mabuhay.<sep>long live.
-Anting-anting.<sep>amulet.
+Mabuhay.<sep>Long live.
+Anting-anting.<sep>Amulet.
 Apat na libo.<sep>Four grand.
-Araw at gabi.<sep>day and night.
-Dalhin.<sep>to be brought.
-Paniki.<sep>bat.
+Araw at gabi.<sep>Day and night.
+Dalhin.<sep>To be brought.
+Paniki.<sep>Bat.
 Anak na babae.<sep>Daughter.
 Mapagpakumbaba.<sep>Humble.
-Ipakita.<sep>to show.
-Pitumpu.<sep>seventy.
-Walumpu.<sep>eighty.
-Bukang-liwayway.<sep>daybreak.
+Ipakita.<sep>To show.
+Pitumpu.<sep>Seventy.
+Walumpu.<sep>Eighty.
+Bukang-liwayway.<sep>Daybreak.
 Asawang babae.<sep>Wife.
-Mahirap.<sep>difficult.
+Mahirap.<sep>Difficult.
 Dalawang libo.<sep>Two thousand.
 Bukas ng gabi.<sep>Tomorrow night.
 Napakamahal!<sep>And it'll cost you!
 Bakit mahirap?<sep>Why were they tough?
-Dalawampu.<sep>twenty.
-Tatlumpu.<sep>thirty.
+Dalawampu.<sep>Twenty.
+Tatlumpu.<sep>Thirty.
 Isang daan.<sep>One hundred.
 Bukas ng hapon.<sep>Tomorrow afternoon.
-Magdamag.<sep>all night.
+Magdamag.<sep>All night.
 Gusto ko ito.<sep>I like it.
-Kasukasuan.<sep>joint.
-Mamatay.<sep>to die.
-Limampu.<sep>fifty.
+Kasukasuan.<sep>Joint.
+Mamatay.<sep>To die.
+Limampu.<sep>Fifty.
 Hanggang sa muli.<sep>Until we meet again.
-Puso ng saging.<sep>banana flower.
+Puso ng saging.<sep>Banana flower.
 Sino ka?<sep>Who are you?
 Saan ka galing?<sep>Where have you been?
-Pangit.<sep>ugly.
-Magalit.<sep>to get angry.
+Pangit.<sep>Ugly.
+Magalit.<sep>To get angry.
 Magandang gabi.<sep>Good night.
-Paalam!<sep>one's goodbyes!
+Paalam!<sep>One's goodbyes!
 Sa makalawa.<sep>In two days.
 Gusto ko iyon.<sep>That was so awesome.
-Mag-ingat.<sep>to be careful.
-Masama.<sep>evil.
-Animnapu.<sep>sixty.
-Siyamnapu.<sep>ninety.
+Mag-ingat.<sep>To be careful.
+Masama.<sep>Evil.
+Animnapu.<sep>Sixty.
+Siyamnapu.<sep>Ninety.
 Magandang araw.<sep>Excuse me.
 Magandang hapon.<sep>Afternoon. Hey.
 Bago ba ito?<sep>Is this new?
-Tumulong.<sep>to help.
-Mayaman.<sep>rich.
+Tumulong.<sep>To help.
+Mayaman.<sep>Rich.
 Magkasama.<sep>'Together'.
-Labinlima.<sep>fifteen.
-Apatnapu.<sep>forty.
-Pasok!<sep>entry!
+Labinlima.<sep>Fifteen.
+Apatnapu.<sep>Forty.
+Pasok!<sep>Entry!
 Mabuti, salamat.<sep>Fine, thanks.
 Bukas ng umaga.<sep>Tomorrow morning.
-Malapit.<sep>near.
+Malapit.<sep>Near.
 Bakit ka galit?<sep>Please?
 Bakit ka nandito?<sep>What are you doing here?
-Matalino.<sep>smart.
-Tumanggi.<sep>to decline.
+Matalino.<sep>Smart.
+Tumanggi.<sep>To decline.
 Mas maganda.<sep>Even better.
-Labing-isa.<sep>eleven.
+Labing-isa.<sep>Eleven.
 Magkano ito?<sep>How much was this?
 Saan ka pupunta?<sep>Where you going?
-Labindalawa.<sep>twelve.
-Labintatlo.<sep>thirteen.
+Labindalawa.<sep>Twelve.
+Labintatlo.<sep>Thirteen.
 Maraming salamat.<sep>Thank you very much.
 Maging alerto.<sep>Heads up.
 Limang daan.<sep>Five hundred.
 Magandang umaga.<sep>Good morning.
 Kahapon ng umaga.<sep>Yesterday morning, but.
 Isang araw.<sep>One day.
-Alkansya.<sep>superseded, pre-2007 spelling of alkansiya.
+Alkansya.<sep>Superseded, pre-2007 spelling of alkansiya.
 Ano ang pangalan mo?<sep>What is your name?
 Saan siya galing?<sep>Where was he?
-Magsinungaling.<sep>to lie.
-Labing-apat.<sep>fourteen.
-Labimpito.<sep>seventeen.
-Labingwalo.<sep>eighteen.
+Magsinungaling.<sep>To lie.
+Labing-apat.<sep>Fourteen.
+Labimpito.<sep>Seventeen.
+Labingwalo.<sep>Eighteen.
 Magkano iyan?<sep>What's your price?
-Labing-anim.<sep>sixteen.
-Labinsiyam.<sep>nineteen.
+Labing-anim.<sep>Sixteen.
+Labinsiyam.<sep>Nineteen.
 Walang anuman.<sep>- You're welcome.
 Ganoon ba?<sep>Is that so?
 Darating ang araw.<sep>The day of wrath is drawing near.
@@ -1278,18 +1278,18 @@ Saan mo nakuha iyon?<sep>Where did you read that?
 Bakit ka umiiyak?<sep>Why are you crying?
 Ilang taon ka na?<sep>In a circus? How old are you?
 Ano ang trabaho mo?<sep>What do you do for a living?
-Walong daan.<sep>eight hundred.
+Walong daan.<sep>Eight hundred.
 Sampung libo.<sep>Ten thousand.
 Hanggang ngayon.<sep>Until now.
 Noong nakaraang buwan.<sep>A MONTH AGO.
-Mag-ingat!<sep>to be careful!
+Mag-ingat!<sep>To be careful!
 Ano ang masasabi mo?<sep>What do you say?
 Kailan ito nangyari?<sep>When did this happen?
 Bakit ka tumatawa?<sep>Why the fuck are you laughing?
 Bakit ka malungkot?<sep>Why are you sad?
 Bakit ka sumisigaw?<sep>Why are you yelling?
 Maupo muna kayo.<sep>Please, have a seat.
-Pitong daan.<sep>seven hundred.
+Pitong daan.<sep>Seven hundred.
 Bukas ng tanghali.<sep>Tomorrow at noon.
 Ano sa tingin mo?<sep>What do you think?
 Dalawang daan.<sep>Two hundred.
@@ -1314,20 +1314,20 @@ Bakit ka nagtago?<sep>Why did you hide?
 Ako ang bahala.<sep>Leave it to me.
 Ano ang dapat kong gawin?<sep>What was I suppose to do?
 Bakit hindi mo sabihin?<sep>Why wouldn't you tell me?
-Makasarili.<sep>selfish.
+Makasarili.<sep>Selfish.
 Maging magkaibigan.<sep>Be platonic.
 Isang daang libo.<sep>A hundred thousand.
 Dalawampung libo.<sep>Twenty thousand.
-Kamakalawa.<sep>day before yesterday.
+Kamakalawa.<sep>Day before yesterday.
 Napakamura!<sep>Dirt cheap!
 Ano ang ibig mong sabihin?<sep>What do you mean?
 Pwede bang tumawad?<sep>Any room for negotiation?
 Paano kita matutulungan?<sep>How may I help you?
-Paumanhin.<sep>apology.
+Paumanhin.<sep>Apology.
 Saan ka nakatira?<sep>Where do you live?
 Hindi ko alam kung bakit?<sep>I don't even know why?
 Magdahan-dahan.<sep>Slow down.
-Langgam.<sep>ant.
+Langgam.<sep>Ant.
 Sino ang sasama sa akin?<sep>Anyone coming with me?
 Isang daan at limampu.<sep>A hundred and fifty.
 Wow, ang ganda!<sep>Wow, this is gorgeous!

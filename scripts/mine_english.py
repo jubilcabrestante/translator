@@ -195,6 +195,12 @@ def match_style(source, english):
     # is not this entry's: 'Ako.' matched a line reading 'Me?', and training on
     # that teaches the model to answer a statement with a question.
     body = english.rstrip(".!?,;: ")
+    # Mirror the entry's leading capitalisation too. Hand-written entries are
+    # capitalised ('Dog.') while Wiktionary glosses are not ('unripe'), and the
+    # model is trained on exact strings -- a mixed corpus teaches it to
+    # capitalise unpredictably.
+    if body and source[:1].isupper() and body[:1].islower():
+        body = body[0].upper() + body[1:]
     tail = source.strip()[-1:] if source.strip() else ""
     return body + tail if tail in ".!?" else body
 

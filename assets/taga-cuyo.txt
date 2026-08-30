@@ -68,26 +68,20 @@ Akin.<sep>Aken.
 Agaw.<sep>Agaw.
 Alon.<sep>Alen.
 Amin.<sep>Amen.
-Anay.<sep>Anay.
 Anim.<sep>Anem.
 Anod.<sep>Anod.
 Apat.<sep>Apat.
-Apdo.<sep>Apdo.
 Apog.<sep>Apog.
 Aral.<sep>Adal.
 Arko.<sep>Arko.
 Asin.<sep>Asin.
-Atay.<sep>Atay.
 Atin.<sep>Aten.
 Atip.<sep>Atep.
-Atis.<sep>Atis.
 Awat.<sep>Awat.
-Baka.<sep>Baka.
 Balo.<sep>Balo.
 Bara.<sep>Bara.
 Basa.<sep>Basa.
 Baso.<sep>Baso.
-Bata.<sep>Bata.
 Bato.<sep>Bato.
 Baul.<sep>Baul.
 Bayo.<sep>Bayo.
@@ -107,7 +101,6 @@ Kawa.<sep>Kawa.
 Kayo.<sep>Kamo.
 Keso.<sep>Kiso.
 Krus.<sep>Kros.
-Kuko.<sep>Koko.
 Kura.<sep>Kora.
 Kuta.<sep>Kota.
 Daan.<sep>Daan.
@@ -118,15 +111,12 @@ Dati.<sep>Dati.
 Dama.<sep>Dama.
 Dapa.<sep>Dapa.
 Daya.<sep>Daye.
-Dila.<sep>Dila.
 Dipa.<sep>Depa.
 Duda.<sep>Doda.
-Dugo.<sep>Dogo.
 Dura.<sep>Dora.
 Edad.<sep>Idad.
 Gaan.<sep>Agan.
 Gaas.<sep>Gaas.
-Gabi.<sep>Gabi.
 Gana.<sep>Gana.
 Gata.<sep>Gata.
 Giba.<sep>Geba.
@@ -140,12 +130,10 @@ Inom.<sep>Inem.
 Inyo.<sep>Indo.
 Ipit.<sep>Ipit.
 Isa.<sep>Isara.
-Isda.<sep>Isda.
 Isip.<sep>Isip.
 Laso.<sep>Laso.
 Lata.<sep>Lata.
 Layo.<sep>Raye.
-Leeg.<sep>Lieg.
 Libo.<sep>Ribo.
 Liko.<sep>Kilo.
 Liha.<sep>Liha.
@@ -160,7 +148,6 @@ Mais.<sep>Mais.
 Mani.<sep>Mani.
 Mapa.<sep>Mapa.
 Masa.<sep>Masa.
-Mata.<sep>Mata.
 Maya.<sep>Maya.
 Mayo.<sep>Mayo.
 Mina.<sep>Mina.
@@ -183,11 +170,9 @@ Paos.<sep>Paos.
 Pasa.<sep>Pasa.
 Paso.<sep>Paso.
 Pati.<sep>Pati.
-Pato.<sep>Pato.
 Pero.<sep>Piro.
 Piko.<sep>Piko.
 Piko.<sep>Tiko.
-Piga.<sep>Pega.
 Pili.<sep>Pili.
 Pino.<sep>Pino.
 Piso.<sep>Piso.
@@ -212,7 +197,6 @@ Sala.<sep>Sara.
 Sapa.<sep>Sapa.
 Saya.<sep>Saya.
 Sebo.<sep>Sibo.
-Siko.<sep>Siko.
 Sige.<sep>Sigi.
 Sine.<sep>Sini.
 Sino.<sep>Sino.
@@ -235,8 +219,6 @@ Toyo.<sep>Toyo.
 Trak.<sep>Trak.
 Tren.<sep>Tren.
 Tsaa.<sep>Tsaa.
-Tubo.<sep>Tubo.
-Tubo.<sep>Tubo.
 Tubo.<sep>Tubo.
 Tuka.<sep>Tuka.
 Tuli.<sep>Tuli.
@@ -267,7 +249,6 @@ Tiyan.<sep>Tian.
 Buto.<sep>Tolan.
 Laman.<sep>Onod.
 Bato.<sep>Kidni.
-Araw.<sep>Adlaw.
 Asim.<sep>Aslem.
 Baon.<sep>Balon.
 Bihag.<sep>Biag.
@@ -282,7 +263,6 @@ Diyos.<sep>Dios.
 Diyan.<sep>Dian.
 Gubat.<sep>Geba.
 Hakot.<sep>Akot.
-Halik.<sep>Arek.
 Halos.<sep>Alos.
 Hapdi.<sep>Apdi.
 Hapon.<sep>Apon.
@@ -355,7 +335,6 @@ Atras.<sep>Atras.
 Ayuda.<sep>Ayoda.
 Babae.<sep>Babai.
 Babaw.<sep>Babaw.
-Baboy.<sep>Baboy.
 Bakla.<sep>Bakla.
 Bakya.<sep>Bakya.
 Balsa.<sep>Balsa.
@@ -371,7 +350,6 @@ Batya.<sep>Batya.
 Bawal.<sep>Bawal.
 Bayad.<sep>Bayad.
 Bayas.<sep>Bayas.
-Bayaw.<sep>Bayaw.
 Benda.<sep>Binda.
 Berde.<sep>Birdi.
 Berso.<sep>Birso.
@@ -389,10 +367,8 @@ Luksa.<sep>Loksa.
 Lugaw.<sep>Logaw.
 Lumot.<sep>Lomot.
 Lunes.<sep>Lonis.
-Maaga.<sep>Maaga.
 Madre.<sep>Madri.
 Mamon.<sep>Mamon.
-Manok.<sep>Manok.
 Marso.<sep>Marso.
 Metro.<sep>Mitro.
 Muhon.<sep>Mohon.
@@ -418,7 +394,6 @@ Petsa.<sep>Pitsa.
 Pikot.<sep>Pikot.
 Pigsa.<sep>Pegsa.
 Pihit.<sep>Pirit.
-Pinya.<sep>Pinya.
 Pirma.<sep>Pirma.
 Pisip.<sep>Pisil.
 Pison.<sep>Pison.
@@ -435,7 +410,6 @@ Prito.<sep>Prito.
 Pugad.<sep>Pogad.
 Pugto.<sep>Bogto.
 Pulis.<sep>Polis.
-Pulso.<sep>Polso.
 Punas.<sep>Ponas.
 Purok.<sep>Porok.
 Pusod.<sep>Posod.
@@ -471,7 +445,6 @@ Sindi.<sep>Sindi.
 Singa.<sep>Senga.
 Siper.<sep>Siper.
 Sipon.<sep>Sipon.
-Sitaw.<sep>Sitaw.
 Sobre.<sep>Sobre.
 Sopas.<sep>Sopas.
 Sugal.<sep>Sugal.
@@ -481,107 +454,8 @@ Sulsi.<sep>Sulsi.
 Suman.<sep>Suman.
 Sumpa.<sep>Sumpa.
 Sunog.<sep>Sunog.
-Lipad.<sep>Lepad.
-Lipas.<sep>Lebas.
-Lista.<sep>Lista.
-Litaw.<sep>Lotaw.
-Lugar.<sep>Logar.
-Luksa.<sep>Loksa.
-Lugaw.<sep>Logaw.
-Lumot.<sep>Lomot.
-Lunes.<sep>Lonis.
-Maaga.<sep>Maaga.
-Madre.<sep>Madri.
-Mamon.<sep>Mamon.
-Manok.<sep>Manok.
-Marso.<sep>Marso.
-Metro.<sep>Mitro.
-Muhon.<sep>Mohon.
-Multa.<sep>Molta.
-Nanay.<sep>Nanay.
-Niyog.<sep>Niyog.
-Ngalan.<sep>Aran.
-Ngilo.<sep>Ngilo.
-Ngipin.<sep>Ipin.
-Pader.<sep>Padir.
-Palay.<sep>Paray.
-Palya.<sep>Palya.
-Panga.<sep>Panga.
-Panyo.<sep>Panyo.
-Papel.<sep>Papil.
-Pasan.<sep>Pasan.
-Pasko.<sep>Pasko.
-Patag.<sep>Patag.
-Patay.<sep>Patay.
-Patis.<sep>Patis.
-Pekas.<sep>Pikas.
-Petsa.<sep>Pitsa.
-Pikot.<sep>Pikot.
-Pigsa.<sep>Pegsa.
-Pihit.<sep>Pirit.
-Pinya.<sep>Pinya.
 Pirna.<sep>Pirna.
-Pisip.<sep>Pisil.
-Pison.<sep>Pison.
-Pista.<sep>Pista.
-Pitso.<sep>Pitso.
-Piyon.<sep>Piyon.
-Plaka.<sep>Plaka.
-Plano.<sep>Plano.
-Plasa.<sep>Plasa.
-Plema.<sep>Plima.
-Poder.<sep>Poder.
-Pondo.<sep>Pundu.
-Prito.<sep>Prito.
-Pugad.<sep>Pogad.
-Pugto.<sep>Bogto.
-Pulis.<sep>Polis.
-Pulso.<sep>Polso.
-Punas.<sep>Ponas.
-Purok.<sep>Porok.
-Pusod.<sep>Posod.
-Puson.<sep>Poson.
-Pusta.<sep>Posta.
-Putol.<sep>Potol.
-Radyo.<sep>Radyo.
-Raspa.<sep>Raspa.
-Regla.<sep>Rigla.
-Renda.<sep>Rinda.
-Reyna.<sep>Rayna.
-Ribon.<sep>Ribon.
-Rimas.<sep>Rimas.
-Ronda.<sep>Ronda.
-Rosas.<sep>Rosas.
-Sabaw.<sep>Sabaw.
-Sabog.<sep>Sabog.
-Sabon.<sep>Sabon.
-Sakay.<sep>Sakay.
-Sakit.<sep>Sakit.
-Sakop.<sep>Sakop.
 Sahig.<sep>Salig.
-Salok.<sep>Sarok.
-Salot.<sep>Sarot.
-Salsa.<sep>Sarsa.
-Sanga.<sep>Sanga.
-Selyo.<sep>Silyo.
-Silaw.<sep>Solaw.
-Silbi.<sep>Sirbi.
-Silid.<sep>Seled.
-Silya.<sep>Silya.
-Sindi.<sep>Sindi.
-Singa.<sep>Senga.
-Siper.<sep>Siper.
-Sipon.<sep>Sipon.
-Sitaw.<sep>Sitaw.
-Sobre.<sep>Sobre.
-Sopas.<sep>Sopas.
-Sugal.<sep>Sugal.
-Suhay.<sep>Suhay.
-Sulat.<sep>Sulat.
-Sulsi.<sep>Sulsi.
-Suman.<sep>Suman.
-Sumpa.<sep>Sumpa.
-Sunog.<sep>Sunog.
 Supot.<sep>Supot.
 Surot.<sep>Surot.
 Tabla.<sep>Tabla.
@@ -599,7 +473,6 @@ Tanso.<sep>Tanso.
 Tapos.<sep>Tapos.
 Tatay.<sep>Tatay.
 Tawad.<sep>Tawad.
-Tawag.<sep>Tawag.
 Tawas.<sep>Tawas.
 Tenis.<sep>Tenis.
 Tibag.<sep>Tibag.
@@ -614,7 +487,6 @@ Tingi.<sep>Tingi.
 Tinik.<sep>Tinik.
 Tinta.<sep>Tinta.
 Tises.<sep>Tises.
-Tinta.<sep>Tinta.
 Tisis.<sep>Tisis.
 Tiyan.<sep>Tiyan.
 Trono.<sep>Trono.
@@ -639,8 +511,6 @@ Ugali.<sep>Ugali.
 Usisa.<sep>Usisa.
 Wisik.<sep>Wisik.
 Yapak.<sep>Yapak.
-Mayo.<sep>Mayo.
-Araw.<sep>Adlaw.
 Lupa.<sep>Logta.
 Niyebe.<sep>Yilo.
 Sumayaw.<sep>Saot.
@@ -658,7 +528,6 @@ Mabuti.<sep>Mayad.
 Mabait.<sep>Mayad.
 Tanga.<sep>Polpol.
 Isara.<sep>Sirado.
-Itulak.<sep>Tolod.
 Adiyos.<sep>Adios.
 Amihan.<sep>Amian.
 Anghit.<sep>Angit.
@@ -691,11 +560,8 @@ Santo.<sep>Santos.
 Unano.<sep>Unanoh.
 Welga.<sep>Welgah.
 Yabong.<sep>Yabog.
-Abril.<sep>Abril.
 Buwan.<sep>Bolan.
 Bagyo.<sep>Bagyo.
-Buhawi.<sep>Boawi.
-Hangin.<sep>Angin.
 Bukas.<sep>Aromang.
 Maalat.<sep>Maasin.
 Palakpak.<sep>Daep.
@@ -762,7 +628,6 @@ Bukana.<sep>Bokana.
 Bukayo.<sep>Bokayo.
 Bukbok.<sep>Bokbok.
 Butete.<sep>Botiti.
-Kabayo.<sep>Kabayo.
 Kadena.<sep>Kadina.
 Kadyos.<sep>Kadyes.
 Kagabi.<sep>Kagabi.
@@ -819,7 +684,6 @@ Lagari.<sep>Lagadi.
 Lagpak.<sep>Lagpak.
 Lalaki.<sep>Lalaki.
 Langaw.<sep>Langaw.
-Langka.<sep>Langka.
 Langit.<sep>Langit.
 Libing.<sep>Lebeng.
 Litson.<sep>Litson.
@@ -839,7 +703,6 @@ Mapait.<sep>Mapait.
 Marmol.<sep>Marmol.
 Martes.<sep>Martis.
 Martsa.<sep>Martsa.
-Mataas.<sep>Mataas.
 Matris.<sep>Matris.
 Medyas.<sep>Midyas.
 Milyon.<sep>Milyon.
@@ -853,8 +716,6 @@ Naisip.<sep>Naisip.
 Nalugi.<sep>Nalogi.
 Nilaga.<sep>Linaga.
 Niloko.<sep>Inloko.
-Ninang.<sep>Ninang.
-Ninong.<sep>Ninong.
 Nganga.<sep>Nganga.
 Obrero.<sep>Obriro.
 Obispo.<sep>Obispo.
@@ -905,7 +766,6 @@ Ropero.<sep>Ropiro.
 Roskas.<sep>Roskas.
 Sabado.<sep>Sabado.
 Saksak.<sep>Saksak.
-Saging.<sep>Saging.
 Salpok.<sep>Sampok.
 Sangag.<sep>Sanlag.
 Sarili.<sep>Sadili.
@@ -938,7 +798,6 @@ Tadtad.<sep>Tadtad.
 Tainga.<sep>Tainga.
 Talaba.<sep>Talaba.
 Talaga.<sep>Talaga.
-Talong.<sep>Tarong.
 Tambol.<sep>Tambol.
 Tangke.<sep>Tangke.
 Tastas.<sep>Tastas.
@@ -958,15 +817,11 @@ Unahan.<sep>Unahan.
 Utouto.<sep>Utuuto.
 Wakwak.<sep>Wakwak.
 Yugyog.<sep>Yugyog.
-Lunes.<sep>Lonis.
 Enero.<sep>Iniro.
-Marso.<sep>Marso.
 Hunyo.<sep>Honio.
 Hulyo.<sep>Holio.
 Bituin.<sep>Biton.
-Hangin.<sep>Angin.
 Lindol.<sep>Linog.
-Kidlat.<sep>Kilat.
 Ambon.<sep>Tariti.
 Talaga.<sep>Matod.
 Kahapon.<sep>Kaapon.
@@ -983,7 +838,6 @@ Atsuete.<sep>Siwiti.
 Baliena.<sep>Balina.
 Bibliya.<sep>Biblia.
 Bulkan.<sep>Bolkano.
-Kahapon.<sep>Kaapon.
 Kuyumad.<sep>Kaymad.
 Dahilan.<sep>Dailan.
 Dalahin.<sep>Daraen.
@@ -1026,7 +880,6 @@ Maingat.<sep>Maandam.
 Masipag.<sep>Maderep.
 Maganda.<sep>Matinlo.
 Bastos.<sep>Maraskal.
-Abokado.<sep>Abokado.
 Abogado.<sep>Abogado.
 Alakdan.<sep>Alakran.
 Alambre.<sep>Alambri.
@@ -1055,8 +908,6 @@ Butones.<sep>Botinis.
 Buwenas.<sep>Bowinas.
 Kaingin.<sep>Kaingin.
 Kamalig.<sep>Kamalig.
-Kamatis.<sep>Kamatis.
-Kambing.<sep>Kambing.
 Kamison.<sep>Kamison.
 Kampana.<sep>Kampana.
 Kandado.<sep>Kandado.
@@ -1103,7 +954,6 @@ Maestra.<sep>Maistra.
 Maestro.<sep>Maistro.
 Malamig.<sep>Maramig.
 Mangkok.<sep>Mangkok.
-Mangga.<sep>Pomangga.
 Manipis.<sep>Manipis.
 Mantika.<sep>Mantika.
 Marupok.<sep>Matopok.
@@ -1116,7 +966,6 @@ Matamis.<sep>Matamis.
 Matigas.<sep>Mategas.
 Medalya.<sep>Midalya.
 Mistisa.<sep>Mistisa.
-Mustasa.<sep>Mostasa.
 Okyubre.<sep>Oktobri.
 Opisina.<sep>Opisina.
 Orasyon.<sep>Orasion.
@@ -1126,7 +975,6 @@ Pabigat.<sep>Pabegat.
 Pabrika.<sep>Pabrika.
 Pagkain.<sep>Pagkaen.
 Pagador.<sep>Pagador.
-Pagkain.<sep>Pagkaen.
 Palakol.<sep>Parakol.
 Palasyo.<sep>Palasio.
 Pamilya.<sep>Pamilia.
@@ -1161,10 +1009,8 @@ Salamin.<sep>Salamin.
 Sapatos.<sep>Sapatos.
 Sekreta.<sep>Sikrita.
 Semento.<sep>Siminto.
-Sibuyas.<sep>Siboyas.
 Silbato.<sep>Sirbato.
 Silong.<sep>Silungan.
-Sinelas.<sep>Sinilas.
 Sinelas.<sep>Sinilas.
 Singkit.<sep>Singkit.
 Sipilyo.<sep>Sipilyo.
@@ -1187,18 +1033,13 @@ Timbang.<sep>Timbang.
 Tinapay.<sep>Tinapay.
 Tindera.<sep>Tindera.
 Tinidor.<sep>Tinidor.
-Tinidor.<sep>Tinidor.
 Trabaho.<sep>Trabaho.
 Tropedo.<sep>Tropedo.
 Turumpo.<sep>Turumpo.
 Tuwalya.<sep>Tuwalya.
-Martes.<sep>Martis.
-Sabado.<sep>Sabado.
-Agosto.<sep>Agosto.
 Huwebes.<sep>Hoibis.
 Kulog.<sep>Dalegdeg.
 Wala.<sep>Ara.
-Anim.<sep>Anem.
 Anim.<sep>Sais.
 Walo.<sep>Walo.
 Walo.<sep>Otso.
@@ -1210,7 +1051,6 @@ Garapata.<sep>A Dotor.
 Paminta.<sep>Katombal.
 Hinlalaki.<sep>Inaina.
 Tahimik.<sep>Silinsio.
-Gwapo.<sep>Goapo.
 Magdagdag.<sep>Dogang.
 Kumuha.<sep>Bawi.
 Kunin.<sep>Bel.
@@ -1233,14 +1073,10 @@ Pulisya.<sep>Polisya.
 Usisera.<sep>Usiserah.
 Usisero.<sep>Usiseroh.
 Linggo.<sep>Domingo.
-Pebrero.<sep>Pibriro.
 Biyernes.<sep>Birnis.
 Oktubre.<sep>Oktobri.
-Planeta.<sep>Planita.
 Ipo-Ipo.<sep>Karatong.
-Pito.<sep>Pito.
 Pito.<sep>Syiti.
-Salamat.<sep>Salamat.
 Sino Pa?<sep>Sino Pa?.
 Sa Gabi.<sep>Kada Gabi.
 Oras Ng Gabi.<sep>Gabi.
@@ -1261,7 +1097,6 @@ Maganda.<sep>Mapostora.
 Generoso.<sep>Agataw.
 Gastador.<sep>Gastador.
 Madaldal.<sep>Malisang.
-Maganda.<sep>Mapostora.
 Mas Bata.<sep>Mas Bata.
 Mas Luma.<sep>Mas Loma.
 Mas Bago.<sep>Mas Bago.
@@ -1278,7 +1113,6 @@ Bastidor.<sep>Bastidor.
 Beterano.<sep>Bitirano.
 Bibingka.<sep>Bibingka.
 Kabataan.<sep>Kabataan.
-Kalabasa.<sep>Kalabasa.
 Kamandag.<sep>Kamandag.
 Kamiseta.<sep>Kamisita.
 Kampanya.<sep>Kampania.
@@ -1306,7 +1140,6 @@ Dingding.<sep>Dingding.
 Dumalaga.<sep>Domaraga.
 Eklipse.<sep>Ingklipsi.
 Ehersisyo.<sep>Irsisio.
-Elepante.<sep>Ilipanti.
 Engkanto.<sep>Inkanto.
 Eskuwala.<sep>Iskowala.
 Espiritu.<sep>Ispiritu.
@@ -1314,7 +1147,6 @@ Espongha.<sep>Ispongha.
 Estasyon.<sep>Istasion.
 Estatuwa.<sep>Istatowa.
 Galapong.<sep>Galapong.
-Gastador.<sep>Gastador.
 Gilingan.<sep>Gilingan.
 Gumamela.<sep>Gomamila.
 Guwantes.<sep>Gowantis.
@@ -1361,7 +1193,6 @@ Salubsob.<sep>Salogsog.
 Sarisari.<sep>Sarisari.
 Sibilyan.<sep>Sibilian.
 Sinangag.<sep>Sinanlag.
-Singkamas.<sep>Tikamas.
 Singsing.<sep>Singsing.
 Sinturon.<sep>Sintoron.
 Sorbetes.<sep>Sorbetes.
@@ -1377,13 +1208,10 @@ Tungtong.<sep>Tungtong.
 Tag-Init.<sep>Tag-Init.
 Eklipse.<sep>Bakonawa.
 Langit.<sep>De Langit.
-Dalawa.<sep>Darwa.
 Dalawa.<sep>Dos.
 Tatlo.<sep>Tatlo.
 Tatlo.<sep>Tris.
-Apat.<sep>Apat.
 Apat.<sep>Koatro.
-Lima.<sep>Lima.
 Lima.<sep>Singko.
 Siyam.<sep>Siam.
 Siyam.<sep>Noibi.
@@ -1426,10 +1254,8 @@ Harap.<sep>Onan.
 Harap.<sep>Sa Onan.
 Likod.<sep>Likod.
 Likod.<sep>Sa Ori.
-Asim.<sep>Aslem.
 Asim.<sep>Maaslem.
 Mapait.<sep>Pait.
-Mapait.<sep>Mapait.
 Umiyak.<sep>Tangis.
 Umiyak.<sep>Iwik.
 Uminom.<sep>Inem.
@@ -1492,7 +1318,6 @@ Telegrama.<sep>Telegrama.
 Timbangan.<sep>Timbangan.
 Traysikil.<sep>Traysikil.
 Nobyembre.<sep>Nobimbri.
-Disyembre.<sep>Disimbri.
 Bahaghari.<sep>Balangaw.
 Sampu.<sep>Sampolo.
 Sampu.<sep>Dyis.
@@ -1513,7 +1338,6 @@ Tanga.<sep>Maroya ag isip.
 Mapagmataas.<sep>Bogalen.
 Maliit.<sep>Maite.
 Maliit.<sep>Maitey.
-Mababa.<sep>Mababa.
 Mababa.<sep>Potot.
 Pababa.<sep>Baba.
 Pababa.<sep>Paibaba.
@@ -1554,11 +1378,8 @@ Mas malaki.<sep>Mas mabael.
 Mas maliit.<sep>Mas maitey.
 Mas mataas.<sep>Mas mataas.
 Mas mababa.<sep>Mas mababa.
-Mas mataas.<sep>Mas mataas.
-Mas mababa.<sep>Mas mababa.
 Mas pangit.<sep>Mas marimo.
 Mas malaki.<sep>Mas marake.
-Mas maliit.<sep>Mas maitey.
 Mas mahina.<sep>Mas maroya.
 Mas magaan.<sep>Mas maagan.
 Mas murang.<sep>Mas barato.
@@ -1580,7 +1401,6 @@ Pagkatapos.<sep>Pagkatapos.
 Salamangka.<sep>Salamangka.
 Sekretarya.<sep>Sikritarya.
 Sinegwelas.<sep>Sirgoilas.
-Sinegwelas.<sep>Sirgoilas.
 Sustansiya.<sep>Sustansiya.
 Watakwatak.<sep>Watakwatak.
 Miyerkules.<sep>Mirkolis.
@@ -1592,13 +1412,11 @@ Magkano?<sep>Tagpira?
 Huminto.<sep>Tadeng.
 Huminto.<sep>Panari.
 Matamis.<sep>Tamis.
-Matamis.<sep>Matamis.
 Tumakbo.<sep>Dalagan.
 Tumakbo.<sep>Keras.
 Maglakad.<sep>Panaw.
 Maglakad.<sep>Tikang.
 Langaw.<sep>Agindan.
-Labanos.<sep>Rabanos.
 Labanos.<sep>Radis.
 Para saan?<sep>Para sadin?
 Gwapo.<sep>Matinlong lalaki.
@@ -1643,13 +1461,9 @@ Kasangkapan.<sep>Kasangkapan.
 Korporasyon.<sep>Korporasyon.
 Konsumisyon.<sep>Konsimision.
 Inspirasyon.<sep>Inspirasyon.
-Araw-araw.<sep>Adlaw-adlaw.
 Araw-araw.<sep>Tanang adlaw.
-Magkano?<sep>Pira?
-Magkano?<sep>Tagpira?
 Alog.<sep>Ileng-ileng.
 Alog.<sep>Dogdog.
-Pamilya.<sep>Pamilia.
 Kapatid na lalaki.<sep>Manong.
 Bukong-bukong.<sep>Pokolpokol.
 Walang ingat.<sep>Aras-aras.
@@ -1716,7 +1530,6 @@ Tatlumpu.<sep>Tatlompolo.
 Tatlumpu.<sep>Trainta.
 Isang daan.<sep>Saka gatos.
 Isang daan.<sep>Sinto.
-Ngayon.<sep>Dadi.
 Ngayon.<sep>Sa adlaw nga dia.
 Bukas ng hapon.<sep>Aroman sa apon.
 Maghapon.<sep>Magaapon.
@@ -1853,7 +1666,6 @@ Ano ang pangalan mo?<sep>Ano imong aran?
 Kailan ka umalis?<sep>Kaano kaw agpakon?
 Saan siya galing?<sep>Adin tana ag alin?
 Bakit ka masaya?<sep>Ayamo maambeng kaw?
-Bakit mahirap?<sep>Ayamo makori?
 Maging masaya.<sep>Malipay.
 Maging masaya.<sep>Magpangalipay.
 Magsinungaling.<sep>Magbotig.
@@ -1920,7 +1732,6 @@ Anim na raan.<sep>Sais sintos.
 Pitong daan.<sep>Pito ka gatos.
 Pitong daan.<sep>Syiti sintos.
 Bukas ng tanghali.<sep>Aroman sa ogtong adlaw.
-Sa susunod na araw.<sep>Sa madason nga adlaw.
 Sa susunod na buwan.<sep>Sa madason nga bolan.
 Ano sa tingin mo?<sep>Ano sa imong pabetang?
 Dalawang daan.<sep>Darwa ka gatos.
@@ -1983,7 +1794,6 @@ Ang pangalan ko ay Mark.<sep>Akeng aran ay Mark.
 Ako ang bahala.<sep>Ako ang baala.
 Ako ang bahala.<sep>Baala ako ron.
 Napakamahal!<sep>Ang maal ingan!
-Napakamahal!<sep>Masiadong maal!
 Luma ba iyon?<sep>Loma ren dato?
 Luma ba iyon?<sep>Malam den dato?
 Ano ang dapat kong gawin?<sep>Ano akeng boboaten?
@@ -2030,7 +1840,6 @@ Dalawamput lima.<sep>Darwampolo ig lima.
 Dalawamput lima.<sep>Bainti singko.
 Pwede bang tumawad?<sep>Poidi ka tawad.
 Pwede bang tumawad?<sep>Poiding tawadan.
-Bakit ka nandito?<sep>Ayamo digi kaw?
 Bakit ka nandito?<sep>Ayamo ikaw digi?
 Bakit mo ito kailangan?<sep>Ayamo kaministiran mo dato?
 Saan ka mananatili dito?<sep>Sadin kamo magadayon digi?
@@ -2090,7 +1899,6 @@ Ano ang pangalan ng iyong pinsan?<sep>Ano ang aran imong ilog?
 Ang presyo ay mura.<sep>Ang baba ang prisio.
 Ang presyo ay mura.<sep>Barato ang prisio.
 Langgam.<sep>Palamingko.
-Anay.<sep>Anay.
 Langgam.<sep>Dapo-dapo.
 Langgam.<sep>Dalit-dalit.
 Langgam.<sep>Koto-koto.
@@ -2751,7 +2559,3 @@ May biyahe pa po ba hanggang alas-diyes ng gabi?<sep>Mijan pa bang byahi tigka a
 Magandang Umaga!<sep>Mayad nga timprano!
 Magandang Tanghali!<sep>Mayad nga ogtong adlaw!
 Magandang Hapon!<sep>Mayad nga apon!
-
-
-
-
