@@ -206,10 +206,29 @@ def main():
             print("Aborted.")
             return
 
-    try:
-        client = anthropic.Anthropic()
-    except Exception as e:                                  # noqa: BLE001
-        sys.exit(f"Could not create the Anthropic client: {e}")
+    # The SDK resolves credentials lazily, so a missing key does not surface
+    # until the first request, and then as a bare TypeError rather than
+    # AuthenticationError. Check up front so the failure is one readable line
+    # instead of a traceback.
+    if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")
+            or os.path.isdir(os.path.expanduser("~/.config/anthropic"))):
+        sys.exit(
+            "No Anthropic credentials found, so nothing was sent and nothing was "
+            "billed.\n\n"
+            "This script is the only part of this project that costs money: it "
+            "calls the\npaid Anthropic API, which bills a console account per "
+            "token. That is separate\nfrom a Claude.ai or Claude Code "
+            "subscription -- those do not cover it.\n\n"
+            "If you do want to run it, set a key from "
+            "https://console.anthropic.com/settings/keys:\n"
+            "    export ANTHROPIC_API_KEY=sk-ant-...\n"
+            "and re-run. Finished chunks are cached, so it is safe to stop and "
+            "resume.\n\n"
+            "If you would rather not spend anything, skip this script entirely -- "
+            "see the\n'Adding a language' section of README.md for the free routes."
+        )
+
+    client = anthropic.Anthropic()
 
     os.makedirs(os.path.dirname(args.cache) or ".", exist_ok=True)
     total_in = total_out = 0
@@ -226,7 +245,7 @@ def main():
                 sys.exit("Rate limited even after the SDK's retries. Re-run later; "
                          "finished chunks are cached.")
             except (anthropic.APIStatusError, anthropic.APIConnectionError,
-                    ValueError, RuntimeError, json.JSONDecodeError) as e:
+                    ValueError, RuntimeError, TypeError, json.JSONDecodeError) as e:
                 print(f"  chunk {n}/{len(chunks)} FAILED ({type(e).__name__}: {e}) "
                       f"-- skipping, re-run to retry it")
                 continue

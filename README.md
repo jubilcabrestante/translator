@@ -179,14 +179,27 @@ in which the Cuyonon is still your original human text. `prepare_data.py` counts
 `direct` and `bridged` examples separately so you can see which is which; pass
 `--no-bridged` to emit only attested pairs.
 
-`scripts/bootstrap_english.py` generates the English column for you by
-translating the *Tagalog* side with the Claude API (`pip install anthropic`
-first — it is deliberately not in `requirements.txt`, so Colab does not install
-it). Only the high-resource side is machine-generated; the Cuyonon is never
-touched. Run `--dry-run` first for a cost estimate, and spot-check the output —
-about 60% of entries are isolated single words, where word sense is ambiguous
-(`bata` → child? young?), so that is where mistakes will be. It writes plain
-text: fix any line and re-run `prepare_data.py`.
+### Getting the English column
+
+You need `assets/taga-eng.txt` (`<Tagalog><sep><English>`). Only the *Tagalog*
+side is ever translated — the Cuyonon is never machine-touched — and bridging
+does the rest. Four ways to produce it, cheapest first:
+
+| Route | Cost | Notes |
+|---|---|---|
+| **Ask Claude Code** | free on your plan | Have your Claude Code session translate the entries and write the file. Uses your subscription, not API credits. Best quality; slowest per batch. |
+| **Local MT model** | free | `Helsinki-NLP/opus-mt-tl-en` or NLLB-200 from Hugging Face, run on your GPU or a free Colab T4. Fully offline, no account. Weaker on idioms than an LLM. |
+| **Hand-write** | free | Highest quality. You do not need all 2300 — start with the sentences, which matter more than isolated words. |
+| **`scripts/bootstrap_english.py`** | **spends money** | Calls the paid Anthropic API, billed per token to a console account. This is **separate from a Claude.ai / Claude Code subscription**, which does not cover it. Needs `ANTHROPIC_API_KEY`; refuses to run without one. `--dry-run` estimates the cost first. |
+
+`bootstrap_english.py` is the **only** script here that costs anything. Everything
+else — `prepare_data`, `train`, `evaluate`, `translate`, `serve` — runs locally
+and free. That is also why `anthropic` is not in `requirements.txt`.
+
+Whichever route you pick, spot-check the result: about 60% of entries are
+isolated single words where word sense is ambiguous (`bata` → child? young?), so
+that is where mistakes will be. It is plain text — fix any line and re-run
+`prepare_data.py`.
 
 ⚠️ Your Supabase `translations` table has a CHECK constraint allowing only `tl`
 and `cyo`. Widen it before serving a third code, or `record_translation()` will
