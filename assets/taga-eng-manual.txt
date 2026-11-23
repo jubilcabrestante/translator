@@ -1,4 +1,4 @@
-# Tagalog<sep>English -- HAND-TRANSLATED, highest priority.
+# Tagalog | English -- HAND-TRANSLATED, highest priority.
 # scripts/mine_english.py always prefers these over anything it mines,
 # so regenerating assets/taga-eng.txt can never overwrite this work.
 # Add corrections here rather than editing taga-eng.txt directly.
@@ -262,3 +262,102 @@ Uso.<sep>Trend.
 Utak.<sep>Brain.
 Uwak.<sep>Crow.
 Uwi.<sep>Go home.
+
+# Sentence-level corrections made by Claude Code on 2026-11-23 while reviewing the
+# mined English (subtitle noise, wrong senses, changed names). Machine-reviewed, not yet
+# checked by a person -- edit freely.
+Pechay.<sep>Bok choy.
+Magkasama.<sep>Together.
+Sa gabi.<sep>At night.
+Ano Pa?<sep>What else?
+Sino Pa?<sep>Who else?
+Ay Mali!<sep>Oops, that's wrong!
+Ano kaya?<sep>What could it be?
+Sa ngayon.<sep>For now.
+Isang taon.<sep>One year.
+Sa taas.<sep>Up there.
+Mas malaki.<sep>Bigger.
+Isang buwan.<sep>One month.
+Walang ingat.<sep>Careless.
+Limang libo.<sep>Five thousand.
+Bakit ganyan?<sep>Why is it like that?
+Apat na libo.<sep>Four thousand.
+Bakit mahirap?<sep>Why is it hard?
+Gusto ko ito.<sep>I like this.
+Magandang gabi.<sep>Good evening.
+Sa makalawa.<sep>The day after tomorrow.
+Gusto ko iyon.<sep>I like that.
+Magandang araw.<sep>Good day.
+Magandang hapon.<sep>Good afternoon.
+Bakit ka galit?<sep>Why are you angry?
+Mas maganda.<sep>Better.
+Magkano ito?<sep>How much is this?
+Saan ka pupunta?<sep>Where are you going?
+Maging alerto.<sep>Be alert.
+Kahapon ng umaga.<sep>Yesterday morning.
+Saan siya galing?<sep>Where did he come from?
+Magkano iyan?<sep>How much is that?
+Walang anuman.<sep>You're welcome.
+Darating ang araw.<sep>The day will come.
+Noong nakaraang taon.<sep>Last year.
+Maraming pera.<sep>A lot of money.
+Sino ang kasama mo?<sep>Who are you with?
+Kailan ka darating?<sep>When will you arrive?
+Kailan tayo kakain?<sep>When will we eat?
+Saan mo nakuha iyon?<sep>Where did you get that?
+Ilang taon ka na?<sep>How old are you?
+Noong nakaraang buwan.<sep>Last month.
+Ano ang masasabi mo?<sep>What do you have to say?
+Bakit ka tumatawa?<sep>Why are you laughing?
+Bakit gusto kita?<sep>Why do I like you?
+Noong nakaraang Linggo.<sep>Last Sunday.
+Bakit ka nanginginig?<sep>Why are you trembling?
+Pakihintay lang po.<sep>Please wait.
+Magandang tanghali.<sep>Good noon.
+Noong nakaraang gabi.<sep>Last night.
+Ano ang dapat kong gawin?<sep>What should I do?
+Bakit hindi mo sabihin?<sep>Why don't you say it?
+Maging magkaibigan.<sep>Be friends.
+Pwede bang tumawad?<sep>Can I bargain?
+Hindi ko alam kung bakit?<sep>I don't know why?
+Sino ang sasama sa akin?<sep>Who will come with me?
+Wow, ang ganda!<sep>Wow, how beautiful!
+Pwede bang malaman ang pangalan mo?<sep>May I know your name?
+May kailangan pa ba kayo?<sep>Do you need anything else?
+Nabusog ka ba?<sep>Are you full?
+Halika na dito.<sep>Come here now.
+Gutom na ako.<sep>I'm hungry.
+Kain tayo!<sep>Let's eat!
+Kakain na ako.<sep>I'm going to eat now.
+Pauwi na ako.<sep>I'm on my way home.
+May tanong po ako.<sep>I have a question.
+Pwede po bang magtanong?<sep>May I ask a question?
+Ayaw kong kumain.<sep>I don't want to eat.
+Sabihin mo sa akin ang katotohanan.<sep>Tell me the truth.
+Kagabi, nakinig ako sa radyo.<sep>Last night, I listened to the radio.
+May rason si Tomas na magalit.<sep>Tomas had every right to be angry.
+Kailangan ni Tomas ng oras para mag-isip.<sep>Tomas needs time to think it over.
+Hindi ka imbitado sa party.<sep>You're not invited to the party.
+Magbidyugeym tayo o kaya ano.<sep>Let's play video games or something.
+Maraming likas na kayamanan ang bansang ito.<sep>This country has a lot of natural resources.
+Masyadong mahirap ang takdang-aralin.<sep>The homework is too hard.
+Nasa malaking kuwarto ang parti.<sep>The party is in a big room.
+Umarte si Tomas na parang di niya kilala si Maria.<sep>Tomas acted like he didn't know Maria.
+Gusto niyang pumunta sa Amerika.<sep>He wants to go to America.
+Naniniwala ka ba sa tadhana?<sep>Do you believe in destiny?
+Anong ginagawa mo?<sep>What are you doing?
+Anong gusto mong kainin?<sep>What do you want to eat?
+Hindi ko maintindihan ang sinasabi mo.<sep>I don't understand what you're saying.
+Tulungan niyo ako.<sep>Help me.
+May aksidente!<sep>There's been an accident!
+Tumigil ka!<sep>Stop it!
+Masama pakiramdam ko.<sep>I feel sick.
+Naiintindihan mo ba?<sep>Do you understand?
+Bahala ka na.<sep>It's up to you.
+May problema ba?<sep>Is there a problem?
+Hindi ako sigurado.<sep>I'm not sure.
+Ang gulo mo!<sep>You're so confusing!
+Ang daming tao!<sep>So many people!
+Pasensya na po.<sep>I'm sorry.
+Sandali lang po.<sep>Just a moment, please.
+Pakiulit nga po.<sep>Please say that again.

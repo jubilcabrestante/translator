@@ -11,3 +11,5 @@ Sinulog
 Dinagyang
 Halloween
 Valentine's Day
+# Added 2026-11-23: already kept unchanged on both sides of existing rows.
+Baragatan

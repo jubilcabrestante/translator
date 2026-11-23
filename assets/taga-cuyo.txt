@@ -857,8 +857,7 @@ Sinangag.<sep>Sanag.
 Singhot.<sep>Singot.
 Ulap.<sep>Panganod.
 Tagtuyot.<sep>Mara.
-Isa.<sep>Isara
-Isa.<sep>ono.
+Isa.<sep>Ono.
 Sa gabi.<sep>Sa gabi.
 Diritso.<sep>Diritso.
 Kaibigan.<sep>Tangay.
@@ -1043,11 +1042,11 @@ Wala.<sep>Ara.
 Anim.<sep>Sais.
 Walo.<sep>Walo.
 Walo.<sep>Otso.
-Ano Pa?<sep>Ano Pa?.
+Ano Pa?<sep>Ano Pa?
 Maanghang.<sep>Maarat.
 Alitaptap.<sep>Panget.
 Bubuyog.<sep>Pokyotan.
-Garapata.<sep>A Dotor.
+Garapata.<sep>A dotor.
 Paminta.<sep>Katombal.
 Hinlalaki.<sep>Inaina.
 Tahimik.<sep>Silinsio.
@@ -1077,9 +1076,9 @@ Biyernes.<sep>Birnis.
 Oktubre.<sep>Oktobri.
 Ipo-Ipo.<sep>Karatong.
 Pito.<sep>Syiti.
-Sino Pa?<sep>Sino Pa?.
+Sino Pa?<sep>Sino Pa?
 Sa Gabi.<sep>Kada Gabi.
-Oras Ng Gabi.<sep>Gabi.
+Oras ng gabi.<sep>Gabi.
 Kakilala.<sep>Kakilala.
 Ubo.<sep>Obo.
 Hawak.<sep>Awid.
@@ -1091,7 +1090,7 @@ Mansanas.<sep>Mansanas.
 Kalabasa.<sep>Kalabasa.
 Kangkong.<sep>Kangkong.
 Singkamas.<sep>Tikamas.
-Ay Mali!.<sep>Ay Mali!.
+Ay Mali!<sep>Ay Mali!
 Tahimik.<sep>Mademen.
 Maganda.<sep>Mapostora.
 Generoso.<sep>Agataw.
@@ -1207,7 +1206,7 @@ Tsinelas.<sep>Tsinelas.
 Tungtong.<sep>Tungtong.
 Tag-Init.<sep>Tag-Init.
 Eklipse.<sep>Bakonawa.
-Langit.<sep>De Langit.
+Langit.<sep>De langit.
 Dalawa.<sep>Dos.
 Tatlo.<sep>Tatlo.
 Tatlo.<sep>Tris.
@@ -1251,9 +1250,9 @@ Gabi-Gabi.<sep>Gabi-Gabi.
 Gitna.<sep>Tenga.
 Gitna.<sep>Sintro.
 Harap.<sep>Onan.
-Harap.<sep>Sa Onan.
+Harap.<sep>Sa onan.
 Likod.<sep>Likod.
-Likod.<sep>Sa Ori.
+Likod.<sep>Sa ori.
 Asim.<sep>Maaslem.
 Mapait.<sep>Pait.
 Umiyak.<sep>Tangis.
@@ -1266,17 +1265,17 @@ Huwag.<sep>Telek.
 Huwag.<sep>Kabli.
 Latigo.<sep>Palo.
 Latigo.<sep>Lapdes.
-Ulo Ng Lupa.<sep> Ololago.
+Ulo ng lupa.<sep>Ololago.
 Sampaloc.<sep>Kalampisaw.
 Camansi.<sep>Kolo.
 Camansi.<sep>Rimas.
-Baba Ng Panga.<sep>Timid.
+Baba ng panga.<sep>Timid.
 Balakang.<sep>Balikawang.
 Binti.<sep>Batis.
 Talampakan.<sep>Raparapa.
 Mapagmataas.<sep>Ambogon.
 Mapagmataas.<sep>Maambog.
-Malupit.<sep>Ara Kanogon.
+Malupit.<sep>Ara kanogon.
 Buksan.<sep>Abirto.
 Buksan.<sep>Abrian.
 Bukas.<sep>Abri.
@@ -1366,7 +1365,7 @@ Pukol.<sep>Pabotil.
 Tumawa.<sep>Alakak.
 Tumawa.<sep>Kadlaw.
 Hugasan.<sep>Bonak.
-Hugasan.<sep> Koskos.
+Hugasan.<sep>Koskos.
 Sigarilyas.<sep>Sigidilias.
 Bulbol ng pubis.<sep>Sabot.
 Ay sayang!<sep>Ay sayang!
@@ -1601,8 +1600,8 @@ Labinlima.<sep>Sampolo ig lima.
 Labinlima.<sep>Kinsi.
 Apatnapu.<sep>Apat nga polo.
 Apatnapu.<sep>Koarinta.
-Pasok!<sep>Pagdayon kamo.
-Pasok!<sep>Dayon kamo.
+Pasok!<sep>Pagdayon kamo!
+Pasok!<sep>Dayon kamo!
 Mabuti, salamat.<sep>Mayada, salamat.
 Bukas ng umaga.<sep>Aroman sa timprano.
 Maagang gabi.<sep>Bago mag gabi.
@@ -1630,7 +1629,7 @@ Mas maganda.<sep>Mas matinlo.
 Labing-isa.<sep>Sampolo ig isara.
 Labing-isa.<sep>Onsi.
 Palit ng pera.<sep>Taga bailo i koarta.
-Magkano ito?<sep>Pira dia.
+Magkano ito?<sep>Pira dia?
 Magkano ito?<sep>Tagpira dia.
 Bibili ako nito.<sep>Babakalen ko dia.
 Biyenan na babae.<sep>Panogangang babai.
@@ -1679,7 +1678,7 @@ Labingwalo.<sep>Disiotso.
 Huwag naman sana!<sep>Patawaden ang Gino!
 Guni-guni ng araw.<sep>Agaisip i madalem.
 Limampung sentimo.<sep>Singkointa sintabos.
-Magkano iyan?<sep>Pira dato.
+Magkano iyan?<sep>Pira dato?
 Magkano iyan?<sep>Tagpira dato.
 Liko sa kanan.<sep>Liko sa to.
 Liko sa kanan.<sep>Teyeb sa to.
@@ -1798,7 +1797,7 @@ Luma ba iyon?<sep>Loma ren dato?
 Luma ba iyon?<sep>Malam den dato?
 Ano ang dapat kong gawin?<sep>Ano akeng boboaten?
 Kailan ka pupunta?<sep>Inoro kaw mapakon?
-Bakit hindi mo sabihin?<sep>Ayamo animan ngani.
+Bakit hindi mo sabihin?<sep>Ayamo animan ngani?
 Makasarili.<sep>Isbotan.
 Makasarili.<sep>Maisbot.
 Makasarili.<sep>Sirado ang alima.
@@ -1812,8 +1811,8 @@ Siya ay maganda.<sep>Mapostora tana.
 Siya ay maganda.<sep>Matinlo tana.
 Tana ang pinakamahusay.<sep>Tana ang pinakamaosay.
 Isang daang libo.<sep>Saka gatos ka ribo, sinto mil.
-Isang Libong Piso.<sep>Saka ribo ka pisos.
-Isang Libong Piso.<sep>Saka ribo.
+Isang libong piso.<sep>Saka ribo ka pisos.
+Isang libong piso.<sep>Saka ribo.
 Sino ang nagsabi sa iyo?<sep>Sino ang agkon kanimo?
 Sa tulong ng Diyos!<sep>Kong itogot ang Gino!
 Ako ang bahala sa sitwasyon.<sep>Ako ang baala dian.
@@ -1826,8 +1825,8 @@ Bakit ako dapat mag-alala?<sep>Ayamo magadoadoa ako?
 Dalawampung libo.<sep>Darawampolo ka ribo, bainti mil.
 Kamakalawa.<sep>Aglebas nga darwa ka adlaw.
 Kamakalawa.<sep>Kasangapon.
-Limang Daan Piso.<sep>Lima ka gatos ka pisos.
-Limang Daan Piso.<sep>Kinintos.
+Limang daan piso.<sep>Lima ka gatos ka pisos.
+Limang daan piso.<sep>Kinintos.
 Napakamura!<sep>Ang kabarato ingan!
 Napakamura!<sep>Dorong kabarato!
 Ano ang ibig mong sabihin?<sep>Ano imong maliag ikon?
@@ -1849,14 +1848,14 @@ Siya ay taga Cuyo, Palawan.<sep>Taga Cuyo, Palawan tana.
 Bakit ko ikinagagalit ka?<sep>Ayamo asisilag ako kanimo?
 Ang batang iyon ay maingat.<sep>Maandam ang batang dato.
 Ano po ang aming maitutulong?<sep>Ano ameng katatabang?
-Limang Libong Piso.<sep>Lima ka ribong pisos.
-Limang Libong Piso.<sep>Lima ka ribo.
+Limang libong piso.<sep>Lima ka ribong pisos.
+Limang libong piso.<sep>Lima ka ribo.
 Maasin ang tubig sa dagat.<sep>Maasin ang tobig sa dagat.
 Ano ang maiaalok ko sa iyo?<sep>Ano akeng katatao kanimo?
 Isang daan at sampu.<sep>Saka gatos ig sampolo.
-Isang daan at sampu.<sep> Sinto dyis.
+Isang daan at sampu.<sep>Sinto dyis.
 Paumanhin.<sep>Poidi kalebas.
-Paumanhin.<sep>Poidi kaagi
+Paumanhin.<sep>Poidi kaagi.
 Paumanhin.<sep>Palebas.
 Paumanhin.<sep>Paagi.
 Huwag pahintulutan ng Langit!<sep>Indi ra itogot ang Gino!
@@ -1874,15 +1873,15 @@ Pahintulot ng Diyos.<sep>Togotan ang Gino.
 Huminto, Tumingin at Makinig!<sep>Tadeng, Seleng ig Pamati!
 Sino ang mga magulang mo?<sep>Sino imong mga gorang-gorang?
 Sino ang nag-imbita sa iyo?<sep>Sino ang ag imbitar kanimo?
-Magsabi ng katotohanan.<sep>Magbaeg ang Matod.
-Magsabi ng katotohanan.<sep>Kon ang Matod.
+Magsabi ng katotohanan.<sep>Magbaeg ang matod.
+Magsabi ng katotohanan.<sep>Kon ang matod.
 Ano po ang inyong kailangan?<sep>Ano indong kaministeran?
 Ibigay ang sukli.<sep>Itaw ang sinsilio.
 Ibigay ang sukli.<sep>Sinsilioan mo.
 Maglakad nang mabilisan.<sep>Panaw i madasig.
 Maglakad nang mabilisan.<sep>Aporadong panaw.
-Dalawang Libong Piso.<sep>Darwa ka ribong pisos.
-Dalawang Libong Piso.<sep>Darwa ka ribo.
+Dalawang libong piso.<sep>Darwa ka ribong pisos.
+Dalawang libong piso.<sep>Darwa ka ribo.
 Maglakad nang mabilis.<sep>Paspas ang panaw.
 Maglakad nang mabilis.<sep>Dasigan ang panaw.
 Tumayo sa gitna ng kalsada.<sep>Pagtindeg sa tenga ang karsada.
@@ -1902,10 +1901,10 @@ Langgam.<sep>Palamingko.
 Langgam.<sep>Dapo-dapo.
 Langgam.<sep>Dalit-dalit.
 Langgam.<sep>Koto-koto.
-Ano ang maitutulong ko sa iyo?<sep>Ano akeng katatabang kanimo.
-Bakit ko ito sinabi sa iyo?<sep>Ayamo ingkon ko dia kanimo.
-Sampung Libong Piso.<sep>Sampolo ka ribong pisos.
-Sampung Libong Piso.<sep>Sampolo ka ribo.
+Ano ang maitutulong ko sa iyo?<sep>Ano akeng katatabang kanimo?
+Bakit ko ito sinabi sa iyo?<sep>Ayamo ingkon ko dia kanimo?
+Sampung libong piso.<sep>Sampolo ka ribong pisos.
+Sampung libong piso.<sep>Sampolo ka ribo.
 Isang daan at pitumpu.<sep>Saka gatos ig pitompolo.
 Isang daan at pitumpu.<sep>Sinto sitinta.
 Isang daan at walumpu.<sep>Saka gatos ig walompolo.
@@ -1927,7 +1926,7 @@ Sino ang sasama sa akin?<sep>Sino ang matabid kanaken?
 Ano po ang inyong pangalan, at edad po?<sep>Ano imong aran, edad?
 Isang daan at limampu.<sep>Saka gatos ig limampolo.
 Isang daan at limampu.<sep>Sinto singkointa.
-Kay ganda ng umaga!<sep>Ang katinlo ingan ang timpo.
+Kay ganda ng umaga!<sep>Ang katinlo ingan ang timpo!
 Wow, ang ganda!<sep>Aroy, ang tinlo ingan!
 Wow, ang ganda!<sep>Aroy, ang katinlo baya!
 Kailan mo natanggap ang aking text?<sep>Kaano mo arisibi akeng tiks?
@@ -1943,32 +1942,32 @@ Huwag mo nang banggitin.<sep>Ara bali dan.
 Huwag mo nang banggitin.<sep>Indi mo ron i sambiten dan.
 Kailan mo sinabi na mahal mo ako?<sep>Kaano kaw agkon nga maal mo ako?
 Saan ang daan papunta sa city hall?<sep>Sadin ang papakonsa city hall?
-Isang Daan Libong Piso.<sep>Sakagatos ka ribong pisos.
-Isang Daan Libong Piso.<sep>Saka gatos ka ribo.
-Magandang Hapon, Kamusta po kayo?<sep>Mayad nga apon, kumusta kamo ron?
+Isang daan libong piso.<sep>Sakagatos ka ribong pisos.
+Isang daan libong piso.<sep>Saka gatos ka ribo.
+Magandang hapon, kamusta po kayo?<sep>Mayad nga apon, kumusta kamo ron?
 Saan ka kumakain tuwing tanghali?<sep>Adin kaw agakaen kada ogtong adlaw?
 Ano ang pangalan ng iyong kapatid na babae?<sep>Ano ang aran imong manang?
-Isang Milyong Piso.<sep>Isara ka miliong pisos.
-Isang Milyong Piso.<sep>Isara ka milion.
-Isang Milyong Piso.<sep>Saka milion.
-Ano ang pangalan ng iyong kapatid na lalaki?<sep>Ano ang aran imong manong.
+Isang milyong piso.<sep>Isara ka miliong pisos.
+Isang milyong piso.<sep>Isara ka milion.
+Isang milyong piso.<sep>Saka milion.
+Ano ang pangalan ng iyong kapatid na lalaki?<sep>Ano ang aran imong manong?
 Paki-fill up po ang form na ito.<sep>Patigayon y sabaten ang form nga dya.
 Gaano katagal ka mananatili sa Palawan?<sep>Asta inoro kamo digi sa Palawan.
 Ano ang mga magandang restawran dito?<sep>Ano ang matitinlong karaenan digi?
 Kilalanin mo ang kapatid kong lalaki.<sep>Bagaten mo si manong.
-Magandang Umaga, Kamusta po kayo?<sep>Mayad nga timprano, kumusta kamo ron.
-Magandang Tangahali, Kamusta po kayo?<sep>Mayad nga ugto, kumusta kamo ron.
-Ano ang pangalan ng mga magulang mo?<sep>Ano ang aran imong mga gorang-gorang.
+Magandang umaga, kamusta po kayo?<sep>Mayad nga timprano, kumusta kamo ron.
+Magandang tanghali, kamusta po kayo?<sep>Mayad nga ugto, kumusta kamo ron.
+Ano ang pangalan ng mga magulang mo?<sep>Ano ang aran imong mga gorang-gorang?
 Mabuting mabuti, Salamat.<sep>Mayad nga mayad, Salamat.
-Mabuting mabuti, Salamat.<sep>Dorong kaayad. Salamat.
+Mabuting mabuti, salamat.<sep>Dorong kaayad. Salamat.
 Wow, ang tamis!<sep>Aroy, ang tamis ingan!
 Wow, ang tamis!<sep>Aroy, midio papalamingkon den dan!
 Narito siya para sumali sa Baragatan.<sep>Digi tana para mag-ireg sa Baragatan.
-Napakasaya ng oras na iyon!<sep>Ang kaambeng kita noel.
+Napakasaya ng oras na iyon!<sep>Ang kaambeng kita noel!
 Napakasaya ng oras na iyon!<sep>Ang kaambeng kami ingan!
 Pinakamahusay na manlalaro ng basketbol.<sep>Pinakamaantigo agkarawat i baskitbol.
-Magkano ang huling presyo?<sep>Pira ang oring prisio.
-Magkano ang huling presyo?<sep>Pira ang pinakamababang prisio.
+Magkano ang huling presyo?<sep>Pira ang oring prisio?
+Magkano ang huling presyo?<sep>Pira ang pinakamababang prisio?
 Huwag mag-iwan ng anumang gamit sa loob.<sep>Indi magsala maski anong gamit sa seled.
 Ang babaing iyon ay pinong tao.<sep>Pino ang babaing dan.
 Ang babaing iyon ay pinong tao.<sep>Ang babaing dan ay matandes.
@@ -1983,19 +1982,21 @@ Ano ang pangalan ng iyong nakababatang kapatid na babae?<sep>Ano ang arat imong 
 Ano ang pangalan ng iyong nakababatang kapatid na lalaki?<sep>Ano ang aran imong libayen nga lalaki?
 Balik nalang po kayo bukas para mag-follow up.<sep>Balik kamo ron lamang aruman para sa maelaman indo.
 Ang malapit kong kaibigan ay darating mula sa Manila.<sep>Akeng marapit nga tangay ay magaabot alin sa Manila.
-Ano ang pangalan ng iyong nakatatandang kapatid na babae?<sep>Ano ang aran imong manang? Ano ang aran i manang mo?
-Ano ang pangalan ng iyong nakatatandang kapatid na lalaki?<sep>Ano ang aran imong manong? Ano ang aran i manong mo?
+Ano ang pangalan ng iyong nakatatandang kapatid na babae?<sep>Ano ang aran imong manang?
+Ano ang pangalan ng iyong nakatatandang kapatid na babae?<sep>Ano ang aran i manang mo?
+Ano ang pangalan ng iyong nakatatandang kapatid na lalaki?<sep>Ano ang aran imong manong?
+Ano ang pangalan ng iyong nakatatandang kapatid na lalaki?<sep>Ano ang aran i manong mo?
 Ano ang magagandang lugar na pwedeng bisitahin dito sa Puerto?<sep>Anong matitinlong logar nga mapapakonan digi sa Puerto?
 Nakatira siya sa Gomamela, Sta. Monica, Puerto Princesa City.<sep>Aga istar tana sa Gomamila, Sta. Monica, Siodad i ang Puerto Princesa.
-Ano po ang pangalan niyo sa pagkadalaga?<sep>ano imong apilido datong daraga ka pa?
-Ano po ang pangalan ng tatay at nanay?<sep>anong aran imong tatay ig nanay?
+Ano po ang pangalan niyo sa pagkadalaga?<sep>Ano imong apilido datong daraga ka pa?
+Ano po ang pangalan ng tatay at nanay?<sep>Anong aran imong tatay ig nanay?
 Kelan po kayo huling nagpunta dito?<sep>Kano indong uring pakon digi?
 Ano po ang pinagkakakitaan niyo?<sep>Ano imong pangaboi?
 May kasama po ba kayo sa bahay?<sep>Mi kaiban b kamo sa balay?
 Saan po ang permanente niyong tirahan?<sep>Adin indong permamenteng ing istaran?
 Ilan taon na po kayong nakatura dito?<sep>Pira ren kadagon kamo istar doto?
 Meron po ba kayong ballpen?<sep>Mi ballpen kaw?
-Sandali lang po ma'am/ sir!<sep>Indi buay lang ma’am/sir!
+Sandali lang po ma'am/sir!<sep>Indi buay lang ma'am/sir!
 Titignan ko po kung ano ang maari kong gawin.<sep>Selengen ko kung ano pwedi kong buaten.
 May iba pa po ba kayong kakilala dito?<sep>Mi iba kamong kilala digi?
 Maupo po muna kayo sandali.<sep>Pagurang anay indi buay.
@@ -2005,13 +2006,13 @@ Ilan po ang dala niyong ID?<sep>Pira kabilog indong darang ID?
 May mga kamag-anak po ba kayong nandito?<sep>Mi mga parente b kamo digi?
 Pwede bang malaman ang pangalan mo?<sep>Pwedi ba maelaman indong aran?
 Nagugutom na ako.<sep>Ing gegetem ako ron.
-kailangan ko na umuwi dahil tinatawag na ako ng aking nanay<sep>Kaministiran ko ron mag uli ay ing tatawag ako ron in nanay.
-Pupunta ako sa palengke para bumili ng hapunan<sep>Mapakon ako sa palengke para kabakal yapon.
+Kailangan ko na umuwi dahil tinatawag na ako ng aking nanay.<sep>Kaministiran ko ron mag uli ay ing tatawag ako ron in nanay.
+Pupunta ako sa palengke para bumili ng hapunan.<sep>Mapakon ako sa palengke para kabakal yapon.
 Saan ang malapit na tindahan?<sep>Adin ang marapit nga tindan?
 May alam ka bang restaurant?<sep>Mi aelaman kang karaenanan?
 Mahal mo ba ako?<sep>Ing gegegman mo ba ako?
 Gising na!<sep>Pag mata ren!
-Nanood ako ng pelikula sa sinehan kagabi<sep>Ang seleng ako pelikula sa sinian kagabi.
+Nanood ako ng pelikula sa sinehan kagabi.<sep>Ang seleng ako pelikula sa sinian kagabi.
 Saan ang pinakamalapit na ospital?<sep>Adin ang pinakamarapit nga ospital?
 Anong pangalan mo?<sep>Ano imong aran?
 Kaano-ano mo siya?<sep>Anono mo tana?
@@ -2034,144 +2035,143 @@ Nagmeryenda na po ba kayo?<sep>Ag miryenda kamo ron da?
 May coke po dito<sep>Dagi mi coke
 Gusto niyo po ng cake?<sep>Aliag kamo i cake?
 Gusto niyo po ng tubig?<sep>Aliag kamo tubig?
-May candy po kami dito?<sep>Mi kendi kami digi
-bibili po kayo?<sep>Mabakal kamo?
-Maraming Salamat po!<sep>Matamang salamat!
+May candy po kami dito?<sep>Mi kendi kami digi?
+Bibili po kayo?<sep>Mabakal kamo?
+Maraming salamat po!<sep>Matamang salamat!
 Balik po kayo!<sep>Balik kamo uman!
 Sa uulitin po!<sep>Sa urumanen!
-Paalam po<sep>Adios
-Kumain po muna kayo.<sep>Pagkaen kamo anay
+Kumain po muna kayo.<sep>Pagkaen kamo anay.
 Mag lunch po muna kayo<sep>Pag igma kamo anay
 Balik nalang po kayo pagkatapos niyo po kumain.<sep>Pagbalik kamo lamang tapos kamo kaen.
 Tara na po, nagaantay po si Madam sa inyo.<sep>Amos kamo ron aga elat si Madam kanindo.
 Maari niyo po ako kausapin tungkol po diyan?<sep>Pwedi indo akong kampangen tenged jan?
 Mayroon po ba kayong valid id?<sep>Mijan b kamong valid ID?
-anong gawa mo?<sep>Aga iwan kaw?
+Anong gawa mo?<sep>Aga iwan kaw?
 Gutom na ako.<sep>Getem ako ron.
 Uhaw na ako.<sep>Ing wawaw ako ron.
-Masarap ang pagkain.<sep>Masabor ang pagkaen
+Masarap ang pagkain.<sep>Masabor ang pagkaen.
 Busog na ako.<sep>Busog ako ron.
-Gusto kong kumain ng adobo.<sep>Aliag ako kaen adobo
-Mahilig ako sa sinigang.<sep>Mahilig ako i tinola
-Ano ang ulam?<sep>ano imong sera?
+Gusto kong kumain ng adobo.<sep>Aliag ako kaen adobo.
+Mahilig ako sa tinola.<sep>Mahilig ako i tinola.
+Ano ang ulam?<sep>Ano imong sera?
 Mayroon ka bang kanin?<sep>Mijan kang kanen?
 Pwede ba akong humingi ng tubig?<sep>Pwedi ba ako kapakitaw tubig?
 Kain tayo!<sep>Makaen kita!
-Kakagising ko lang.<sep>kamamata ko lang.
-Kakain na ako.<sep>Makaen ako ron
+Kakagising ko lang.<sep>Kamamata ko lang.
+Kakain na ako.<sep>Makaen ako ron.
 Naligo na ako.<sep>Akaparigos ako ron.
 Papasok na ako sa trabaho.<sep>Maseled ako ron sa trabaho.
 Pauwi na ako.<sep>Pauli ako ron.
 Nag-aaral ako ngayon.<sep>Aga adal ako dadi.
 Nagluluto ako ng hapunan.<sep>Aga luto ako yapon.
 Naglalaba ako ng damit.<sep>Aga pamunak ako.
-Naglilinis ako ng bahay.<sep>Apanlimpyo ako ang balay
+Naglilinis ako ng bahay.<sep>Apanlimpyo ako ang balay.
 Nagpapahinga ako.<sep>Apanari ako.
-Pakibaba po ang inyong boses.<sep>Patigayon luay-luay limeg
-Pakisara po ang ilaw.<sep>Patigayon isarado ang light
-Paki-open po ang pinto.<sep>Paki abrian ang puertan?
+Pakibaba po ang inyong boses.<sep>Patigayon luay-luay limeg.
+Pakisara po ang ilaw.<sep>Patigayon isarado ang light.
+Paki-open po ang pinto.<sep>Paki abrian ang puertan.
 Kumusta po ang inyong araw?<sep>Kumosta imong adlaw?
 Anong oras na po?<sep>Ano oras den dadi?
-Nasaan po ang CR?<sep>Adin ang kasilyas/CR?
-Pakibaba po ang kurtina.<sep>Patigayon ibaba ang kurtina
-Pakitulungan po ako dito.<sep>Pakitabangan ako digi
-Kumusta po ang inyong pamilya?<sep>Kumosta imong pamilya
-Anong balita sa inyo?<sep>Ano ang barita kanindo
+Nasaan po ang CR?<sep>Adin ang kasilyas?
+Nasaan po ang CR?<sep>Adin ang CR?
+Pakibaba po ang kurtina.<sep>Patigayon ibaba ang kurtina.
+Pakitulungan po ako dito.<sep>Pakitabangan ako digi.
+Kumusta po ang inyong pamilya?<sep>Kumosta imong pamilya?
+Anong balita sa inyo?<sep>Ano ang barita kanindo?
 Gusto niyo po bang sumama?<sep>Aliag ba kamo ang tabid?
 Malamig po ba sa loob?<sep>Maramig ba sa seled?
-Pakipatay po ang TV.<sep>Paki sarado ang tV.
 Gusto niyo po bang mag-kape?<sep>Aliliag ba kamo mag kape?
-Pakibuksan po ang bintana.<sep>Pakiabrian ang bintana
-May tanong po ako.<sep>Mi pakiman ako
+Pakibuksan po ang bintana.<sep>Pakiabrian ang bintana.
+May tanong po ako.<sep>Mi pakiman ako.
 Pwede ko po bang hiramin ito?<sep>Pwedi ko kabay belesan ja?
-Nasaan na po tayo?<sep>Adin kita Ren?
+Nasaan na po tayo?<sep>Adin kita ren?
 May masakit po ba sa inyo?<sep>Mi masakit ba kanimo?
-Kumain na po ba kayo?<sep>Agkaen kamo Ren?
-Pauwi na po ba kayo?<sep>Pauli kamo Ren ba?
+Kumain na po ba kayo?<sep>Agkaen kamo ren?
+Pauwi na po ba kayo?<sep>Pauli kamo ren ba?
 Pakikuha po ang tubig.<sep>Pakibel ang tubig.
-Pakitawag po si Ate<sep>Tawagan anay di manang mo.
+Pakitawag po si Ate.<sep>Tawagan anay di manang mo.
 Maghintay po muna kayo dito.<sep>Mag elat kamo anay digue.
-Pakibilisan po ang paglakad. <sep>Pag apura ra panaw.
+Pakibilisan po ang paglakad.<sep>Pag apura ra panaw.
 Huwag po kayong mag-alala.<sep>Indi kaw agpabera Bera.
-Naglalaro po ba kayo ng basketball?<sep>Makarawat kamo basket ball Dadi?
-Gusto niyo po bang manood ng sine? <sep>Alaig kamo Ag seleng sine?
+Naglalaro po ba kayo ng basketball?<sep>Makarawat kamo basket ball dadi?
+Gusto niyo po bang manood ng sine?<sep>Alaig kamo ag seleng sine?
 Pakilinis po ang mesa.<sep>Pakilimpyo ang lamesa.
-Tuloy po kayo sa loob.<sep>dayon kamo sa seled.
+Tuloy po kayo sa loob.<sep>Dayon kamo sa seled.
 Pakipatay po ang ilaw.<sep>Pataya ang sindi.
 Nasaan po ang susi?<sep>Adin ang liabe?
 Pwede po bang magtanong?<sep>Pwedi magpakiman?
 Ano pong kulay ang gusto niyo?<sep>Anong kulay imong aliagan?
-May appointment po ba kayo ngayon?<sep>May skedyol ka po ba Dadi?
+May appointment po ba kayo ngayon?<sep>May skedyol ka po ba dadi?
 Magkano po ang lahat?<sep>Pera tanan?
 Pakitingnan po ang listahan.<sep>Pakiseleng po ang listan.
 Pwede po bang humiram ng ballpen?<sep>Pwedi kabeles pangsulat?
-Anong oras po tayo aalis?<sep>Anong Ora's kita Malin?
+Anong oras po tayo aalis?<sep>Anong oras kita malin?
 Kailangan ko po ng tulong.<sep>Kailangan ko po tabang.
 Magkita po tayo bukas.<sep>Makita kita aruman.
-Ano pong gagawin niyo ngayon?<sep>Ano bubwaten Dadi?
+Ano pong gagawin niyo ngayon?<sep>Ano bubwaten dadi?
 Gusto niyo po bang sumama sa amin?<sep>Alaig kamo angtabid kanamen?
 Pwede po bang humingi ng tubig?<sep>Pwedi magpakitaw tubig?
 Pwede po bang gamitin ang telepono?<sep>Pwedi ag gamit telepono?
-Mag-ingat po kayo sa daan.<sep>Mag amblig kamo sa Dalan.
+Mag-ingat po kayo sa daan.<sep>Mag amblig kamo sa dalan.
 Pauwi na po ako.<sep>Pauli ako ren.
 Pakikabit po ang seatbelt.<sep>Pakikabit ang seatbelt.
 Pakibigay po ang sukli.<sep>Pakitaw ang barya.
 Pakiabot po ang asin.<sep>Abutan anay ang asin.
 Pakikuha po ang remote.<sep>Pavel ang remot.
-Pwede po bang magtanong ng direksyon?<sep>Pwedi magpakiman ang direksyon.
-Nasaan po ang sakayan ng jeep?<sep>Adin ang sakayan ang Jeep.
+Pwede po bang magtanong ng direksyon?<sep>Pwedi magpakiman ang direksyon?
+Nasaan po ang sakayan ng jeep?<sep>Adin ang sakayan ang Jeep?
 Paki-hinaan po ang volume.<sep>Pakiluayan ang baskeg.
 Pakibaba po ang telepono.<sep>Ibaba mo ang telepono.
 Pakisara po ang gripo.<sep>Pakisarado ang gripo.
 Pakilinis po ang sahig.<sep>Pakilimpyo ang saleg.
-Anong oras po tayo kakain?<sep>Anong Ora's kita makaen?
+Anong oras po tayo kakain?<sep>Anong oras kita makaen?
 Pakipasa po ang papel.<sep>Pakipasa ang papel.
 Ano po ang susunod na gagawin?<sep>Ano ang madason na bubwaten?
 Pakitext po ako kapag andyan na kayo.<sep>Pakitext ako kung jan karen.
 Pakidala po ang mga gamit ko.<sep>Pakidara akeng mga gamit.
-Pwede po ba tayong mag-usap?<sep>Pwedi ba kita Ag Ampang.
+Pwede po ba tayong mag-usap?<sep>Pwedi ba kita ag Ampang?
 Kumusta po ang biyahe niyo?<sep>Kamusta indong byahe?
 Pakitanong po kay nanay.<sep>Paki pakiman Ky nanay.
 Pwede po bang magpalit ng upuan?<sep>Pwedi magbaylo gururangan?
 Pwedeng dito po muna kayo?<sep>Pwedi digue kamo anay?
 Pakisundo po ako sa school.<sep>Pakibel ako sa skul.
-Anong oras po kayo aalis?<sep>Anong Ora's kamo malin?
+Anong oras po kayo aalis?<sep>Anong oras kamo malin?
 Pakisabi po sa kanya na tumawag ako.<sep>Pakikon kananda na ako agtawag.
 Pwede po bang humingi ng tulong?<sep>Pwedi mag pakitaw tabang?
-Kailan po ang susunod na meeting?<sep>Inuro ang madason na meting ?
-Pakisabi po kay kuya na nandito ako.<sep>Pakikon Ki manong ako digue ren.
-Anong oras po magbubukas ang tindahan?<sep>Anong Ora's maabre ang tindan?
+Kailan po ang susunod na meeting?<sep>Inuro ang madason na meting?
+Pakisabi po kay kuya na nandito ako.<sep>Pakikon ki manong ako digue ren.
+Anong oras po magbubukas ang tindahan?<sep>Anong oras maabre ang tindan?
 Pakihulog po ang sulat sa mailbox.<sep>Pakiulog ang sulat sa box.
-Pakibalik po ang libro sa shelf.<sep>Paki balik ang libro sa beretangan
+Pakibalik po ang libro sa shelf.<sep>Paki balik ang libro sa beretangan.
 Pwede po bang makisuyo?<sep>Pwedi papatigayun?
 Pakialagaan po ang mga bata.<sep>Pakisagid anay ang mga bata.
 Nasaan po ang paracetamol?<sep>Adin ang bulong?
 Pwede po bang pakiulit?<sep>Pwedi paolit?
-Anong oras po ang alis ng bus?<sep>Anong Ora's Malin ang bus.
+Anong oras po ang alis ng bus?<sep>Anong oras malin ang bus?
 Pakipirmahan po ang dokumento.<sep>Pakiperman ang mga papel.
 Pakisabihan po sila na darating ako.<sep>Pakikon na maboy ako.
 Pwede po bang mag-stay dito?<sep>Pwedi ba magtinir digue?
 Pakitawag po ang doktor.<sep>Pakitawag di dok.
-Anong oras po kayo uuwi?<sep>Anong Oras ka k mauli.
+Anong oras po kayo uuwi?<sep>Anong oras ka mauli?
 Pakihinaan po ang aircon.<sep>Pakiluayan ang aircon.
-Nasaan po ang pinakamalapit na bangko?<sep>Adin ang oinakamarapit na bangko.
-Pakiluto po ang itlog.<sep>pakiluto ang itlog.
+Nasaan po ang pinakamalapit na bangko?<sep>Adin ang pinakamarapit na bangko?
+Pakiluto po ang itlog.<sep>Pakiluto ang itlog.
 Pakiabot po ang charger.<sep>Paki abot ang charger.
 Pwede po bang magpakarga ng load?<sep>Pwedi magpaload?
 Pakibukas po ang bintana.<sep>Pakiabre any ang bentana.
-Pakisabi po kay tatay na may bisita siya.<sep>Pakikon Ki tatay mo mi bisita tana.
+Pakisabi po kay tatay na may bisita siya.<sep>Pakikon ki tatay mo mi bisita tana.
 Pwede po bang magtanong tungkol dito?<sep>Pwedi magpakiman tengued digue?
-Anong oras po kayo magigising?<sep>Anong Oras kaw Mamata?
+Anong oras po kayo magigising?<sep>Anong oras kaw Mamata?
 Pakihiram po ang libro.<sep>Pakibelesan ang libro.
-Pakikabit po ang kurtina.<sep>kabitan anay ang kurtina.
-Pwede po bang magtanong kung magkano ito?<sep>Pwedi magpakiman kung pera Ja?
+Pakikabit po ang kurtina.<sep>Kabitan anay ang kurtina.
+Pwede po bang magtanong kung magkano ito?<sep>Pwedi magpakiman kung pera ja?
 Pakihinto po ang sasakyan.<sep>Patadenga ang sarakayan.
 Nasaan po ang resibo?<sep>Adin ang recibo?
-Pakihingi po ng ketchup.<sep>pakitaw ketshup.
+Pakihingi po ng ketchup.<sep>Pakitaw ketshup.
 Pakikabit po ang mga ilaw.<sep>Kabitan anay ang sindi.
-Pwede po bang mag-order ng pagkain? <sep>Pwedi Ag order pagkaen.
+Pwede po bang mag-order ng pagkain?<sep>Pwedi ag order pagkaen?
 Pakibaba po ang kurtina.<sep>Pakibaba ang kurtina.
-Anong oras po tayo magsisimula?<sep>Anong Ora's maumpisa?
+Anong oras po tayo magsisimula?<sep>Anong oras maumpisa?
 Mga ilang libro meron ka?<sep>Pira ka libro ang mejan kaw?
 Lahat ng halaman ay kailangan ang tubig at ilaw.<sep>Tanang tanem kaministiran tubig mi sanag.
 Mahal na hobi ang astronomiya.<sep>Mal na paranglingaw-lingawan ang astronomiya.
@@ -2180,13 +2180,13 @@ Mayroon ka bang reklamo?<sep>Mejan kaw reklamo?
 Marunong ka bang magmahjong?<sep>Kaelam kaw ag mahjong?
 Nagiging mahal ang lahat.<sep>Aga mal ang tanan.
 Palagi siyang humihiram ng pera sa akin.<sep>Pirmi tana agabeles koarta kanaken.
-Tinanong niya kung gusto ko ang math.<sep>Ing papakiman na ako, kung maliagan ang (math).
+Tinanong niya kung gusto ko ang math.<sep>Ing papakiman na ako, kung maliagan ang math.
 Nanakaw 'yong kotse niya kahapon.<sep>Eng takaw anang kotse kapon.
 Talagang gusto niya ang siyensiyang piksiyon.<sep>Alyagan na enged ang siyensiyang piksiyon.
 Isang tasa pa ng kape?<sep>Saka tasa pa ang kape?
-Paano sinusulat ang apelyido mo?<sep>Pasamuro eng susulat imong apelyido.
+Paano sinusulat ang apelyido mo?<sep>Pasamuro eng susulat imong apelyido?
 Gaano kalayo ang sumusunod na estasyon ng gasolina?<sep>Muro raye pa ang madason na istascion ang gasolinan.
-Ilang wika ang marunong ka?<sep>Pira ka limeg imong nanaelaman?.
+Ilang wika ang marunong ka?<sep>Pira ka limeg imong nanaelaman?
 Sawa na akong kausapin siya.<sep>Suram ako ren pakigampang kanana.
 Di ko na mainom ang serbesa.<sep>Inde ko ren kaya ag laklak pa.
 Talagang hindi ako sumasang-ayon dito.<sep>Ako talaga inde ag payag dige.
@@ -2198,13 +2198,13 @@ Araw-araw nagbubus akong papuntang eskuwela.<sep>Adlaw adlaw aga sakay ako sa bu
 Nagpapalaki ako ng mga orkid sa grinhaws ko.<sep>Aga pa bael ako akeng mga burak na orkid sakeng taraneman.
 Sana'y hindi nila ako niloloko.<sep>Basiparang ara anda ako ra'y lulukwa.
 Mga sampung talaba yata ang kinain niya.<sep>Medyo sampulo ka talaba anang nakaen.
-Akala ko tatay ni Mary si Tom.<sep>Akeng kaelam si Tomas anang tatay ni Marya.
+Akala ko tatay ni Mary si Tom.<sep>Akeng kaelam si Tom anang tatay ni Mary.
 Gusto kong bumalik doon ngayong gabi.<sep>Akeng aliagan mabalik ako duto dading gabi.
 Sabihin mo sa akin ang katotohanan.<sep>Baegan kanaken ang matod.
 Basta tatapusin ko itong trabaho.<sep>Basta tataposen ko ja akeng obra.
 Di ko yun mahuhulaan.<sep>Inde ko ato mapinto.
 Kung ako ikaw, mag-aaral ako nang mas mabuti.<sep>Kung ako ikaw, maga adal ako e matinlo.
-Mas mahirap ba ang Ingles kaysa sa Hapon?<sep>Mas makuri ba ag limeg na ingles kaysa hapon?
+Mas mahirap ba ang Ingles kaysa sa Hapon?<sep>Mas makuri ba ag limeg na Ingles kaysa Hapon?
 Kakain ba rito, o magteteyk-awt?<sep>Dige ba makaen o sa lua?
 Hindi kailangang maging ganito.<sep>Beken kaministiran maging tulad ja.
 Umiinit nang umiinit na.<sep>Aga'init ng aga'init.
@@ -2214,37 +2214,37 @@ Kagabi, nakinig ako sa radyo.<sep>Ang aglebas na gabi, ag pamati ako sa radyo.
 Inom tayo o kung ano man.<sep>Maenem kita o maski ano ren lang.
 Galing Osaka ang lolo ko.<sep>Ag alin Osaka akeng lolo.
 Naglalaro ng manika ang kapatid ko.<sep>Aga karawat e manika akeng libayen.
-Tinanong niya kung ba't siya umiiyak.<sep>ing pakimanan na, ayamo ika aga tangis.
+Tinanong niya kung ba't siya umiiyak.<sep>Ing pakimanan na, ayamo ika aga tangis.
 May pusa siya. Puti ang pusa niya.<sep>May kuti tana. Kulay puti anang kuti.
-Kilalang-kilala niya ang nanay mo.<sep>aelaman na aelaman na imong ina.
+Kilalang-kilala niya ang nanay mo.<sep>Aelaman na aelaman na imong ina.
 Sabi niya'y gusto niya ng mga bulaklak.<sep>Ing kun na, na aliagan na e burak.
-Nag-taxi siya papunta sa museo.<sep>ag bayad tana e sarakayan papakun sa museo.
+Nag-taxi siya papunta sa museo.<sep>Ag bayad tana e sarakayan papakun sa museo.
 Nagsulat siya ng libro tungkol sa ibon.<sep>Ag sulat tana libro tenged sa langgam.
-Sabihin mo samin kung anong alam mo tungkol kay Tom.<sep>kunon mo kanamen ang imong aelaman ki Tom.
+Sabihin mo samin kung anong alam mo tungkol kay Tom.<sep>Kunon mo kanamen ang imong aelaman ki Tom.
 Nag-iisang nakatira ang matandang babae.<sep>Sakabilog lamang aka istar ang malam na babai.
-Puno ang bote na ng tubig.<sep>ang botilya puno ren e tubig.
+Puno ang bote na ng tubig.<sep>Ang botilya puno ren e tubig.
 Tumakbo 'yong bata nang nakita niya ako.<sep>Ag dalagan ang bata pagkakita kanaken.
-Malaki ang populasyon ng siyudad.<sep>mabael ang populasyon e ang siyudad.
-Nililibot ng Buwan ang Tiyera.<sep>ing lilibot ang bolan ang tiyera.
-Tunay pala yung tsismis.<sep>matod gali ang baribarita.
-Hindi makagupit iyong gunting.<sep>indi katupi imong gunting.
-May mabigat na buwis sa tabako.<sep>may mabael na buwis sa tabako.
-Wala silang tsoys kundi umalis.<sep>ara sanda ibang papaiswagan kundi mag alin.
-Namatay si Tom nang may hawak na baril.<sep>apatay si Tom na may kawid pusil.
-May rason si Tomas na magalit.<sep>medjan rason si Tomas para masilag.
-Kailangan ni Tomas ng oras para mag-isip.<sep>kaministiran ni Tomas ang oras para kaisip-isip.
-Ang mga magulang ni Tom ay si John at Mary.<sep>ang mga gurang gurang ni Tom ay si John ig Mary.
+Malaki ang populasyon ng siyudad.<sep>Mabael ang populasyon e ang siyudad.
+Nililibot ng Buwan ang Tiyera.<sep>Ing lilibot ang bolan ang tiyera.
+Tunay pala yung tsismis.<sep>Matod gali ang baribarita.
+Hindi makagupit iyong gunting.<sep>Indi katupi imong gunting.
+May mabigat na buwis sa tabako.<sep>May mabael na buwis sa tabako.
+Wala silang tsoys kundi umalis.<sep>Ara sanda ibang papaiswagan kundi mag alin.
+Namatay si Tom nang may hawak na baril.<sep>Apatay si Tom na may kawid pusil.
+May rason si Tomas na magalit.<sep>Medjan rason si Tomas para masilag.
+Kailangan ni Tomas ng oras para mag-isip.<sep>Kaministiran ni Tomas ang oras para kaisip-isip.
+Ang mga magulang ni Tom ay si John at Mary.<sep>Ang mga gurang gurang ni Tom ay si John ig Mary.
 Dalawang pamilya ang nakatira sa bahay na iyon.<sep>Darwa ka pamilya ang aka istar sa balay na dan.
-Nag-aalmusal kami sa loob ng gusali.<sep>aga kaen kami digi sa silid ang gusali?
-Hindi ka imbitado sa party.<sep>ara kaw ing imbataran sa okasyon.
-Bakit mo sila pinaparusahan?<sep>ayamo ing pi'pinitinsyan mo sanda?
-Saan mo gagamitin ang perang 'to?<sep>sadin gagamiten ang koartang ja?
-Nasaan na yung iba pang files?<sep>adin den ang ibang mga papilis?
-Anong klaseng musika ang gusto mo?<sep>anong klasing musika imong alyagan?
-Ba't mo pininturahang pula ang bangkito?<sep>ayamo ing pinturan mo i kulay pula ang bangkito?
-Bakit di mo sabihin sa kanya nang diretso?<sep>ayamo inde mo kunon kanana diritso?
-Di ka ba sasama sa aming pagdaldalan?<sep>indi kaw ag tabid sameng papakunan?
-Talagang maaga ka nitong umaga.<sep>matod maga kaw kainang maga?
+Nag-aalmusal kami sa loob ng gusali.<sep>Aga kaen kami digi sa silid ang gusali.
+Hindi ka imbitado sa party.<sep>Ara kaw ing imbataran sa okasyon.
+Bakit mo sila pinaparusahan?<sep>Ayamo ing pi'pinitinsyan mo sanda?
+Saan mo gagamitin ang perang 'to?<sep>Sadin gagamiten ang koartang ja?
+Nasaan na yung iba pang files?<sep>Adin den ang ibang mga papilis?
+Anong klaseng musika ang gusto mo?<sep>Anong klasing musika imong alyagan?
+Ba't mo pininturahang pula ang bangkito?<sep>Ayamo ing pinturan mo i kulay pula ang bangkito?
+Bakit di mo sabihin sa kanya nang diretso?<sep>Ayamo inde mo kunon kanana diritso?
+Di ka ba sasama sa aming pagdaldalan?<sep>Indi kaw ag tabid sameng papakunan?
+Talagang maaga ka nitong umaga.<sep>Matod maga kaw kainang maga.
 Wala ako sa bayan nang ilang araw.<sep>Ako ara sa lansangan y pira ka adlaw.
 Mas mahirap kaysa sa iniisip mo.<sep>Mas makuri kaysa saimong ing isip.
 Nag-martsa ang mga puwersang Hapones patungo sa Burma.<sep>Ag martsa ang mga gurpo ang hapones papakun sa Burma.
@@ -2260,20 +2260,20 @@ Binati niya ako ng "Magandang umaga."<sep>Ing kunan na ako mayad nga temprano.
 Kating-kati na siyang ibunyag ang sikreto.<sep>Katel na katel tana reng ibaeg ang sikreto.
 Maraming likas na kayamanan ang bansang ito.<sep>Marakeng manggad ang banuang dya.
 Umiibig sa kapatid kong babae ang lalaking iyon.<sep>Ing gueguegman ang lalaking dato akeng bugtitinay nga babay.
-Bagay ang kurbatang iyan sa baro mo.<sep>Bagay ang kurbatang Dan saimong lambong.
+Bagay ang kurbatang iyan sa baro mo.<sep>Bagay ang kurbatang dan saimong lambong.
 Yun talaga ang gusto nyang mangyari.<sep>Dato talaga maman anang aliagan matabo.
 Masyadong mahirap ang takdang-aralin.<sep>Pwerteng ka kuri ang ing papabuat.
-Kumakanta ang mga ibon sa mga puno.<sep>Aga Kanta ang mga langgam sa kapunoan.
+Kumakanta ang mga ibon sa mga puno.<sep>Aga kanta ang mga langgam sa kapunoan.
 Nakikinig sa radyo ang bata nang nakahiga.<sep>Agapamati ang bata sa radyo nga aga ingga.
 Ipadadala nang koreo ang sulat bukas.<sep>Ipapadara y ang opisina ang sulat aruman.
-Nasa malaking kuwarto ang parti.<sep>Sa Mabael nga kwarto ang agaparti.
+Nasa malaking kuwarto ang parti.<sep>Sa mabael nga kwarto ang agaparti.
 Mahal talaga ang presyo ng awtong ito.<sep>Mal talaga ang presyo ang sarakayan nga dya.
 Naging palaka ang prinsipe.<sep>Naging pangka ang adi.
 Ang mga nagbiyabiyahe'y galing sa iba-ibang bansa.<sep>Ang mga agabyahe agalin sa iba-ibang lugar.
 Maganda ang panahon nang buong linggo.<sep>Matinlo ang tiempo ang buong dominggo.
 Naniniwala sila sa buhay pagkatapos ng kamatayan.<sep>Aparaet sanda sa kabui pagkatapos ang kamatayen.
 Pangalawang beses ko itong lumipad.<sep>Pangarwang beses ko dya ag lepad.
-Umarte si Tomas na parang di niya kilala si Maria.<sep>Ag arte si Thomas na medyo sa Indi na makilala di Maria.
+Umarte si Tomas na parang di niya kilala si Maria.<sep>Ag arte si Tomas na medyo sa indi na makilala di Maria.
 Magtatatlumpo na si Tom sa Oktubre.<sep>Maga trenta ren si Tom sa oktuber.
 Nanghihingi kami ng paumanhin dahil sa masamang panahon.<sep>Agapakitaw kami pasensya sa marimong tiempo.
 Maihahatid namin ang produkto sa Hunyo.<sep>Mamated amen ang produkto sa Jun.
@@ -2283,54 +2283,54 @@ Inabot namin ang tuktok ng bundok.<sep>Ing abot amen ang talipuspusan ang bundok
 Dapat nagtagpo tayo nang alas siyete.<sep>Dapat magkita kita ang alas syete.
 Dapat nagtagpo kami nang alas siyete.<sep>Dapat magkita kami ang alas syete.
 Itutuloy natin ang miting pagkatapos ng tsa.<sep>Idadayun ta ang arampangan pagtapos inem ang tsa.
-Anong klaseng tsokolate ang gusto mo?<sep>Anong klaseng tsokolate imong aliagan.
+Anong klaseng tsokolate ang gusto mo?<sep>Anong klaseng tsokolate imong aliagan?
 Anong oras ka natutulog?<sep>Anong kaw aga katurog?
-Anumang gawin mo, huwag mong kalimutan ito.<sep>Kung anono man imong bubuaten, Indi mo dya lipatan.
+Anumang gawin mo, huwag mong kalimutan ito.<sep>Kung anono man imong bubuaten, indi mo dya lipatan.
 Kailan at saan ang handa ng almusal?<sep>Inuro asta sadin ang pagprepara ang pamaw?
 Alin ang gusto mo, kanin o tinapay?<sep>Adin imong aliagan, kanen o tinapay?
 Nang nagbabasa, nakatulog ako.<sep>Maentras agabasa, akakaturog ako.
 Sasama ka ba sa akin sa tindahan?<sep>Matabid kaw kanaken sa tindan?
 Tapos na ang taglamig; tagsibol na.<sep>Tapos den ang tagramig, taginit den.
-Bakit hindi ka pumasok para sa tasang tsa?<sep>Ayamo Indi kaw agseled para sa tasang tsa.
+Bakit hindi ka pumasok para sa tasang tsa?<sep>Ayamo indi kaw agseled para sa tasang tsa?
 Kahapon, napakinig ko ang isang magandang kanta.<sep>Kapon, akabati ako matinlong kanta.
 Dapat palaging gawin ang tama.<sep>Dapat perming buaten ang tama.
 Pagka nagsasalita ka, akala mo'y alam lahat.<sep>Kada agalineg kaw, sa perming elam mo ang tanan.
 Mas sikat ka sa akala mo.<sep>Mas kilala kaw saimong ing isip.
 Ang bahay ay hindi lang basta gusali.<sep>Ang balay ay beken lang basta bilding.
 Ang larawan ay kahalaga nang libong salita.<sep>Ang imahi ay kantidad y sakaribong limeg.
-Pagkatapos ng almusal, naglakad kami.<sep>Pakatapos ang pamaw, Ag panaw kami.
+Pagkatapos ng almusal, naglakad kami.<sep>Pakatapos ang pamaw, ag panaw kami.
 Tinatanggap ang lahat ng mahalagang kredit kard.<sep>Ing reresibi ang tanang importanteng kredit kard.
 Lahat kami'y tumanaw sa bintana.<sep>Tanan kami ang seleng sa bintana.
 Kahit na umuulan, lumabas ako.<sep>Maski agauran, aglua ako.
 Aatend ka ba ng miting?<sep>Magapakun kaw sa miting?
 Handa na ba kayong pasimulan ang inyong biyahe?<sep>Ayos den ba kamo impisan den indung byahe?
-Ang alam ko ay hindi siya nag-asawa.<sep>Ang akeng aelaman Ara tanay pangasawa.
+Ang alam ko ay hindi siya nag-asawa.<sep>Ang akeng aelaman ara tanay pangasawa.
 Meron ka bang gusto pang sabihin?<sep>Mi aliag ka pang ikunen?
 Tinuturo ang Ingles sa karamihang bayan.<sep>Ing tuturo ang Ingles sa kapupuruan.
 Natapos mo na ba ang nobela?<sep>Atapos mo ren ang nobela?
 Mukhang siya ang may gawa nito.<sep>Medyo sa tana ang mi buat dya.
-Gusto niyang pumunta sa Amerika.<sep>Aliag tana Ag pakun sa amerika.
+Gusto niyang pumunta sa Amerika.<sep>Aliag tana ag pakun sa Amerika.
 Hindi naitago ng mukha niya ang tunay niyang nararamdaman.<sep>Ara na natagao anang matod nga nasisintian.
 Hindi ko alam kung anong mangyayari bukas.<sep>Indi ko maelaman kung anong matabo aruman.
 Mayroon bang isang bagay na nais mong matutunan?<sep>Eein maliyag akng isaraag bagay nga kiag kong maelaman?
-Naguguluhan ako sa lahat ng nangyayari.<sep>Apoporit ako sa mga atatabo
+Naguguluhan ako sa lahat ng nangyayari.<sep>Apoporit ako sa mga atatabo.
 Hindi ko inaasahan ang mga bagay na ito.<sep>Ara ko kamaresmes ang mga bagay na ja.
 Tinutulungan ko lang ang sarili ko.<sep>Ing tatabangan ko ron lang aqueng sadili.
 May mga araw na pakiramdam ko ay walang saysay ang lahat.<sep>Sa aqueng pay no-ino sa aqueng sadili ara atatabo ang tanan sa aqueng ing bubuat.
 Hindi ko alam kung paano ko ipapaliwanag ito.<sep>Indi omaelaman kong paywan ko eh esplikar ang mga bagay nga ja.
 Gusto kong maging masaya ka.<sep>Liag ko ms permi kaw maambeng sa imong sadili.
-Minsan lang mangyari ito, kaya’t sisikapin kong maging handa.<sep>kaysan lang matabo animanminister kong perming preparado sa tanan nga oras.
+Minsan lang mangyari ito, kaya't sisikapin kong maging handa.<sep>Kaysan lang matabo animanminister kong perming preparado sa tanan nga oras.
 Naniniwala ka ba sa tadhana?<sep>Agaparaet kaw tadhana?
-Gusto ko lang magpahinga sa lahat ng ito.<sep>Aliag ako lang Ag panari sa tanan nga dya.
+Gusto ko lang magpahinga sa lahat ng ito.<sep>Aliag ako lang ag panari sa tanan nga dya.
 Parang hindi ko na kayang maghintay pa.<sep>Medyo indi ko ren kayang mag elat pa.
 Naiintindihan ko kung bakit ka nag-aalala.<sep>Nanaintindian ko ayamo kaw aga pabera-bera.
 Sige lang, magtiwala ka, gagawin ko ang lahat.<sep>Sige lang, magsarig kaw, bubuaten ko ang tanan.
-Hindi ko inaasahan, ngunit tanggap ko.<sep>Ara koy sasarig, Pero resibi ko.
+Hindi ko inaasahan, ngunit tanggap ko.<sep>Ara koy sasarig, pero resibi ko.
 Walang problema, maghahanap tayo ng paraan.<sep>Ara problema, masadyap kita remedyo.
 Naiintindihan ko na may mga bagay na hindi kontrolado.<sep>Nanaintindian ko nga mi mga bagay na beken kontrolado.
-Hindi ko alam kung paano, pero tiwala akong magkakaroon tayo ng solusyon.<sep>Indi ako kaelam kung pasamuro, Pero agasarig ako nga magaka solusyon kita.
-Alam ko na mahirap, pero kayang-kaya mo.<sep>Aelaman ko na makuri, Pero kayang-kaya mo.
-Kung iyan ang desisyon mo, igagalang ko.<sep>Kung dan imong desisyon, ing gagalang ko
+Hindi ko alam kung paano, pero tiwala akong magkakaroon tayo ng solusyon.<sep>Indi ako kaelam kung pasamuro, pero agasarig ako nga magaka solusyon kita.
+Alam ko na mahirap, pero kayang-kaya mo.<sep>Aelaman ko na makuri, pero kayang-kaya mo.
+Kung iyan ang desisyon mo, igagalang ko.<sep>Kung dan imong desisyon, ing gagalang ko.
 Minsan, kailangan natin magtakda ng hangganan.<sep>Kaisan, kailangan ta magtaw y limitasyon.
 Lahat ng pagsubok ay may katapusan.<sep>Tanang problema may katapusan.
 Gagawin ko ang lahat ng aking makakaya.<sep>Bubuaten ko ang tanan nga akeng makakaya.
@@ -2344,30 +2344,29 @@ Walang imposible sa taong determinado.<sep>Ara imposible sa taong disidido.
 Hanggang may buhay, may pag-asa.<sep>Maentras mi kabui, may pagsarig.
 Hindi ko na kayang magtago ng aking nararamdaman.<sep>Indi ko ren kayang magtago akeng asisintian.
 Hindi ko intensyon na magdulot ng sakit.<sep>Beken ko intensyon nga magtaw masakit.
-Ipinagpapaliban ko ito, ngunit hindi ko na kayang maghintay pa.<sep>Dya papalampasen ko ,pero Indi ako ren kayang mag elat pa.
+Ipinagpapaliban ko ito, ngunit hindi ko na kayang maghintay pa.<sep>Dya papalampasen ko, pero indi ako ren kayang mag elat pa.
 Ano ang pakiramdam mo tungkol sa hinaharap?<sep>Anono imong asisintian atetengued sa madarason nga adlaw?
 Ano ang pinakamahalaga sa iyo sa buhay?<sep>Anono ang pinaka importante samong kabui?
 Paano natin malalaman kung tayo ay nasa tamang landas?<sep>Pasamuro ta mamaelaman kung kita ay sa tamang landas?
 Ano ang ibig sabihin ng tunay na kaligayahan para sa iyo?<sep>Anono ang maliag ikun ang matod nga kambengan para kanimo?
 Kung maaari kang bumalik sa nakaraan, anong babaguhin mo?<sep>Kung pwede kaw agbalik sa kanudaya, anono imong babagun?
 Tanggap ko na hindi lahat ay makakamtan.<sep>Resibi ko nga beken tanan mabebel.
-Sa palagay mo ba, may mga bagay na hindi natin kayang kontrolin?<sep>Saimong panid, mi mga bagay nga Indi tah kayang kotrolon?
-Sana’y mapatawad mo ako sa aking pagkukulang.<sep>Basipang mapatawad mo ako sakeng mga kakurangan.
+Sa palagay mo ba, may mga bagay na hindi natin kayang kontrolin?<sep>Saimong panid, mi mga bagay nga indi tah kayang kotrolon?
+Sana'y mapatawad mo ako sa aking pagkukulang.<sep>Basipang mapatawad mo ako sakeng mga kakurangan.
 Kung makakapili ka, anong uri ng buhay ang nais mo?<sep>Kung kakapili kaw, anong klaseng kabui imong aliagan?
 Patawad kung ako ay naging abala.<sep>Pasensya kung ako ay naging isturbo.
 Hindi ko na kayang magpaliwanag ng mas maayos.<sep>Indi ko ren kayang magpaliwanag pa y ang mas mayos.
 Kung nagkamali ako, humihingi ako ng paumanhin.<sep>Kung agkamli ako, apakitaw ako pasensya.
 Patawarin mo ako kung nasaktan kita.<sep>Patawada ako kung nasakitan takaw.
-Paumanhin kung hindi kita natulungan.<sep>Patawad kung Ara takaw natabangi.
+Paumanhin kung hindi kita natulungan.<sep>Patawad kung ara takaw natabangi.
 Nanghihinayang ako sa aking pagkakamali.<sep>Aganesel ako sakeng pagkakamali.
 Hindi ko inaasahan ang ganitong epekto ng aking desisyon.<sep>Ara koy sasarig na tuladya ang epekto akeng desisyon.
-Kumain ka na ba?<sep>Agkaen ka Ren?
+Kumain ka na ba?<sep>Agkaen ka ren?
 Anong ginagawa mo?<sep>Anono imong ingbubuat?
 Pwede bang magtanong?<sep>Pwede agpakiman?
 Gusto mo ba ng tulong?<sep>Aliag kaw tabang?
-Ilang taon ka na?<sep>Pira ka Ren kadagon?
 Pwede mo bang ulitin?<sep>Pwede moy uliten?
-Saan tayo kakain?<sep>Adin Kita Makaen?
+Saan tayo kakain?<sep>Adin kita makaen?
 Anong gusto mong kainin?<sep>Anono imong aliag y kaenen?
 Nakita mo ba ang bag ko?<sep>Akita mo akeng bag?
 Paano kita matutulungan ngayon?<sep>Pasamuro takaw matatabangan dadi?
@@ -2375,61 +2374,61 @@ Saan banda ang pinakamalapit na mall?<sep>Sadin tengued ang pinakamaitey nga mal
 Anong oras tayo magkikita bukas?<sep>Anong oras kita mabagat aruman?
 Pwede mo bang iabot ang libro?<sep>Pwede pabot ang libro?
 Kailan tayo pwedeng mag-usap?<sep>Inuro kita pwede agampang?
-Bakit hindi mo sinabi sa akin?<sep>Ayamo Ara moy kunan kanaken?
+Bakit hindi mo sinabi sa akin?<sep>Ayamo ara moy kunan kanaken?
 Magkano ang binayaran mo kahapon?<sep>Pira imong ing bayadan kapon?
 Pwede bang samahan mo ako mamaya?<sep>Pwede mo ako iban lalagat?
 Kailangan ko nang umalis ngayon.<sep>Kailangan ko ren agalin dadi.
 Tingnan mo ang ganda ng tanawin!<sep>Selenga ang tinlo ang kalibutan!
 Huwag mong kalimutang dalhin ang payong.<sep>Indi moy lipatan daraen ang payong.
-Sino ang kausap mo sa telepono?<sep>Sino imong kampang sa telepunu.
+Sino ang kausap mo sa telepono?<sep>Sino imong kampang sa telepunu?
 Gusto kong matutong magluto ng adobo.<sep>Aliag ako kaesged agluto adobo.
-Ano ang plano mo para sa weekend?<sep>Anono imong plano para sa madason nga sabado mi dominggo.
+Ano ang plano mo para sa weekend?<sep>Anono imong plano para sa madason nga sabado mi dominggo?
 Nandito na ako sa labas ng bahay mo.<sep>Dige ako ren salua indung balay.
 Pwedeng makahingi ng tubig, kung pwede?<sep>Pwede kapakitaw tubig kung pwede?
 Mahalaga sa akin ang iyong opinyon.<sep>Importante kanaken imong kukunen.
 Gagamitin mo ba ang laptop mamaya?<sep>Gagamiten mo ang laptop lalagat?
 Itago mo ang susi sa ligtas na lugar.<sep>Tagun mo ang susi sa mayos na bertangan.
-Kailan tayo pwedeng pumunta sa parke?<sep>Inuro kita pwede Ag pakun sa parke?
+Kailan tayo pwedeng pumunta sa parke?<sep>Inuro kita pwede ag pakun sa parke?
 Hindi ko maintindihan ang sinasabi mo.<sep>Indi ko maintindian imong ing kukun.
 Pakihinaan naman ang volume ng radyo.<sep>Pakiluayan ang bolyum ang radyo.
-Sa tingin ko, tama ang sagot niya.<sep>Sakeng seleng, Tama anang sabat.
+Sa tingin ko, tama ang sagot niya.<sep>Sakeng seleng, tama anang sabat.
 Sumama ka na sa amin sa sinehan.<sep>Pagtabid den kanamen sa sinehan.
 Kailangan natin maghanda para sa meeting.<sep>Kailangan kita ag prepara para sa miting.
-Pwede bang magtanong tungkol sa project?<sep>Pwede Ag pakiman atetengued sa project?
-Bumili ka na ba ng pagkain para sa aso?<sep>Ag bakal ka Ren pagkaen para sa tso?
+Pwede bang magtanong tungkol sa project?<sep>Pwede ag pakiman atetengued sa project?
+Bumili ka na ba ng pagkain para sa aso?<sep>Ag bakal ka ren pagkaen para sa tso?
 Magugustuhan mo ang lugar na pupuntahan natin.<sep>Maliliagan mo ang lugar nga ateng papakunan.
 Masarap ang pagkain dito sa restaurant na ito.<sep>Masabor ang pagkaen sa karaenan nga dya.
 Nasaan na ang susi ng kotse ko?<sep>Adin ang susi akeng sarakayan?
-Tapos ka na ba sa ginagawa mo?<sep>Tapos Karen saimong ing bubuat?
+Tapos ka na ba sa ginagawa mo?<sep>Tapos karen saimong ing bubuat?
 Pwede bang makisuyo na isara ang pinto?<sep>Pwede patigayun saradon ang pwertan?
-Kailangan ko ng tulong sa pag-aayos ng gamit.<sep>Kailangan ko Ag tabang sa pagayos gamit.
-Anong oras na tayo aalis papunta doon?<sep>Anong oras kita Malin papakun duto?
+Kailangan ko ng tulong sa pag-aayos ng gamit.<sep>Kailangan ko ag tabang sa pagayos gamit.
+Anong oras na tayo aalis papunta doon?<sep>Anong oras kita malin papakun duto?
 Pagkatapos nito, magpahinga ka muna sandali.<sep>Pagkatapos dya magpanari ka nay arabuay.
 May mas mura ba?<sep>Mi mas barato pa?
 Ang mahal naman!<sep>Ang mal ingan!
 Saan ang pamilihan?<sep>Sadin ang barakalan?
-May sukli po ba?<sep>May Barya pa?
+May sukli po ba?<sep>May barya pa?
 May discount po ba?<sep>Mi tawad?
 Wala ba kayong mas maliit?<sep>Ara kamo mas maitey?
 Saan ang sakayan?<sep>Adin ang sarakayan?
-Magkano po ang pamasahe<sep>Tag Pira ang pamasahe?
-Ma ano Ulam?<sep>Nay ano ang sera?
+Magkano po ang pamasahe?<sep>Tag pira ang pamasahe?
+Ma ano ulam?<sep>Nay ano ang sera?
 Paano pumunta sa Cuyo?<sep>Pasamuro makapakun sa Cuyo?
 Ilang minuto pa bago dumating?<sep>Pira pa ka minuto bago mabot?
 Saan ako sasakay papunta sa Cuyo?<sep>Adin ako masakay papakun sa Cuyo?
 Dito ba ang hintayan ng bus?<sep>Dya dige ang erelatan ang bus?
 Gaano pa kalayo?<sep>Muro pa ka raye?
-Pwede bang umupo rito?<sep>Pwede Ag gurang dige?
+Pwede bang umupo rito?<sep>Pwede ag gurang dige?
 Anong masarap na pagkain niyo?<sep>Anono indung masabor na pagkaen?
 Gusto ko ng tubig, please.<sep>Pakitaw ako tubig, patigayun.
 Pwedeng makahingi ng menu?<sep>Pwede kapakitaw listan indung menu?
 Ilang minuto pa ang hihintayin?<sep>Pira ka minuto ang elaten?
 Pakibilisan po.<sep>Pakidasigan po.
 Pwede bang take-out?<sep>Pwede daraen?
-Gusto ko pang umorder.<sep>Aliag ako pa Ag order.
+Gusto ko pang umorder.<sep>Aliag ako pa ag order.
 Pakikuha ng bill, please.<sep>Pakibel ang bill, patigayun.
-Tulungan niyo ako.<sep>Tabangi Indu ako
-Tumawag ng pulis!<sep>Pagtawag pulis.
+Tulungan niyo ako.<sep>Tabangi Indu ako.
+Tumawag ng pulis!<sep>Pagtawag pulis!
 May aksidente!<sep>Mi disgrasya!
 Saan ang pinakamalapit na ospital?<sep>Sadin ang pinakamarapit na ospital?
 Ingat ka sa daan!<sep>Amblig kaw sa dalan!
@@ -2450,7 +2449,7 @@ Bahala ka na.<sep>Balakajan.
 May problema ba?<sep>Mi problema?
 Hindi ako sigurado.<sep>Beken ako sigurado.
 Huwag kang mag-alala.<sep>Indi kaw ang isip mayad.
-Ang gulo mo!<sep>Ang kagulo kaw.
+Ang gulo mo!<sep>Ang kagulo kaw!
 Nandito na ako.<sep>Dage ako ren.
 Ang daming tao!<sep>Ang karake ang tao!
 Pwede po bang magtanong?<sep>Pwede ang pakiman?
@@ -2459,9 +2458,9 @@ Sandali lang po.<sep>Indubuay lamang.
 Hindi ko po alam.<sep>Ako indi kaelam.
 Pakiulit nga po.<sep>Pakiulit ngani.
 Pasok po kayo.<sep>Dayon camo.
-Magkano po ang isang kilo ng mangga?<sep>Tag Pira ang sakakilo ang pumangga?
+Magkano po ang isang kilo ng mangga?<sep>Tag pira ang sakakilo ang pumangga?
 May sariwang isda pa po kayo?<sep>Mi sariwa po kamong isda?
-Pwede po bang tumawad sa presyo?<sep>Pwede Ag tawad sa presyo?
+Pwede po bang tumawad sa presyo?<sep>Pwede ag tawad sa presyo?
 Saan po ang paradahan ng traysikel?<sep>Sadin ang parkingan ang traysikel?
 May libreng tasting po ba ang tinda ninyo?<sep>Mi libreng Samit indung tinda?
 Mag-ingat po kayo sa mga mandurukot.<sep>Amblig kamo sa mga takawan.
@@ -2477,45 +2476,45 @@ Anong oras po bumubukas ang palengke?<sep>Anong oras agabri ang palengke?
 May libreng plastic bag po ba o kailangan bumili?<sep>Mi libreng plastic bag ba o kailangan magbakal?
 Saan po ang pinakamalapit na sakayan papunta sa terminal?<sep>Sadin ang pinakamarapit na sarakayan papakun terminal?
 May CCTV po ba dito sa tindahan ninyo?<sep>Mi cctv dige saindung tindan?
-Huwag po tayong magtulakan, lahat ay makakabili.<sep>Indi kita Ag turuludan tanan kita kababakal.
+Huwag po tayong magtulakan, lahat ay makakabili.<sep>Indi kita ag turuludan tanan kita kababakal.
 Saan po ang daan papunta sa police outpost?<sep>Sadin ang aragian papakun pulis outpost?
 Kailangan po bang kumuha ng appointment bago pumunta?<sep>Kailangan pa po agbel appointment bago magpakun?
 Ano po ang requirements para kumuha ng birth certificate?<sep>Ano ang requirements para makabel y birth certificate?
 Paki-fill out po ang form bago pumunta sa window.<sep>Pakisulatan ang form bago magpakun sa window.
-Saan po ang pila para sa renewal ng ID?<sep>adin po ang Libya para sa renewal ang ID?
+Saan po ang pila para sa renewal ng ID?<sep>Adin po ang linya para sa renewal ang ID?
 Ilang araw bago ma-release ang dokumento?<sep>Pira kadlaw bago mataw ang dokumento?
 May bayad po ba ang pagkuha ng barangay clearance?<sep>Mi bayad ang pagbel barangay clearance?
 Pakihintay po ang tawag ng inyong pangalan.<sep>Paki elat ang tawag indung aran.
-Huwag po tayong magtulakan, lahat ay maseserbisyuhan.<sep>Indi kita Ag turuludan, tanan kita maseserbisyuan.
+Huwag po tayong magtulakan, lahat ay maseserbisyuhan.<sep>Indi kita ag turuludan, tanan kita maseserbisyuan.
 Pakisuot po ang face mask bago pumasok.<sep>Pakisot ang face mask bago magseled.
 Saan po ang inquiry section para sa SSS?<sep>Sadin ang parakimanan tengued ang para sa SSS?
 Kailangan po bang magdala ng original copy ng dokumento?<sep>Kailangan pa magdara ang original nga kopya ang dokumento?
 Anong oras po ang cut-off para sa transaksyon?<sep>Anong oras maga cut-off ang transaksyon?
 May available po bang express processing?<sep>Medyan pang ibang express processing?
-Saan po ako pwedeng magtanong tungkol sa PhilHealth?<sep>Sadin pwede Ag pakiman atetengued sa Philhealth?
+Saan po ako pwedeng magtanong tungkol sa PhilHealth?<sep>Sadin pwede ag pakiman atetengued sa Philhealth?
 Paki-check po ang inyong form bago ipasa.<sep>Paseleng matinlo indung form bago itaw.
 Saan po kukunin ang ticket number para sa pila?<sep>Sadin po bebelen ang ticket number para sa linya?
 May libreng consultation po ba dito sa health center?<sep>Mi libreng konsulta po ba dige sa health center?
 Bawal po ang kumain sa loob ng opisina.<sep>Bawal agkaen sa seled ang opisina.
-May ramp po ba para sa may kapansanan?<sep>Mi ramp po ba para sa mi mga taong may diperensya.?
+May ramp po ba para sa may kapansanan?<sep>Mi ramp po ba para sa mi mga taong may diperensya?
 Ilang minuto ang kailangan hintayin bago matawag?<sep>Pira ka minuto ang kailangang elaten bago tawagen?
 Pakitapon po ng basura sa tamang lalagyan.<sep>Pakipilak ang basura sa tamang bertangan.
 Bawal po ang magdala ng alagang hayop dito.<sep>Bawal ang magdara ayep dige.
-May entrance fee po ba dito sa parke?<sep>Mi bayad ba dige sa parke.
-Saan po ang palikuran?<sep>Sadin po ang CR.
+May entrance fee po ba dito sa parke?<sep>Mi bayad ba dige sa parke?
+Saan po ang palikuran?<sep>Sadin po ang CR?
 Ilang taon ang limit sa playground na ito?<sep>Pira ka dagon ang pwede sa kararawatan nga dya?
-Pwedeng mag-jogging dito tuwing umaga?<sep>Pwede Ag jogging dige kada temprano.
+Pwedeng mag-jogging dito tuwing umaga?<sep>Pwede ag jogging dige kada temprano?
 Huwag po sanang tapakan ang mga halaman.<sep>Indi po lapakan ang mga pananem.
 May upuan po ba sa paligid para magpahinga?<sep>Mi gururangan po ba dige para magpanari?
 Bawal po ang mag-ingay nang sobra, may nagpapahinga.<sep>Bawal ang maglisang, mi agapanari.
 Saan po ang daan papunta sa picnic area?<sep>Sadin ang aragian papakun picnic area?
-Maaari po bang magdala ng sariling pagkain?<sep>Pwede kabay Ag dara y sadiling pagkaen?
+Maaari po bang magdala ng sariling pagkain?<sep>Pwede kabay ag dara y sadiling pagkaen?
 May available po bang bike rental dito?<sep>Mi available ba na rerentan bike dige?
 Saan po ang pinakamalapit na drinking fountain?<sep>Sadin po ang pinakamarapit na drinking fountain?
 May bayad po ba ang paggamit ng pavilion?<sep>Mi bayad ang paggamiy ang pavilion?
-Bawal po ang magkalat sa pampublikong lugar.<sep>Bawal Ag rikot sa pampublikong lugar.
+Bawal po ang magkalat sa pampublikong lugar.<sep>Bawal ag rikot sa pampublikong lugar.
 Saan po ang entrance papunta sa balayong?<sep>Sadin ang entrance papakun balayong?
-Maaari po bang magdala ng sariling upuan?<sep>Pwede kabay Ag dara sadiling gururangan?
+Maaari po bang magdala ng sariling upuan?<sep>Pwede kabay ag dara sadiling gururangan?
 May libreng yoga class po ba dito sa park?<sep>Mi libreng yoga class dige sa park?
 Anong oras po bukas ang park?<sep>Anong oras ang abri ang park?
 Pwede bang magdala ng tent para sa camping?<sep>Pwede ba angdara tent para sa camping?
@@ -2524,7 +2523,7 @@ May fitting room po ba kayo?<sep>Mi fitting room kamo?
 Ano po ang pinakamaliit na size ng sapatos na ito?<sep>Ano ang pinakamaitey nga size ang sapataos nga dya?
 Saan ang cashier para sa contactless payment?<sep>Sadin ang cashier para sa contactless payment?
 May promo po ba kayo ngayon?<sep>Mi promo kamo dadi?
-Pwede bang magtanong kung may stock pa kayo nito?<sep>Pwede Ag pakiman kung mo stock kamo pa dage?
+Pwede bang magtanong kung may stock pa kayo nito?<sep>Pwede ag pakiman kung mo stock kamo pa dage?
 Wala na po bang tawad sa presyo?<sep>Ara ren tawad sa prisio?
 Ano ang warranty policy ng produktong ito?<sep>Anono ang warranty policy ang produktong dya?
 May parking space pa po ba sa basement?<sep>Mi parking space pa sa basement?
@@ -2537,25 +2536,29 @@ May food tasting po ba sa supermarket?<sep>Mi samitan pagkaen ba sa supermarket?
 Ilang oras bago i-claim ang biniling item sa pick-up counter?<sep>Pira ka oras bago mabel ang binakal sa pick up counter?
 Maaari bang ipadeliver ang pinamili namin?<sep>Pwede ipadeliver ameng binakal?
 Anong oras po kayo nagsasara?<sep>Anong oras kami magasarado?
-May available po bang wheelchair para sa senior?<sep>mi available kamo na wheelchair para sa malam?
+May available po bang wheelchair para sa senior?<sep>Mi available kamo na wheelchair para sa malam?
 Saan po ang lost and found section?<sep>Sadin ang lost and found section ampir?
 Bayad po, isang Tiniguiban.<sep>Bayad, saka tiniguiban.
 Pakiabot po ng bayad sa driver.<sep>Pakidawat ang bayad sa driver.
 Pakibigay na lang po ang sukli sa likod.<sep>Pakitaw den lang ang barya sa likod.
 Dito lang po ako bababa.<sep>Dige ako ren lang mababa.
 Pakiusog po sa loob para may makaupo pa.<sep>Pakiisud ang sa seled para mi Maka gurang pa.
-Saan po ang sakayan papuntang Cuyo? ·<sep>Sadin ang sarakayan papakun cuyo?
+Saan po ang sakayan papuntang Cuyo?<sep>Sadin ang sarakayan papakun Cuyo?
 May discount po ba para sa senior citizen?<sep>Mi bawas ba para sa mga senior citizen?
 Pakibukas po ng bintana, mainit sa loob.<sep>Paki abri ang bintana, mainit sa seled.
 Bawal po ang magsakay at magbaba sa hindi tamang lugar.<sep>Bawal ang magsakay mi magbaba sa beken tamang lugar.
-Ingatan ang inyong mga gamit laban sa mandurukot.<sep>Amblegan indong mga gamit sa mga takawan
+Ingatan ang inyong mga gamit laban sa mandurukot.<sep>Amblegan indong mga gamit sa mga takawan.
 Paalala: Huwag kalimutan ang inyong mga gamit bago bumaba.<sep>Ing papaelam: indi lipatan ang indong mga gamit bago mag paibaba.
 Huwag pong sumandal sa pinto ng van.<sep>Indi ag sandig sa portan ang sarakayan.
-Pakiabot po ng pamasahe, estudyante po.<sep>Patigayon iabot ang pamasahi, estudyante
-Ilang minuto pa bago dumating ang susunod na multicab?<sep>Pira ka minuto pa bago mag abot ang madason na multicab (sarakayan)?
+Pakiabot po ng pamasahe, estudyante po.<sep>Patigayon iabot ang pamasahi, estudyante.
+Ilang minuto pa bago dumating ang susunod na multicab?<sep>Pira ka minuto pa bago mag abot ang madason na multicab?
+Ilang minuto pa bago dumating ang susunod na multicab?<sep>Pira ka minuto pa bago mag abot ang madason na sarakayan?
 Pwede po bang pakibawasan ang volume ng cellphone?<sep>Pwede Paki bawasan ang baskeg ang tunog imong cellphone?
 Pasensya na po, matrapik sa daan ngayon.<sep>Pasensya po, matrapik sa dalan dadi.
 May biyahe pa po ba hanggang alas-diyes ng gabi?<sep>Mijan pa bang byahi tigka alas-gis ang gabi?
-Magandang Umaga!<sep>Mayad nga timprano!
-Magandang Tanghali!<sep>Mayad nga ogtong adlaw!
-Magandang Hapon!<sep>Mayad nga apon!
+Magandang umaga!<sep>Mayad nga timprano!
+Magandang tanghali!<sep>Mayad nga ogtong adlaw!
+Magandang hapon!<sep>Mayad nga apon!
+Paalam po!<sep>Adios!
+Pakipatay po ang TV.<sep>Paki sarado ang TV.
+Nasaan po ang sakayan ng jeep?<sep>Adin po ang sakayan ang Jep?

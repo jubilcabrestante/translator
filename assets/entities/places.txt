@@ -32,3 +32,7 @@ Philippines
 Amerika
 Japan
 China
+# Added 2026-11-23: already kept unchanged on both sides of existing rows.
+Osaka
+Burma
+Puerto
