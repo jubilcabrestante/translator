@@ -22,7 +22,8 @@ Two complementary sources, because your entries split in two:
 
 Both are openly licensed (Wiktionary is CC-BY-SA; OPUS licensing varies per
 corpus -- check the one you use before redistributing anything derived from it).
-The output file records which source each line came from.
+The output file is grouped into sections by source ('# ---- source: ... ----'),
+so a weak source can be reviewed or removed as a block.
 
 Usage:
     python scripts/mine_english.py --opus-dir path/to/opus --wiktionary tl.jsonl
@@ -40,7 +41,7 @@ import json
 import os
 import re
 
-from common import load_config
+from common import load_config, read_sep_file
 
 # Wiktionary glosses are definitions, not translation equivalents. Anything long
 # or parenthetical reads badly as a target sentence, so keep only short ones.
@@ -55,7 +56,13 @@ _JUNK = ("♪", "♫", "♩", "#", "[", "]", "<", ">", "_")
 def clean_candidate(text):
     """Reject or tidy one mined English string; return None to drop it."""
     text = text.strip().strip('"“”')
+    # Subtitle dialogue marks: '- ...all lies.' was mined for 'Ay mali!'.
+    text = re.sub(r"^(?:[-–—]+\s*|\.\.\.\s*|…\s*)+", "", text).strip().strip("'\"“”‘’")
     if not text or any(ch in text for ch in _JUNK):
+        return None
+    # Two speakers on one line ('Up there. - We need to.') or a line trailing
+    # off ('Just... tell me the truth.') is not a clean translation.
+    if " - " in text or "..." in text or "…" in text:
         return None
     # "forehead; brow" is a definition list. Keep the first sense only, so the
     # model learns one translation rather than a menu of them.
@@ -87,24 +94,20 @@ def read_target_terms(config, language="Tagalog"):
     for corpus in config["corpora"]:
         # Only the hand-built <sep> assets define what needs covering. The large
         # OPUS reference corpora are Moses directories and are not entries we owe
-        # a translation for -- they are the material we translate FROM.
-        if corpus.get("format", "sep") != "sep":
+        # a translation for -- they are the material we translate FROM. Synthetic
+        # corpora are machine-made on one side, so they are skipped too.
+        if corpus["format"] != "sep" or corpus["synthetic"]:
             continue
-        if language not in corpus["columns"] or not os.path.isfile(corpus["path"]):
+        if language not in corpus["columns"]:
             continue
         column = corpus["columns"].index(language)
-        with open(corpus["path"], "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line or "<sep>" not in line:
-                    continue
-                parts = line.split("<sep>")
-                if len(parts) != 2:
-                    continue
-                term = parts[column].strip()
-                if term and term.lower() not in seen:
-                    seen.add(term.lower())
-                    terms.append(term)
+        # read_sep_file skips '#' comment lines -- the generated English file's
+        # header used to come back as a "term" called '# Tagalog'.
+        for pair in read_sep_file(corpus["path"]):
+            term = pair[column]
+            if term.lower() not in seen:
+                seen.add(term.lower())
+                terms.append(term)
     return terms
 
 
@@ -239,12 +242,8 @@ def main():
 
     manual = {}
     if args.manual and os.path.exists(args.manual):
-        with open(args.manual, encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith("#") and "<sep>" in line:
-                    src, english = line.split("<sep>", 1)
-                    manual.setdefault(normalize(src), []).append(english.strip())
+        for src, english in read_sep_file(args.manual):
+            manual.setdefault(normalize(src), []).append(english)
         print(f"  hand-translated: {len(manual)} entries (these take priority)")
     elif args.manual:
         # Silently mining without it would overwrite hand-corrected entries with
@@ -304,17 +303,26 @@ def main():
     out_path = os.path.join(
         os.path.dirname(os.path.dirname(os.path.abspath(__file__))), args.out)
     os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+    # Group lines by where they came from, so a weak source (subtitles) can be
+    # reviewed or removed as a block. prepare_data.py skips the '#' headers.
+    by_source = collections.OrderedDict()
+    for term in terms:
+        for english, source in results.get(term, []):
+            by_source.setdefault(source, []).append(f"{term}<sep>{english}")
+    rank = {"manual": 0, "wiktionary": 1}
     written = 0
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write(f"# {args.source_lang}<sep>English -- assembled by "
+        f.write(f"# {args.source_lang} | English -- assembled by "
                 f"scripts/mine_english.py from open data.\n")
         f.write("# Sources: Wiktionary via kaikki.org (CC-BY-SA); OPUS parallel "
                 "corpora (per-corpus licences).\n")
-        f.write("# Not hand-checked. Single-word senses are the likeliest errors "
-                "-- fix any line and\n# re-run scripts/prepare_data.py.\n")
-        for term in terms:
-            for english, source in results.get(term, []):
-                f.write(f"{term}<sep>{english}\n")
+        f.write("# Not hand-checked. Put corrections in the --manual file, which always "
+                "wins,\n# then re-run this script and scripts/prepare_data.py.\n")
+        for source in sorted(by_source, key=lambda s: (rank.get(s, 2), s)):
+            label = source if source in rank else f"OPUS {source}"
+            f.write(f"\n# ---- source: {label} ({len(by_source[source])} lines) ----\n")
+            for line in by_source[source]:
+                f.write(line + "\n")
                 written += 1
     print(f"\nWrote {written} pairs -> {args.out}")
     print("Next: python scripts/prepare_data.py")
