@@ -1,0 +1,14 @@
+# FROZEN TEST SET -- Tagalog<sep>Cuyonon, one pair per line, same format as taga-cuyo.txt.
+#
+# This file is the yardstick for every future change, so:
+#   * Fill it ONCE with 300-500 sentences that a native Cuyonon speaker translated.
+#     Best source: real phrases people type into the app (the `translations` table,
+#     most-asked first -- scripts/sync_from_supabase.py lists them). Mostly sentences,
+#     few single words; mix questions, statements, requests, names and places.
+#   * NEVER copy these rows into taga-cuyo.txt or any training file, and never edit
+#     them after the first evaluation -- otherwise scores stop being comparable.
+#     prepare_data.py keeps anything overlapping this file out of training.
+#   * Two valid translations of one sentence? Put each on its own line.
+#
+# While this file has no rows, evaluate.py scores the (stable) validation split.
+# Lines starting with # are comments.
