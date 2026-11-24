@@ -61,7 +61,8 @@ translator/
 │   ├── train.py               # QLoRA fine-tune -> outputs/translator-lora/ (needs an NVIDIA GPU)
 │   ├── evaluate.py            # chrF/BLEU with confidence intervals + speaker review sheet
 │   ├── translate.py           # translate text (GPU, or CPU when there is none)
-│   ├── serve.py               # HTTP server the LearnVoca app calls
+│   ├── serve.py               # HTTP server the Learnut app calls
+│   ├── start_translator.ps1   # run by start-translator.cmd: Ollama + serve.py + tunnel + Supabase switch
 │   ├── export_model.py        # merge the adapter -> standalone model -> GGUF for CPU hosting
 │   ├── back_translate.py      # monolingual Cuyonon -> synthetic training pairs
 │   ├── sync_from_supabase.py  # pulls real app phrases back for review
@@ -70,6 +71,7 @@ translator/
 │   └── import_csv_corpus.py   # Hugging Face style CSV -> Moses folder
 ├── notebooks/train_colab.ipynb
 ├── train_all.ps1              # ONE command: check -> prepare -> train -> evaluate
+├── start-translator.cmd       # double-click: run the translator on this PC for Learnut
 ├── languages.json             # languages, corpora, limits, test set
 └── requirements.txt
 ```
@@ -166,9 +168,9 @@ are only spelling; with this little data, every split spelling costs accuracy.
 
 - **Translate what users actually ask.** `sync_from_supabase.py` lists the most
   requested phrases. Have the speaker translate the top ones from scratch.
-- **Add a "suggest a better translation" button** in LearnVoca. Corrections from
+- **Add a "suggest a better translation" button** in Learnut. Corrections from
   speakers are verified data that keeps growing (an app change, in the
-  `learn_voca` repo).
+  `learnut` repo).
 - **The New Testament.** A Cuyonon New Testament exists (1982; the Philippine
   Bible Society launched a revised one, *Matinlong Barita Biblia: Bagong Tipan*,
   in March 2023). It is not freely online, so ask the Bible Society for the text
@@ -303,9 +305,9 @@ Put corrections in `assets/taga-eng-manual.txt`, which always wins when
 *Zumba at night.*, "Tumigil ka!" → *Shut up!*), 4 changed a name or place, ~30
 needed polish; the corrections are in a marked section of the manual file.
 
-⚠️ Your Supabase `translations` table has a CHECK constraint allowing only `tl`
-and `cyo`. Widen it before serving a third code, or `record_translation()` will
-reject every row it caches. `GET /health` lists the codes the server accepts.
+⚠️ Learnut sends the language **name** (`Tagalog`, `Cuyonon`), so don't rename a
+language in `languages.json`. A third language also needs an app change before
+users can pick it. `serve.py` accepts the name or the code; `GET /health` lists them.
 
 ---
 
@@ -350,67 +352,163 @@ the meaning survives: `Sa susunod na Linggo.` (next Sunday) and
 
 ---
 
-## Wiring this into the LearnVoca app (Flutter + Supabase)
+## Wiring this into the Learnut app (Kotlin Multiplatform + Supabase)
 
-**The Supabase side already exists.** `learn_voca`'s `TranslationRepository`
-does cache → dictionary → remote service, with cache write-back, via
-`public.translations`, `lookup_translation()`, `record_translation()`, and
-`app_config.translator` (migration `20260101000400_engagement.sql`).
+**Supabase does not run the model, and doesn't need to.** The app talks to two
+places: Supabase (accounts, lessons, settings, the translation log) and this
+translator server, whose URL it reads from Supabase. The translator Learnut
+uses today already runs outside Supabase, on Google Cloud Run.
 
-**Tier 3 is `scripts/serve.py`**: `POST {baseUrl}/translate` with
-`{sentence, source_lang, target_lang}` (`"tl"`/`"cyo"`), returning
-`{translated_sentence}`.
+How Learnut calls it (learnut repo, `TranslationRepository.translate` in
+`shared/src/commonMain/kotlin/com/app/tagacuyo/core/data/OtherRepositories.kt`):
+
+1. On every launch and resume it reads table `app_config`, key `app_translator`.
+   Its `get_api_translator` field is this server's base URL.
+   `api_translator_enabled: false` makes the app show "service unavailable"
+   instead of calling it. `translation_string_length` caps the input (30
+   characters).
+2. It sends `POST {get_api_translator}/translate` with
+   `{"sentence": "...", "source_lang": "Tagalog", "target_lang": "Cuyonon", "translated": null}`.
+   It adds a `.` when the input has no end punctuation, reads
+   `translated_sentence`, and gives up after **30 seconds**.
+3. It inserts every answer into `public.translations` (`sentence`,
+   `source_lang`, `target_lang`, `translated`, `user_id`). There is no cache:
+   every translation reaches the server.
+
+`scripts/serve.py` implements exactly this contract. It accepts language names
+or codes and ignores the extra field.
+
+⚠️ **Learnut sends no API key.** Leave `TRANSLATOR_API_KEY` unset for the app,
+or every request fails with "Unauthorized". Until the app sends one, anyone who
+finds the URL can use the server. Set `MAX_INPUT_CHARS` a little above
+`translation_string_length` (e.g. `64`), and cap the host's scaling or spending.
+
+### Running it
+
+Locally, for testing. This loads the adapter with transformers, on a GPU if
+there is one, otherwise slowly on the CPU:
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/serve.py           # loads the model once, listens on :8000
 ```
 
-Before exposing it (e.g. `cloudflared tunnel --url http://localhost:8000` for a
-real device), set **`TRANSLATOR_API_KEY`**: the server then requires the header
-`X-API-Key: <key>`, and the app must send it. Without it, anyone with the tunnel
-URL can use your GPU. `MAX_INPUT_CHARS` (default 500) caps input length.
+On a server, run the exported model with Ollama, and put `serve.py` in
+**backend mode** in front of it. Backend mode needs only `fastapi` and
+`uvicorn`, no torch:
 
-**For an always-on `baseUrl`**, the cheapest route is a small CPU server:
+1. Run Colab step 10 (or `python scripts/export_model.py` plus the llama.cpp
+   commands it prints). It produces `translator-q8_0.gguf` (~1.6 GB) and an
+   Ollama `Modelfile`.
+2. On the server: `ollama create translator -f Modelfile`, then
+   `TRANSLATOR_BACKEND_URL=http://localhost:11434/v1 TRANSLATOR_BACKEND_MODEL=translator MAX_INPUT_CHARS=64 python scripts/serve.py`.
+3. Put HTTPS in front of port 8000 (Caddy, or a Cloudflare tunnel) and check
+   `GET /health`.
 
-1. `python scripts/export_model.py` — merges the adapter into a standalone model
-   and writes an Ollama `Modelfile`.
-2. Convert to GGUF with llama.cpp (the script prints the exact commands; `q8_0`
-   needs no compiling) and `ollama create translator -f Modelfile`.
-3. Run `serve.py` in **backend mode** in front of it:
-   `TRANSLATOR_BACKEND_URL=http://localhost:11434/v1 TRANSLATOR_BACKEND_MODEL=translator`.
-   Same HTTP contract, no torch on the server.
+Cloud Run runs containers, so it needs an image holding both Ollama and
+`serve.py`. This repo doesn't include one yet.
 
-A serverless GPU host (Modal, Replicate, HF Inference Endpoints) is the
-pay-per-call alternative.
+### One click on a Windows PC: `start-translator.cmd`
+
+Put the trained `translator-lora.zip` in your Downloads folder, then
+double-click `start-translator.cmd` in the project folder. Keep its window open,
+and press **Ctrl+C** to stop.
+
+- **First run** (15–30 minutes). It installs what's missing (Python 3.12, Ollama
+  and cloudflared), with no administrator rights needed. It then merges the
+  adapter, converts it to a q8_0 GGUF and loads that into Ollama.
+- **Every run.** It starts `serve.py` in backend mode on `127.0.0.1:8000` and
+  opens a Cloudflare quick tunnel, which gives a public
+  `https://….trycloudflare.com` URL. It also keeps Windows from sleeping while
+  it runs. Closing the lid still sleeps unless the lid action is set to *Do
+  nothing*.
+- **Learnut.** The first run asks whether to point Learnut at this PC. If you
+  say yes, it asks for the Supabase secret key once and stores it encrypted for
+  your Windows user only. From then on, every run writes the new tunnel URL
+  into `app_config` → `app_translator` → `get_api_translator`, and Ctrl+C
+  switches it back to the translator Learnut used before. That row is global:
+  it switches every Learnut user, testers included.
+- **New model.** Download a newer `translator-lora.zip` and run it again. The
+  script notices the new zip and rebuilds by itself. `-Rebuild` forces a
+  rebuild.
+
+- **Starting with Windows.** Put a shortcut to `start-translator.cmd` in the
+  Startup folder (press Win+R and type `shell:startup`), or run
+  `powershell -ExecutionPolicy Bypass -File scripts\start_translator.ps1 -AddToStartup`.
+  It then starts minimized each time you sign in. If the internet isn't up
+  yet, it keeps retrying every 15 seconds, and it does the same after sleep.
+  It only runs while you're signed in, so after a restart, sign in again.
+- **"Supabase refused the key (401)".** The key is wrong or incomplete. Copy
+  the Learnut project's `sb_secret_…` key after revealing it. Supabase also
+  refuses secret keys from browsers, and decides that by User-Agent, so the
+  script sends its own User-Agent (Windows PowerShell's default starts with
+  `Mozilla/5.0`).
+
+Logs are written to `outputs\server\`. To be asked the Supabase question again,
+delete `%LOCALAPPDATA%\translator-server\settings.json`.
+
+### Where to host it (free options, checked November 2026)
+
+| Host | Free allowance | Catch |
+|---|---|---|
+| **Google Cloud Run** (where the current translator runs) | a monthly free tier per billing account: very roughly ten thousand translations a month at 2 vCPU / 4 GiB | Scales to zero, so the first request after a quiet spell can take longer than the app's 30 s timeout. Needs billing enabled, so set a max instance count and a budget alert. |
+| **Oracle Cloud Always Free** | an always-on ARM VM with 2 cores and 12 GB RAM (cut from 4 cores and 24 GB in June 2026) | Signup needs a card. Oracle may reclaim an instance whose CPU, network and memory all stay under 20% for 7 days. |
+| **Your own PC + `cloudflared tunnel --url http://localhost:8000`** | free | Works only while the PC is on, and the quick-tunnel URL changes on every restart. |
+
+Not free any more: Hugging Face Docker Spaces have needed a PRO plan ($9/month)
+since mid-2026. Supabase itself can't host the model either. Edge Functions
+get about 256 MB of memory and 2 s of CPU per request, and Storage's free plan
+caps files at 50 MB.
+
+### Pointing the app at a new server
+
+Test the server first:
+
+```bash
+curl -X POST https://YOUR-SERVER/translate -H "Content-Type: application/json" \
+  -d '{"sentence": "Saan ka pupunta?", "source_lang": "Tagalog", "target_lang": "Cuyonon"}'
+```
+
+Then, in the Supabase SQL editor, switch the URL. This changes it for **every**
+user on their next launch or resume, with no app release needed:
+
+```sql
+-- note the current URL first, so you can switch back
+select value->>'get_api_translator' from public.app_config where key = 'app_translator';
+
+update public.app_config
+set value = jsonb_set(value, '{get_api_translator}', to_jsonb('https://YOUR-SERVER'::text))
+where key = 'app_translator';
+```
 
 ### The retrain loop — "add new data, will it update?"
 
-Yes. Every time Tier 3 answers a phrase the cache didn't have,
-`record_translation()` saves it to `public.translations`.
+Yes. Learnut logs every translation in `public.translations`.
 
 ```
-app usage → new phrase → serve.py answers → record_translation() caches it
-                                                      │
-                                    scripts/sync_from_supabase.py  (pulls it back)
-                                                      ▼
-                                       data/review_new_pairs.txt  (a speaker checks it)
-                                                      ▼
-                         merge good lines into the file named in each section header
-                                                      ▼
-                         lint_data.py → .\train_all.ps1 → restart serve.py
+app usage → serve.py answers → Learnut logs it in public.translations
+                                              │
+                    scripts/sync_from_supabase.py  (pulls it back, counts repeats)
+                                              ▼
+                         data/review_new_pairs.txt  (a speaker checks it)
+                                              ▼
+            merge good lines into the file named in each section header
+                                              ▼
+       lint_data.py → retrain (Colab) → export → replace the model on the server
 ```
 
 ```powershell
 $env:SUPABASE_URL = "https://xxxx.supabase.co"
-$env:SUPABASE_SERVICE_ROLE_KEY = "..."   # Project Settings -> API. NEVER put this in the Flutter app.
+$env:SUPABASE_SERVICE_ROLE_KEY = "..."   # Project Settings -> API. NEVER put this in the app.
 .\.venv\Scripts\python.exe scripts/sync_from_supabase.py
 ```
 
-Rows are grouped by the corpus file they belong to (any language pair in
+Each phrase's `hits` is how many times it was asked. By default only phrases
+asked at least twice are kept; use `--min-hits 1` for all of them. Rows are
+grouped by the corpus file they belong to (any language pair in
 `languages.json`), and anything already in your corpora or the test set is
 skipped.
 
-**Why review instead of auto-merging:** a cached row is the *model's own*
+**Why review instead of auto-merging:** a logged row is the *model's own*
 output. Feeding it back as "ground truth" teaches the model to be more
 confidently wrong (self-training drift). Better still: use the list to see which
 phrases people ask most, and have a speaker translate those from scratch.

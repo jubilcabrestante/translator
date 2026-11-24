@@ -48,7 +48,9 @@ def load_config(path=None):
     """Read languages.json and return it with a few conveniences filled in.
 
     Adds:
-      code_to_name / name_to_code -- for the HTTP layer, which speaks codes
+      code_to_name / name_to_code -- code <-> prompt name
+      language_lookup             -- lowercased code OR name -> name; use
+                                     resolve_language() rather than reading it
       language_names              -- declaration order, used for stable output
     and, for every entry in `corpora` and `test`:
       path        -- resolved against the repo root, so scripts work no matter
@@ -71,6 +73,12 @@ def load_config(path=None):
     config["code_to_name"] = {lang["code"]: lang["name"] for lang in languages}
     config["name_to_code"] = {lang["name"]: lang["code"] for lang in languages}
     config["language_names"] = [lang["name"] for lang in languages]
+    # What the HTTP API and the Supabase log accept for a language: its code or
+    # its name, in any case. Learnut sends the name ("Tagalog", "Cuyonon").
+    config["language_lookup"] = {}
+    for lang in languages:
+        config["language_lookup"][lang["code"].lower()] = lang["name"]
+        config["language_lookup"][lang["name"].lower()] = lang["name"]
 
     known = set(config["language_names"])
     config.setdefault("corpora", [])
@@ -104,6 +112,14 @@ def load_config(path=None):
         config["entity_path"] = os.path.join(_REPO_ROOT, config["entity_dir"])
 
     return config
+
+
+def resolve_language(config, value):
+    """The prompt name for a code or name from the app ('cyo', 'Cuyonon',
+    'cuyonon' -> 'Cuyonon'), or None when it is not a configured language."""
+    if not isinstance(value, str):
+        return None
+    return config["language_lookup"].get(value.strip().lower())
 
 
 def read_sep_file(path):

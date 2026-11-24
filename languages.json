@@ -5,8 +5,9 @@
     "language is a config change plus a data file -- no code edits.",
     "",
     "To add a language:",
-    "  1. Add it to `languages` (code = what the HTTP API and your app send;",
-    "     name = what appears in the prompt the model is trained on).",
+    "  1. Add it to `languages` (name = what appears in the prompt the model",
+    "     is trained on, AND what the Learnut app sends to serve.py; code = a",
+    "     short alias serve.py also accepts).",
     "  2. Add a corpus below naming its two columns.",
     "  3. Re-run prepare_data.py and retrain.",
     "",
@@ -48,9 +49,9 @@
     "prompts whose Tagalog side appears machine-translated -- general fluency,",
     "a poor match for short conversational phrases -- hence the small limit.",
     "",
-    "NOTE: serve.py validates `code` against this file, but your Supabase",
-    "`translations` table has its own CHECK constraint that currently allows",
-    "only 'tl' and 'cyo'. Widen it before sending a new code to production."
+    "NOTE: Learnut sends the language NAME ('Tagalog', 'Cuyonon'), so",
+    "renaming a language here breaks the app until the app changes too.",
+    "serve.py accepts the name or the code, in any case."
   ],
 
   "languages": [

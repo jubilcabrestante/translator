@@ -1,16 +1,20 @@
 """
 serve.py
 --------
-HTTP server exposing the translator at the exact contract LearnVoca's
-TranslationRepository already calls (see learn_voca/lib/features/translator/data/
-translation_repository.dart, `_callService`):
+HTTP server exposing the translator at the exact contract the Learnut app
+already calls (learnut repo: shared/src/commonMain/kotlin/com/app/tagacuyo/
+core/data/OtherRepositories.kt, `TranslationRepository.translate`):
 
     POST /translate
-    body:     {"sentence": "...", "source_lang": <code>, "target_lang": <code>}
+    body:     {"sentence": "...", "source_lang": "Tagalog", "target_lang": "Cuyonon"}
     response: {"translated_sentence": "..."}
 
-Valid codes are whatever `languages.json` defines (GET /health lists them).
-This is Tier 3 in the app's lookup chain (cache -> dictionary -> this service).
+source_lang/target_lang may be a language's name (what Learnut sends) or its
+code ("tl", "cyo"), in any case; both come from `languages.json` (GET /health
+lists them). Extra body fields (Learnut also sends "translated": null) are
+ignored. The app reads this server's URL from Supabase: table app_config, key
+'app_translator', field 'get_api_translator'. It then logs every answer into
+public.translations itself; this server never talks to Supabase.
 
 Two ways to run the model behind it:
 
@@ -28,15 +32,22 @@ Environment variables:
   TRANSLATOR_BACKEND_MODEL    the model name the backend knows (default "translator")
   TRANSLATOR_API_KEY          if set, /translate requires the header
                               `X-API-Key: <key>` (or `Authorization: Bearer <key>`).
-                              Set it before exposing the server through a
-                              tunnel -- and make the app send the same header.
-  MAX_INPUT_CHARS             longest sentence accepted (default 500)
+                              Learnut does NOT send one yet: setting this makes
+                              every request from the app fail with
+                              "Unauthorized". Only set it once the app sends it.
+  MAX_INPUT_CHARS             longest sentence accepted (default 500; Learnut
+                              caps input at app_translator.translation_string_length)
+  TRANSLATOR_DOCS             "1" turns on FastAPI's /docs, /redoc and /openapi.json
+                              pages. They're off by default because this server is
+                              public, and Learnut needs only /translate and /health.
 
 Run locally:
     .\\.venv\\Scripts\\python.exe scripts/serve.py
     # then, for a real device during development, tunnel it:
     #   cloudflared tunnel --url http://localhost:8000
-    # and put the https://*.trycloudflare.com URL into app_config.translator.base_url
+    # and put the https://*.trycloudflare.com URL into Supabase:
+    #   app_config -> app_translator -> get_api_translator  (see the README)
+    # That setting is global: it switches EVERY user's app to your machine.
 
 The model loads ONCE at startup (not per-request) -- reloading a 1.5B model on
 every call would make each translation take as long as this whole server's boot.
@@ -55,14 +66,11 @@ import uvicorn
 from fastapi import FastAPI, Header, HTTPException
 from pydantic import BaseModel
 
-from common import build_messages, load_config
+from common import build_messages, load_config, resolve_language
 
-# Language codes come from languages.json, so adding a language does not require
-# touching this file.
-#
-# HEADS UP: your Supabase `translations` table has its own CHECK constraint that
-# allows only 'tl' and 'cyo'. Widen it before serving a third code, or
-# record_translation() will reject every row it tries to cache.
+# Languages come from languages.json, so adding a language does not require
+# touching this file. Learnut sends the language NAME, so renaming one in
+# languages.json breaks the app until the app is updated too.
 _CONFIG = load_config()
 _CODE_TO_LANG = dict(_CONFIG["code_to_name"])
 _BACKEND_URL = os.environ.get("TRANSLATOR_BACKEND_URL", "").rstrip("/")
@@ -70,7 +78,13 @@ _BACKEND_MODEL = os.environ.get("TRANSLATOR_BACKEND_MODEL", "translator")
 _API_KEY = os.environ.get("TRANSLATOR_API_KEY", "")
 _MAX_CHARS = int(os.environ.get("MAX_INPUT_CHARS", "500"))
 
-app = FastAPI(title=" <-> ".join(_CONFIG["language_names"]) + " Translator")
+_DOCS = os.environ.get("TRANSLATOR_DOCS") == "1"
+app = FastAPI(
+    title=" <-> ".join(_CONFIG["language_names"]) + " Translator",
+    docs_url="/docs" if _DOCS else None,
+    redoc_url="/redoc" if _DOCS else None,
+    openapi_url="/openapi.json" if _DOCS else None,
+)
 _state = {"model": None, "tokenizer": None, "translate": None}
 # One generate() at a time. FastAPI runs this sync endpoint on a thread pool,
 # and parallel calls on one model only compete for the same GPU memory.
@@ -91,7 +105,7 @@ class TranslateResponse(BaseModel):
 def _load_model():
     if not _API_KEY:
         print("NOTE: TRANSLATOR_API_KEY is not set, so anyone who can reach this port "
-              "can use it. Set it before exposing the server through a tunnel.")
+              "can use it. (Learnut sends no key yet, so leave it unset for the app.)")
     if _BACKEND_URL:
         print(f"Backend mode: forwarding to {_BACKEND_URL} (model '{_BACKEND_MODEL}').")
         return
@@ -160,10 +174,10 @@ def do_translate(req: TranslateRequest,
         raise HTTPException(status_code=413,
                             detail=f"sentence is longer than {_MAX_CHARS} characters")
 
-    src_lang = _CODE_TO_LANG.get(req.source_lang)
-    tgt_lang = _CODE_TO_LANG.get(req.target_lang)
+    src_lang = resolve_language(_CONFIG, req.source_lang)
+    tgt_lang = resolve_language(_CONFIG, req.target_lang)
     if src_lang is None or tgt_lang is None:
-        valid = "', '".join(sorted(_CODE_TO_LANG))
+        valid = "', '".join(sorted(_CODE_TO_LANG) + list(_CONFIG["language_names"]))
         raise HTTPException(
             status_code=400,
             detail=f"source_lang/target_lang must be one of '{valid}'",
